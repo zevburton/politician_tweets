@@ -1,537 +1,537 @@
-"","First.Name","Last.Name","State","Party","Score","Congress.Group","Density"
-"1","Susan","Collins","ME","R",4.58409,"Senate","*ZEV FILL IN*"
-"2","Lisa","Murkowski","AK","R",3.17341,"Senate","*ZEV FILL IN*"
-"3","Rob","Portman","OH","R",2.81887,"Senate","*ZEV FILL IN*"
-"4","Cory","Gardner","CO","R",2.65591,"Senate","*ZEV FILL IN*"
-"5","Kyrsten","Sinema","AZ","D",2.42747,"Senate","*ZEV FILL IN*"
-"6","Shelley","Moore Capito","WV","R",2.23815,"Senate","*ZEV FILL IN*"
-"7","Maggie","Hassan","NH","D",1.94482,"Senate","*ZEV FILL IN*"
-"8","Todd","Young","IN","R",1.92724,"Senate","*ZEV FILL IN*"
-"9","Martha","McSally","AZ","R",1.83145,"Senate","*ZEV FILL IN*"
-"10","Bill","Cassidy","LA","R",1.82578,"Senate","*ZEV FILL IN*"
-"11","Jerry","Moran","KS","R",1.78611,"Senate","*ZEV FILL IN*"
-"12","John","Cornyn","TX","R",1.75472,"Senate","*ZEV FILL IN*"
-"13","Marco","Rubio","FL","R",1.74223,"Senate","*ZEV FILL IN*"
-"14","Roger","Wicker","MS","R",1.7134,"Senate","*ZEV FILL IN*"
-"15","Gary","Peters","MI","D",1.62309,"Senate","*ZEV FILL IN*"
-"16","Dan","Sullivan","AK","R",1.62283,"Senate","*ZEV FILL IN*"
-"17","Jon","Tester","MT","D",1.58348,"Senate","*ZEV FILL IN*"
-"18","Chris","Coons","DE","D",1.57316,"Senate","*ZEV FILL IN*"
-"19","Chuck","Grassley","IA","R",1.52958,"Senate","*ZEV FILL IN*"
-"20","John","Boozman","AR","R",1.51178,"Senate","*ZEV FILL IN*"
-"21","Kevin","Cramer","ND","R",1.40017,"Senate","*ZEV FILL IN*"
-"22","Steve","Daines","MT","R",1.35493,"Senate","*ZEV FILL IN*"
-"23","Amy","Klobuchar","MN","D",1.20981,"Senate","*ZEV FILL IN*"
-"24","Doug","Jones","AL","D",1.15808,"Senate","*ZEV FILL IN*"
-"25","Jacky","Rosen","NV","D",1.14432,"Senate","*ZEV FILL IN*"
-"26","Joe","Manchin","WV","D",1.12798,"Senate","*ZEV FILL IN*"
-"27","Roy","Blunt","MO","R",1.07934,"Senate","*ZEV FILL IN*"
-"28","Tim","Scott","SC","R",1.04325,"Senate","*ZEV FILL IN*"
-"29","Richard","Burr","NC","R",0.99633,"Senate","*ZEV FILL IN*"
-"30","John","Hoeven","ND","R",0.95947,"Senate","*ZEV FILL IN*"
-"31","Thom","Tillis","NC","R",0.95733,"Senate","*ZEV FILL IN*"
-"32","Jeanne","Shaheen","NH","D",0.93783,"Senate","*ZEV FILL IN*"
-"33","Joni","Ernst","IA","R",0.87397,"Senate","*ZEV FILL IN*"
-"34","Mike","Crapo","ID","R",0.84921,"Senate","*ZEV FILL IN*"
-"35","Lindsey","Graham","SC","R",0.76101,"Senate","*ZEV FILL IN*"
-"36","Johnny","Isakson","GA","R",0.68683,"Senate","*ZEV FILL IN*"
-"37","Angus","King","ME","D",0.67431,"Senate","*ZEV FILL IN*"
-"38","Mark","Warner","VA","D",0.61617,"Senate","*ZEV FILL IN*"
-"39","Charles","Roberts","KS","R",0.59892,"Senate","*ZEV FILL IN*"
-"40","Mike","Rounds","SD","R",0.58314,"Senate","*ZEV FILL IN*"
-"41","Tammy","Baldwin","WI","D",0.50641,"Senate","*ZEV FILL IN*"
-"42","Tina","Smith","MN","D",0.50318,"Senate","*ZEV FILL IN*"
-"43","Pat","Toomey","PA","R",0.48029,"Senate","*ZEV FILL IN*"
-"44","Michael","Bennet","CO","D",0.47966,"Senate","*ZEV FILL IN*"
-"45","Bob","Menendez","NJ","D",0.46323,"Senate","*ZEV FILL IN*"
-"46","John","Thune","SD","R",0.42951,"Senate","*ZEV FILL IN*"
-"47","John","Barrasso","WY","R",0.42064,"Senate","*ZEV FILL IN*"
-"48","James","Lankford","OK","R",0.40495,"Senate","*ZEV FILL IN*"
-"49","Ben","Cardin","MD","D",0.40041,"Senate","*ZEV FILL IN*"
-"50","Catherine","Cortez Masto","NV","D",0.39273,"Senate","*ZEV FILL IN*"
-"51","Bob","Casey","PA","D",0.3595,"Senate","*ZEV FILL IN*"
-"52","Lamar","Alexander","TN","R",0.3274,"Senate","*ZEV FILL IN*"
-"53","John Neely","Kennedy","LA","R",0.27984,"Senate","*ZEV FILL IN*"
-"54","Sherrod","Brown","OH","D",0.27911,"Senate","*ZEV FILL IN*"
-"55","Deb","Fischer","NE","R",0.27574,"Senate","*ZEV FILL IN*"
-"56","Jim","Risch","ID","R",0.26547,"Senate","*ZEV FILL IN*"
-"57","Marsha","Blackburn","TN","R",0.24786,"Senate","*ZEV FILL IN*"
-"58","Debbie","Stabenow","MI","D",0.19326,"Senate","*ZEV FILL IN*"
-"59","Mike","Braun","IN","R",0.18492,"Senate","*ZEV FILL IN*"
-"60","Ron","Johnson","WI","R",0.16688,"Senate","*ZEV FILL IN*"
-"61","Mitt","Romney","UT","R",0.14243,"Senate","*ZEV FILL IN*"
-"62","Tom","Carper","DE","D",0.06458,"Senate","*ZEV FILL IN*"
-"63","Maria","Cantwell","WA","D",0.00993,"Senate","*ZEV FILL IN*"
-"64","Jim","Inhofe","OK","R",-0.02392,"Senate","*ZEV FILL IN*"
-"65","Cindy","Hyde-Smith","MS","R",-0.0256,"Senate","*ZEV FILL IN*"
-"66","David","Perdue","GA","R",-0.0418,"Senate","*ZEV FILL IN*"
-"67","Dianne","Feinstein","CA","D",-0.061,"Senate","*ZEV FILL IN*"
-"68","Chris","Van Hollen","MD","D",-0.07502,"Senate","*ZEV FILL IN*"
-"69","Kirsten","Gillibrand","NY","D",-0.10141,"Senate","*ZEV FILL IN*"
-"70","Brian","Schatz","HI","D",-0.11555,"Senate","*ZEV FILL IN*"
-"71","Elizabeth","Warren","MA","D",-0.13038,"Senate","*ZEV FILL IN*"
-"72","Martin","Heinrich","NM","D",-0.13568,"Senate","*ZEV FILL IN*"
-"73","Ed","Markey","MA","D",-0.14534,"Senate","*ZEV FILL IN*"
-"74","Tammy","Duckworth","IL","D",-0.16112,"Senate","*ZEV FILL IN*"
-"75","Ron","Wyden","OR","D",-0.17821,"Senate","*ZEV FILL IN*"
-"76","Richard","Blumenthal","CT","D",-0.19497,"Senate","*ZEV FILL IN*"
-"77","Patrick","Leahy","VT","D",-0.20541,"Senate","*ZEV FILL IN*"
-"78","Sheldon","Whitehouse","RI","D",-0.21238,"Senate","*ZEV FILL IN*"
-"79","Tom","Cotton","AR","R",-0.24526,"Senate","*ZEV FILL IN*"
-"80","Dick","Durbin","IL","D",-0.27855,"Senate","*ZEV FILL IN*"
-"81","Rand","Paul","KY","R",-0.28881,"Senate","*ZEV FILL IN*"
-"82","Josh","Hawley","MO","R",-0.29032,"Senate","*ZEV FILL IN*"
-"83","Mike","Lee","UT","R",-0.34082,"Senate","*ZEV FILL IN*"
-"84","Tim","Kaine","VA","D",-0.36628,"Senate","*ZEV FILL IN*"
-"85","Mike","Enzi","WY","R",-0.44405,"Senate","*ZEV FILL IN*"
-"86","Rick","Scott","FL","R",-0.44777,"Senate","*ZEV FILL IN*"
-"87","Jeff","Merkley","OR","D",-0.47978,"Senate","*ZEV FILL IN*"
-"88","Jack","Reed","RI","D",-0.51223,"Senate","*ZEV FILL IN*"
-"89","Ted","Cruz","TX","R",-0.53971,"Senate","*ZEV FILL IN*"
-"90","Cory","Booker","NJ","D",-0.61229,"Senate","*ZEV FILL IN*"
-"91","Tom","Udall","NM","D",-0.65696,"Senate","*ZEV FILL IN*"
-"92","Chris","Murphy","CT","D",-0.74095,"Senate","*ZEV FILL IN*"
-"93","Ben","Sasse","NE","R",-0.80295,"Senate","*ZEV FILL IN*"
-"94","Kamala","Harris","CA","D",-0.92915,"Senate","*ZEV FILL IN*"
-"95","Mazie","Hirono","HI","D",-0.95739,"Senate","*ZEV FILL IN*"
-"96","Patty","Murray","WA","D",-1.00766,"Senate","*ZEV FILL IN*"
-"97","Kelly","Loeffler","GA","R",-1.09946,"Senate","*ZEV FILL IN*"
-"98","Richard","Shelby","AL","R",-1.19357,"Senate","*ZEV FILL IN*"
-"99","Bernie","Sanders","VT","D",-1.66974,"Senate","*ZEV FILL IN*"
-"100","Brian","Fitzpatrick","PA","R",6.83932,"House","*ZEV FILL IN*"
-"101","John","Katko","NY","R",4.25232,"House","*ZEV FILL IN*"
-"102","Josh","Gottheimer","NJ","D",3.64695,"House","*ZEV FILL IN*"
-"103","Peter","King","NY","R",3.348,"House","*ZEV FILL IN*"
-"104","Chris","Smith","NJ","R",2.94641,"House","*ZEV FILL IN*"
-"105","Don","Young","AK","R",2.8809,"House","*ZEV FILL IN*"
-"106","Ron","Kind","WI","D",2.84213,"House","*ZEV FILL IN*"
-"107","Collin","Peterson","MN","D",2.51264,"House","*ZEV FILL IN*"
-"108","Abigail","Spanberger","VA","D",2.30736,"House","*ZEV FILL IN*"
-"109","David","McKinley","WV","R",2.29043,"House","*ZEV FILL IN*"
-"110","Jenniffer","González","PR","R",2.0737,"House","*ZEV FILL IN*"
-"111","Dean","Phillips","MN","D",2.02728,"House","*ZEV FILL IN*"
-"112","Elise","Stefanik","NY","R",1.86284,"House","*ZEV FILL IN*"
-"113","Rodney","Davis","IL","R",1.85946,"House","*ZEV FILL IN*"
-"114","Don","Bacon","NE","R",1.82881,"House","*ZEV FILL IN*"
-"115","Henry","Cuellar","TX","D",1.77832,"House","*ZEV FILL IN*"
-"116","Joe","Cunningham","SC","D",1.76579,"House","*ZEV FILL IN*"
-"117","Anthony","Brindisi","NY","D",1.74901,"House","*ZEV FILL IN*"
-"118","Lee","Zeldin","NY","R",1.71579,"House","*ZEV FILL IN*"
-"119","Tom","O'halleran","AZ","D",1.63282,"House","*ZEV FILL IN*"
-"120","Steve","Stivers","OH","R",1.60116,"House","*ZEV FILL IN*"
-"121","Van","Taylor","TX","R",1.56865,"House","*ZEV FILL IN*"
-"122","Michael","McCaul","TX","R",1.5027,"House","*ZEV FILL IN*"
-"123","Antonio","Delgado","NY","D",1.50087,"House","*ZEV FILL IN*"
-"124","Tom","Cole","OK","R",1.49861,"House","*ZEV FILL IN*"
-"125","Derek","Kilmer","WA","D",1.49799,"House","*ZEV FILL IN*"
-"126","Gus","Bilirakis","FL","R",1.49257,"House","*ZEV FILL IN*"
-"127","Jimmy","Panetta","CA","D",1.45102,"House","*ZEV FILL IN*"
-"128","Matt","Cartwright","PA","D",1.44156,"House","*ZEV FILL IN*"
-"129","Tom","Reed","NY","R",1.43964,"House","*ZEV FILL IN*"
-"130","Darren","Soto","FL","D",1.41872,"House","*ZEV FILL IN*"
-"131","Elaine","Luria","VA","D",1.41624,"House","*ZEV FILL IN*"
-"132","Kathleen","Rice","NY","D",1.41391,"House","*ZEV FILL IN*"
-"133","Peter","Welch","VT","D",1.39486,"House","*ZEV FILL IN*"
-"134","Cathy","McMorris Rodgers","WA","R",1.37557,"House","*ZEV FILL IN*"
-"135","Adam","Kinzinger","IL","R",1.35736,"House","*ZEV FILL IN*"
-"136","Mike","Thompson","CA","D",1.30854,"House","*ZEV FILL IN*"
-"137","Ann McLane","Kuster","NH","D",1.30242,"House","*ZEV FILL IN*"
-"138","Anthony","Gonzalez","OH","R",1.29965,"House","*ZEV FILL IN*"
-"139","Ben","Mcadams","UT","D",1.27925,"House","*ZEV FILL IN*"
-"140","Joe","Neguse","CO","D",1.2638,"House","*ZEV FILL IN*"
-"141","Tim","Ryan","OH","D",1.21726,"House","*ZEV FILL IN*"
-"142","John","Rutherford","FL","R",1.20303,"House","*ZEV FILL IN*"
-"143","David","Joyce","OH","R",1.19926,"House","*ZEV FILL IN*"
-"144","Conor","Lamb","PA","D",1.19867,"House","*ZEV FILL IN*"
-"145","Will","Hurd","TX","R",1.1655,"House","*ZEV FILL IN*"
-"146","Amata","Radewagen","AS","R",1.16396,"House","*ZEV FILL IN*"
-"147","Susan","Brooks","IN","R",1.14,"House","*ZEV FILL IN*"
-"148","David","Trone","MD","D",1.1325,"House","*ZEV FILL IN*"
-"149","Cindy","Axne","IA","D",1.13045,"House","*ZEV FILL IN*"
-"150","Scott","Peters","CA","D",1.12609,"House","*ZEV FILL IN*"
-"151","Paul","Tonko","NY","D",1.09071,"House","*ZEV FILL IN*"
-"152","Brian","Mast","FL","R",1.08583,"House","*ZEV FILL IN*"
-"153","Mike","Bost","IL","R",1.08466,"House","*ZEV FILL IN*"
-"154","Pete","Stauber","MN","R",1.054,"House","*ZEV FILL IN*"
-"155","Vicente","Gonzalez","TX","D",1.04917,"House","*ZEV FILL IN*"
-"156","Terri","Sewell","AL","D",1.04208,"House","*ZEV FILL IN*"
-"157","Eliot","Engel","NY","D",1.03345,"House","*ZEV FILL IN*"
-"158","Jim","Sensenbrenner","WI","R",1.03132,"House","*ZEV FILL IN*"
-"159","Darin","Lahood","IL","R",1.02415,"House","*ZEV FILL IN*"
-"160","Buddy","Carter","GA","R",1.02338,"House","*ZEV FILL IN*"
-"161","Thomas","Suozzi","NY","D",1.02125,"House","*ZEV FILL IN*"
-"162","Jason","Crow","CO","D",1.01193,"House","*ZEV FILL IN*"
-"163","John","Curtis","UT","R",1.00936,"House","*ZEV FILL IN*"
-"164","Elissa","Slotkin","MI","D",1.00082,"House","*ZEV FILL IN*"
-"165","Ted","Yoho","FL","R",0.97715,"House","*ZEV FILL IN*"
-"166","Vern","Buchanan","FL","R",0.96964,"House","*ZEV FILL IN*"
-"167","Kendra","Horn","OK","D",0.96283,"House","*ZEV FILL IN*"
-"168","Glenn","Thompson","PA","R",0.9597,"House","*ZEV FILL IN*"
-"169","Abby","Finkenauer","IA","D",0.95556,"House","*ZEV FILL IN*"
-"170","Ann","Wagner","MO","R",0.94177,"House","*ZEV FILL IN*"
-"171","Josh","Harder","CA","D",0.92242,"House","*ZEV FILL IN*"
-"172","Max","Rose","NY","D",0.89914,"House","*ZEV FILL IN*"
-"173","Paul","Cook","CA","R",0.88398,"House","*ZEV FILL IN*"
-"174","Andy","Kim","NJ","D",0.8799,"House","*ZEV FILL IN*"
-"175","Joe","Wilson","SC","R",0.84118,"House","*ZEV FILL IN*"
-"176","Jared","Golden","ME","D",0.83044,"House","*ZEV FILL IN*"
-"177","Jackie","Walorski","IN","R",0.82095,"House","*ZEV FILL IN*"
-"178","Earl","Blumenauer","OR","D",0.8177,"House","*ZEV FILL IN*"
-"179","Tulsi","Gabbard","HI","D",0.80671,"House","*ZEV FILL IN*"
-"180","Mike","Turner","OH","R",0.78947,"House","*ZEV FILL IN*"
-"181","John","Garamendi","CA","D",0.78401,"House","*ZEV FILL IN*"
-"182","Brad","Schneider","IL","D",0.7831,"House","*ZEV FILL IN*"
-"183","Guy","Reschenthaler","PA","R",0.76908,"House","*ZEV FILL IN*"
-"184","Jaime","Herrera Beutler","WA","R",0.7597,"House","*ZEV FILL IN*"
-"185","Michael","Waltz","FL","R",0.74534,"House","*ZEV FILL IN*"
-"186","Charlie","Crist","FL","D",0.74517,"House","*ZEV FILL IN*"
-"187","Raul","Ruiz","CA","D",0.74395,"House","*ZEV FILL IN*"
-"188","Mike","Gallagher","WI","R",0.74369,"House","*ZEV FILL IN*"
-"189","Jeff","Fortenberry","NE","R",0.74045,"House","*ZEV FILL IN*"
-"190","James","Langevin","RI","D",0.71725,"House","*ZEV FILL IN*"
-"191","Angie","Craig","MN","D",0.71094,"House","*ZEV FILL IN*"
-"192","Tim","Walberg","MI","R",0.70639,"House","*ZEV FILL IN*"
-"193","Fred","Upton","MI","R",0.70064,"House","*ZEV FILL IN*"
-"194","Stephanie","Murphy","FL","D",0.69541,"House","*ZEV FILL IN*"
-"195","Steve","Chabot","OH","R",0.68059,"House","*ZEV FILL IN*"
-"196","Chris","Pappas","NH","D",0.67513,"House","*ZEV FILL IN*"
-"197","Susie","Lee","NV","D",0.67079,"House","*ZEV FILL IN*"
-"198","Kurt","Schrader","OR","D",0.66722,"House","*ZEV FILL IN*"
-"199","Phil","Roe","TN","R",0.65543,"House","*ZEV FILL IN*"
-"200","Pete","Olson","TX","R",0.6537,"House","*ZEV FILL IN*"
-"201","Scott","Tipton","CO","R",0.6469,"House","*ZEV FILL IN*"
-"202","Chrissy","Houlahan","PA","D",0.63697,"House","*ZEV FILL IN*"
-"203","Ann","Kirkpatrick","AZ","D",0.63361,"House","*ZEV FILL IN*"
-"204","Brad","Sherman","CA","D",0.62495,"House","*ZEV FILL IN*"
-"205","Francis","Rooney","FL","R",0.61581,"House","*ZEV FILL IN*"
-"206","Dan","Lipinski","IL","D",0.61555,"House","*ZEV FILL IN*"
-"207","Seth","Moulton","MA","D",0.61322,"House","*ZEV FILL IN*"
-"208","Frank","Lucas","OK","R",0.61122,"House","*ZEV FILL IN*"
-"209","Xochitl","Torres Small","NM","D",0.60634,"House","*ZEV FILL IN*"
-"210","Gil","Cisneros","CA","D",0.58577,"House","*ZEV FILL IN*"
-"211","Colin","Allred","TX","D",0.58477,"House","*ZEV FILL IN*"
-"212","Debbie","Dingell","MI","D",0.56848,"House","*ZEV FILL IN*"
-"213","Peter","Defazio","OR","D",0.55195,"House","*ZEV FILL IN*"
-"214","Dave","Loebsack","IA","D",0.54675,"House","*ZEV FILL IN*"
-"215","Anthony","Brown","MD","D",0.54489,"House","*ZEV FILL IN*"
-"216","Jack","Bergman","MI","R",0.52541,"House","*ZEV FILL IN*"
-"217","Mikie","Sherrill","NJ","D",0.52491,"House","*ZEV FILL IN*"
-"218","Gerry","Connolly","VA","D",0.52369,"House","*ZEV FILL IN*"
-"219","Gregorio","Sablan","MP","D",0.51397,"House","*ZEV FILL IN*"
-"220","Troy","Balderson","OH","R",0.50926,"House","*ZEV FILL IN*"
-"221","Lizzie Pannill","Fletcher","TX","D",0.50006,"House","*ZEV FILL IN*"
-"222","Harley","Rouda","CA","D",0.49601,"House","*ZEV FILL IN*"
-"223","Sanford","Bishop","GA","D",0.4887,"House","*ZEV FILL IN*"
-"224","Chellie","Pingree","ME","D",0.48617,"House","*ZEV FILL IN*"
-"225","Cheri","Bustos","IL","D",0.48405,"House","*ZEV FILL IN*"
-"226","Joe","Courtney","CT","D",0.48387,"House","*ZEV FILL IN*"
-"227","Jim","McGovern","MA","D",0.47069,"House","*ZEV FILL IN*"
-"228","Mike","Kelly","PA","R",0.4669,"House","*ZEV FILL IN*"
-"229","Susan","Wild","PA","D",0.44862,"House","*ZEV FILL IN*"
-"230","Tom","Malinowski","NJ","D",0.43254,"House","*ZEV FILL IN*"
-"231","Eddie Bernice","Johnson","TX","D",0.42547,"House","*ZEV FILL IN*"
-"232","Roger","Marshall","KS","R",0.42486,"House","*ZEV FILL IN*"
-"233","Markwayne","Mullin","OK","R",0.41798,"House","*ZEV FILL IN*"
-"234","Brad","Wenstrup","OH","R",0.40225,"House","*ZEV FILL IN*"
-"235","Denny","Heck","WA","D",0.39136,"House","*ZEV FILL IN*"
-"236","Lisa","Blunt Rochester","DE","D",0.3894,"House","*ZEV FILL IN*"
-"237","Paul","Mitchell","MI","R",0.36355,"House","*ZEV FILL IN*"
-"238","George","Holding","NC","R",0.35992,"House","*ZEV FILL IN*"
-"239","Bill","Pascrell","NJ","D",0.35605,"House","*ZEV FILL IN*"
-"240","Dan","Crenshaw","TX","R",0.35529,"House","*ZEV FILL IN*"
-"241","Lou","Correa","CA","D",0.35367,"House","*ZEV FILL IN*"
-"242","Suzan","Delbene","WA","D",0.35231,"House","*ZEV FILL IN*"
-"243","Dusty","Johnson","SD","R",0.35075,"House","*ZEV FILL IN*"
-"244","Ron","Estes","KS","R",0.34983,"House","*ZEV FILL IN*"
-"245","Vicky","Hartzler","MO","R",0.3422,"House","*ZEV FILL IN*"
-"246","Dutch","Ruppersberger","MD","D",0.34119,"House","*ZEV FILL IN*"
-"247","David","Cicilline","RI","D",0.34039,"House","*ZEV FILL IN*"
-"248","David","Schweikert","AZ","R",0.33982,"House","*ZEV FILL IN*"
-"249","Ted","Deutch","FL","D",0.33098,"House","*ZEV FILL IN*"
-"250","Jim","Baird","IN","R",0.32969,"House","*ZEV FILL IN*"
-"251","Bill","Foster","IL","D",0.32769,"House","*ZEV FILL IN*"
-"252","Doris","Matsui","CA","D",0.3256,"House","*ZEV FILL IN*"
-"253","Nydia","Velázquez","NY","D",0.31147,"House","*ZEV FILL IN*"
-"254","Ruben","Gallego","AZ","D",0.31108,"House","*ZEV FILL IN*"
-"255","Adrian","Smith","NE","R",0.30817,"House","*ZEV FILL IN*"
-"256","Bruce","Westerman","AR","R",0.30209,"House","*ZEV FILL IN*"
-"257","Paul","Gosar","AZ","R",0.29777,"House","*ZEV FILL IN*"
-"258","Greg","Stanton","AZ","D",0.28692,"House","*ZEV FILL IN*"
-"259","Dan","Meuser","PA","R",0.28203,"House","*ZEV FILL IN*"
-"260","Brian","Higgins","NY","D",0.28111,"House","*ZEV FILL IN*"
-"261","Zoe","Lofgren","CA","D",0.28064,"House","*ZEV FILL IN*"
-"262","Ken","Calvert","CA","R",0.27601,"House","*ZEV FILL IN*"
-"263","Dan","Newhouse","WA","R",0.27218,"House","*ZEV FILL IN*"
-"264","Ben Ray","Luján","NM","D",0.26132,"House","*ZEV FILL IN*"
-"265","Hakeem","Jeffries","NY","D",0.2579,"House","*ZEV FILL IN*"
-"266","Austin","Scott","GA","R",0.25755,"House","*ZEV FILL IN*"
-"267","Mario","Díaz-Balart","FL","R",0.25606,"House","*ZEV FILL IN*"
-"268","Steve","Cohen","TN","D",0.25381,"House","*ZEV FILL IN*"
-"269","Donna","Shalala","FL","D",0.24497,"House","*ZEV FILL IN*"
-"270","Larry","Bucshon","IN","R",0.24314,"House","*ZEV FILL IN*"
-"271","Lucy","Mcbath","GA","D",0.23528,"House","*ZEV FILL IN*"
-"272","T.J.","Cox","CA","D",0.23256,"House","*ZEV FILL IN*"
-"273","Marcy","Kaptur","OH","D",0.23253,"House","*ZEV FILL IN*"
-"274","Steven","Palazzo","MS","R",0.22813,"House","*ZEV FILL IN*"
-"275","Suzanne","Bonamici","OR","D",0.22484,"House","*ZEV FILL IN*"
-"276","Rob","Wittman","VA","R",0.22308,"House","*ZEV FILL IN*"
-"277","Diana","Degette","CO","D",0.21696,"House","*ZEV FILL IN*"
-"278","Doug","Lamalfa","CA","R",0.21468,"House","*ZEV FILL IN*"
-"279","Lloyd","Smucker","PA","R",0.21217,"House","*ZEV FILL IN*"
-"280","Raja","Krishnamoorthi","IL","D",0.21083,"House","*ZEV FILL IN*"
-"281","Ed","Case","HI","D",0.20774,"House","*ZEV FILL IN*"
-"282","Donald","Norcross","NJ","D",0.20157,"House","*ZEV FILL IN*"
-"283","Bobby","Rush","IL","D",0.1977,"House","*ZEV FILL IN*"
-"284","Ed","Perlmutter","CO","D",0.19111,"House","*ZEV FILL IN*"
-"285","Michael","Doyle","PA","D",0.18481,"House","*ZEV FILL IN*"
-"286","Greg","Walden","OR","R",0.18453,"House","*ZEV FILL IN*"
-"287","Carolyn","Maloney","NY","D",0.1833,"House","*ZEV FILL IN*"
-"288","Salud","Carbajal","CA","D",0.17887,"House","*ZEV FILL IN*"
-"289","Mike","Quigley","IL","D",0.17783,"House","*ZEV FILL IN*"
-"290","Morgan","Griffith","VA","R",0.17441,"House","*ZEV FILL IN*"
-"291","Kim","Schrier","WA","D",0.16952,"House","*ZEV FILL IN*"
-"292","Ro","Khanna","CA","D",0.16045,"House","*ZEV FILL IN*"
-"293","Garret","Graves","LA","R",0.1545,"House","*ZEV FILL IN*"
-"294","Mark","Amodei","NV","R",0.15312,"House","*ZEV FILL IN*"
-"295","Julia","Brownley","CA","D",0.15308,"House","*ZEV FILL IN*"
-"296","Glenn","Grothman","WI","R",0.13425,"House","*ZEV FILL IN*"
-"297","Alcee","Hastings","FL","D",0.13091,"House","*ZEV FILL IN*"
-"298","John","Moolenaar","MI","R",0.12994,"House","*ZEV FILL IN*"
-"299","French","Hill","AR","R",0.12919,"House","*ZEV FILL IN*"
-"300","Jackie","Speier","CA","D",0.12298,"House","*ZEV FILL IN*"
-"301","Danny","Davis","IL","D",0.11383,"House","*ZEV FILL IN*"
-"302","Anna","Eshoo","CA","D",0.11088,"House","*ZEV FILL IN*"
-"303","Richard","Hudson","NC","R",0.09517,"House","*ZEV FILL IN*"
-"304","Bob","Latta","OH","R",0.09505,"House","*ZEV FILL IN*"
-"305","Ami","Bera","CA","D",0.09456,"House","*ZEV FILL IN*"
-"306","Ted","Lieu","CA","D",0.08906,"House","*ZEV FILL IN*"
-"307","Jan","Schakowsky","IL","D",0.07888,"House","*ZEV FILL IN*"
-"308","G.K.","Butterfield","NC","D",0.07775,"House","*ZEV FILL IN*"
-"309","Tom","Graves","GA","R",0.07723,"House","*ZEV FILL IN*"
-"310","Haley","Stevens","MI","D",0.07336,"House","*ZEV FILL IN*"
-"311","Kenny","Marchant","TX","R",0.07061,"House","*ZEV FILL IN*"
-"312","Fred","Keller","PA","R",0.07048,"House","*ZEV FILL IN*"
-"313","Betty","McCollum","MN","D",0.06716,"House","*ZEV FILL IN*"
-"314","Jim","Hagedorn","MN","R",0.06324,"House","*ZEV FILL IN*"
-"315","Joseph","Morelle","NY","D",0.06187,"House","*ZEV FILL IN*"
-"316","Trey","Hollingsworth","IN","R",0.0612,"House","*ZEV FILL IN*"
-"317","David","Scott","GA","D",0.06107,"House","*ZEV FILL IN*"
-"318","Joyce","Beatty","OH","D",0.05927,"House","*ZEV FILL IN*"
-"319","Deb","Haaland","NM","D",0.05685,"House","*ZEV FILL IN*"
-"320","Filemon","Vela","TX","D",0.05613,"House","*ZEV FILL IN*"
-"321","Al","Lawson","FL","D",0.04996,"House","*ZEV FILL IN*"
-"322","Brendan","Boyle","PA","D",0.04462,"House","*ZEV FILL IN*"
-"323","John","Larson","CT","D",0.04087,"House","*ZEV FILL IN*"
-"324","Tony","Cárdenas","CA","D",0.03785,"House","*ZEV FILL IN*"
-"325","Greg","Steube","FL","R",0.03669,"House","*ZEV FILL IN*"
-"326","Donald","Payne","NJ","D",0.03042,"House","*ZEV FILL IN*"
-"327","Steve","Watkins","KS","R",0.02958,"House","*ZEV FILL IN*"
-"328","Joaquin","Castro","TX","D",0.0274,"House","*ZEV FILL IN*"
-"329","David","Kustoff","TN","R",0.02346,"House","*ZEV FILL IN*"
-"330","Sean Patrick","Maloney","NY","D",0.02248,"House","*ZEV FILL IN*"
-"331","Lois","Frankel","FL","D",0.0205,"House","*ZEV FILL IN*"
-"332","Jerry","McNerney","CA","D",0.01761,"House","*ZEV FILL IN*"
-"333","Robin","Kelly","IL","D",0.01361,"House","*ZEV FILL IN*"
-"334","Bill","Posey","FL","R",0.0107,"House","*ZEV FILL IN*"
-"335","Brett","Guthrie","KY","R",0.01039,"House","*ZEV FILL IN*"
-"336","Jason","Smith","MO","R",0.00992,"House","*ZEV FILL IN*"
-"337","Stephen","Lynch","MA","D",0.00713,"House","*ZEV FILL IN*"
-"338","Marc","Veasey","TX","D",0.0067,"House","*ZEV FILL IN*"
-"339","Frank","Pallone","NJ","D",-0.00531,"House","*ZEV FILL IN*"
-"340","Tom","Emmer","MN","R",-0.00763,"House","*ZEV FILL IN*"
-"341","Gwen","Moore","WI","D",-0.01532,"House","*ZEV FILL IN*"
-"342","Emanuel","Cleaver","MO","D",-0.01839,"House","*ZEV FILL IN*"
-"343","Katie","Porter","CA","D",-0.02984,"House","*ZEV FILL IN*"
-"344","Dina","Titus","NV","D",-0.04676,"House","*ZEV FILL IN*"
-"345","Doug","Collins","GA","R",-0.04966,"House","*ZEV FILL IN*"
-"346","Kathy","Castor","FL","D",-0.05078,"House","*ZEV FILL IN*"
-"347","Tim","Burchett","TN","R",-0.05498,"House","*ZEV FILL IN*"
-"348","Jared","Huffman","CA","D",-0.056,"House","*ZEV FILL IN*"
-"349","Marcia","Fudge","OH","D",-0.05621,"House","*ZEV FILL IN*"
-"350","Rob","Bishop","UT","R",-0.05912,"House","*ZEV FILL IN*"
-"351","Mark","Pocan","WI","D",-0.05993,"House","*ZEV FILL IN*"
-"352","Eleanor Holmes","Norton","DC","D",-0.06546,"House","*ZEV FILL IN*"
-"353","Trent","Kelly","MS","R",-0.07256,"House","*ZEV FILL IN*"
-"354","Mark","Takano","CA","D",-0.0736,"House","*ZEV FILL IN*"
-"355","Jim","Costa","CA","D",-0.07435,"House","*ZEV FILL IN*"
-"356","Roger","Williams","TX","R",-0.07757,"House","*ZEV FILL IN*"
-"357","Linda","Sánchez","CA","D",-0.09479,"House","*ZEV FILL IN*"
-"358","Grace","Napolitano","CA","D",-0.09515,"House","*ZEV FILL IN*"
-"359","Val","Demings","FL","D",-0.09562,"House","*ZEV FILL IN*"
-"360","Bryan","Steil","WI","R",-0.09659,"House","*ZEV FILL IN*"
-"361","Mike","Levin","CA","D",-0.09674,"House","*ZEV FILL IN*"
-"362","Jamie","Raskin","MD","D",-0.10566,"House","*ZEV FILL IN*"
-"363","Grace","Meng","NY","D",-0.11152,"House","*ZEV FILL IN*"
-"364","James","Comer","KY","R",-0.12203,"House","*ZEV FILL IN*"
-"365","Jennifer","Wexton","VA","D",-0.12352,"House","*ZEV FILL IN*"
-"366","Lori","Trahan","MA","D",-0.12752,"House","*ZEV FILL IN*"
-"367","Don","Beyer","VA","D",-0.12921,"House","*ZEV FILL IN*"
-"368","Sheila","Jackson Lee","TX","D",-0.12998,"House","*ZEV FILL IN*"
-"369","Karen","Bass","CA","D",-0.13179,"House","*ZEV FILL IN*"
-"370","Dan","Kildee","MI","D",-0.13211,"House","*ZEV FILL IN*"
-"371","Richard","Neal","MA","D",-0.14637,"House","*ZEV FILL IN*"
-"372","Chris","Collins","NY","R",-0.15061,"House","*ZEV FILL IN*"
-"373","Mark","Meadows","NC","R",-0.15311,"House","*ZEV FILL IN*"
-"374","Greg","Pence","IN","R",-0.15612,"House","*ZEV FILL IN*"
-"375","Debbie","Wasserman Schultz","FL","D",-0.1609,"House","*ZEV FILL IN*"
-"376","Ross","Spano","FL","R",-0.16375,"House","*ZEV FILL IN*"
-"377","Eric","Swalwell","CA","D",-0.18178,"House","*ZEV FILL IN*"
-"378","Thomas","Massie","KY","R",-0.18282,"House","*ZEV FILL IN*"
-"379","Yvette","Clarke","NY","D",-0.18608,"House","*ZEV FILL IN*"
-"380","Brian","Babin","TX","R",-0.18846,"House","*ZEV FILL IN*"
-"381","Bill","Keating","MA","D",-0.20656,"House","*ZEV FILL IN*"
-"382","Rick","Larsen","WA","D",-0.21257,"House","*ZEV FILL IN*"
-"383","Denver","Riggleman","VA","R",-0.21437,"House","*ZEV FILL IN*"
-"384","Judy","Chu","CA","D",-0.21887,"House","*ZEV FILL IN*"
-"385","Bradley","Byrne","AL","R",-0.22203,"House","*ZEV FILL IN*"
-"386","Sam","Graves","MO","R",-0.22455,"House","*ZEV FILL IN*"
-"387","Carol","Miller","WV","R",-0.22806,"House","*ZEV FILL IN*"
-"388","Daniel","Webster","FL","R",-0.23189,"House","*ZEV FILL IN*"
-"389","Chris","Stewart","UT","R",-0.23332,"House","*ZEV FILL IN*"
-"390","Patrick","McHenry","NC","R",-0.23474,"House","*ZEV FILL IN*"
-"391","Michael","Burgess","TX","R",-0.23902,"House","*ZEV FILL IN*"
-"392","Raúl","Grijalva","AZ","D",-0.24407,"House","*ZEV FILL IN*"
-"393","Albio","Sires","NJ","D",-0.24737,"House","*ZEV FILL IN*"
-"394","Tom","Rice","SC","R",-0.24992,"House","*ZEV FILL IN*"
-"395","Lacy","Clay","MO","D",-0.25049,"House","*ZEV FILL IN*"
-"396","John","Ratcliffe","TX","R",-0.25138,"House","*ZEV FILL IN*"
-"397","Bill","Johnson","OH","R",-0.25457,"House","*ZEV FILL IN*"
-"398","Donald","Mceachin","VA","D",-0.27055,"House","*ZEV FILL IN*"
-"399","Chuck","Fleischmann","TN","R",-0.27235,"House","*ZEV FILL IN*"
-"400","Stacey","Plaskett","VI","D",-0.2764,"House","*ZEV FILL IN*"
-"401","Mike","Simpson","ID","R",-0.28105,"House","*ZEV FILL IN*"
-"402","Jerrold","Nadler","NY","D",-0.28429,"House","*ZEV FILL IN*"
-"403","Sean","Duffy","WI","R",-0.2856,"House","*ZEV FILL IN*"
-"404","Sharice","Davids","KS","D",-0.28764,"House","*ZEV FILL IN*"
-"405","Rob","Woodall","GA","R",-0.28884,"House","*ZEV FILL IN*"
-"406","Justin","Amash","MI","R",-0.29115,"House","*ZEV FILL IN*"
-"407","Mike","Rogers","AL","R",-0.29136,"House","*ZEV FILL IN*"
-"408","Jim","Cooper","TN","D",-0.29216,"House","*ZEV FILL IN*"
-"409","Jose","Serrano","NY","D",-0.29324,"House","*ZEV FILL IN*"
-"410","Joseph","Kennedy","MA","D",-0.29349,"House","*ZEV FILL IN*"
-"411","Ben","Cline","VA","R",-0.2985,"House","*ZEV FILL IN*"
-"412","Mark","Green","TN","R",-0.3013,"House","*ZEV FILL IN*"
-"413","Ron","Wright","TX","R",-0.30965,"House","*ZEV FILL IN*"
-"414","Bennie","Thompson","MS","D",-0.31218,"House","*ZEV FILL IN*"
-"415","Debbie","Lesko","AZ","R",-0.31408,"House","*ZEV FILL IN*"
-"416","Brenda","Lawrence","MI","D",-0.3144,"House","*ZEV FILL IN*"
-"417","Blaine","Luetkemeyer","MO","R",-0.31633,"House","*ZEV FILL IN*"
-"418","Mark","Desaulnier","CA","D",-0.3167,"House","*ZEV FILL IN*"
-"419","Alan","Lowenthal","CA","D",-0.31696,"House","*ZEV FILL IN*"
-"420","Andy","Levin","MI","D",-0.32202,"House","*ZEV FILL IN*"
-"421","Mike","Conaway","TX","R",-0.32789,"House","*ZEV FILL IN*"
-"422","Susan","Davis","CA","D",-0.32832,"House","*ZEV FILL IN*"
-"423","Andy","Harris","MD","R",-0.33499,"House","*ZEV FILL IN*"
-"424","Duncan","Hunter","CA","R",-0.33735,"House","*ZEV FILL IN*"
-"425","Cedric","Richmond","LA","D",-0.34515,"House","*ZEV FILL IN*"
-"426","Matt","Gaetz","FL","R",-0.34847,"House","*ZEV FILL IN*"
-"427","Doug","Lamborn","CO","R",-0.35018,"House","*ZEV FILL IN*"
-"428","Michael","San Nicolas","GU","D",-0.35743,"House","*ZEV FILL IN*"
-"429","Drew","Ferguson","GA","R",-0.36057,"House","*ZEV FILL IN*"
-"430","Elijah","Cummings","MD","D",-0.36068,"House","*ZEV FILL IN*"
-"431","Bobby","Scott","VA","D",-0.37748,"House","*ZEV FILL IN*"
-"432","Veronica","Escobar","TX","D",-0.38365,"House","*ZEV FILL IN*"
-"433","Lloyd","Doggett","TX","D",-0.38415,"House","*ZEV FILL IN*"
-"434","Norma","Torres","CA","D",-0.39059,"House","*ZEV FILL IN*"
-"435","Hank","Johnson","GA","D",-0.39061,"House","*ZEV FILL IN*"
-"436","Andy","Barr","KY","R",-0.39878,"House","*ZEV FILL IN*"
-"437","Madeleine","Dean","PA","D",-0.41095,"House","*ZEV FILL IN*"
-"438","William","Timmons","SC","R",-0.41125,"House","*ZEV FILL IN*"
-"439","David","Price","NC","D",-0.41942,"House","*ZEV FILL IN*"
-"440","David","Rouzer","NC","R",-0.43503,"House","*ZEV FILL IN*"
-"441","Rosa","Delauro","CT","D",-0.43696,"House","*ZEV FILL IN*"
-"442","Sylvia","Garcia","TX","D",-0.44702,"House","*ZEV FILL IN*"
-"443","Billy","Long","MO","R",-0.44728,"House","*ZEV FILL IN*"
-"444","John","Yarmuth","KY","D",-0.45525,"House","*ZEV FILL IN*"
-"445","Virginia","Foxx","NC","R",-0.46232,"House","*ZEV FILL IN*"
-"446","Martha","Roby","AL","R",-0.46381,"House","*ZEV FILL IN*"
-"447","Lauren","Underwood","IL","D",-0.46388,"House","*ZEV FILL IN*"
-"448","Neal","Dunn","FL","R",-0.47778,"House","*ZEV FILL IN*"
-"449","Michael","Guest","MS","R",-0.48168,"House","*ZEV FILL IN*"
-"450","Lance","Gooden","TX","R",-0.48317,"House","*ZEV FILL IN*"
-"451","Barry","Loudermilk","GA","R",-0.48676,"House","*ZEV FILL IN*"
-"452","Mark","Walker","NC","R",-0.50474,"House","*ZEV FILL IN*"
-"453","Alma","Adams","NC","D",-0.50727,"House","*ZEV FILL IN*"
-"454","Randy","Weber","TX","R",-0.51,"House","*ZEV FILL IN*"
-"455","André","Carson","IN","D",-0.51949,"House","*ZEV FILL IN*"
-"456","Lucille","Roybal-Allard","CA","D",-0.52676,"House","*ZEV FILL IN*"
-"457","Ted","Budd","NC","R",-0.53381,"House","*ZEV FILL IN*"
-"458","Mary Gay","Scanlon","PA","D",-0.53762,"House","*ZEV FILL IN*"
-"459","Jim","Banks","IN","R",-0.54076,"House","*ZEV FILL IN*"
-"460","Dwight","Evans","PA","D",-0.55211,"House","*ZEV FILL IN*"
-"461","Al","Green","TX","D",-0.5564,"House","*ZEV FILL IN*"
-"462","Adam","Smith","WA","D",-0.56896,"House","*ZEV FILL IN*"
-"463","Greg","Gianforte","MT","R",-0.57197,"House","*ZEV FILL IN*"
-"464","Devin","Nunes","CA","R",-0.57398,"House","*ZEV FILL IN*"
-"465","Katherine","Clark","MA","D",-0.57489,"House","*ZEV FILL IN*"
-"466","Bill","Huizenga","MI","R",-0.58724,"House","*ZEV FILL IN*"
-"467","Mac","Thornberry","TX","R",-0.58953,"House","*ZEV FILL IN*"
-"468","Clay","Higgins","LA","R",-0.59182,"House","*ZEV FILL IN*"
-"469","Pete","Visclosky","IN","D",-0.59627,"House","*ZEV FILL IN*"
-"470","Kelly","Armstrong","ND","R",-0.59851,"House","*ZEV FILL IN*"
-"471","John","Sarbanes","MD","D",-0.60553,"House","*ZEV FILL IN*"
-"472","Barbara","Lee","CA","D",-0.60713,"House","*ZEV FILL IN*"
-"473","John","Carter","TX","R",-0.61224,"House","*ZEV FILL IN*"
-"474","Jodey","Arrington","TX","R",-0.61229,"House","*ZEV FILL IN*"
-"475","Pete","Aguilar","CA","D",-0.62251,"House","*ZEV FILL IN*"
-"476","Gregory","Meeks","NY","D",-0.63544,"House","*ZEV FILL IN*"
-"477","Jim","Himes","CT","D",-0.63814,"House","*ZEV FILL IN*"
-"478","Scott","Perry","PA","R",-0.64064,"House","*ZEV FILL IN*"
-"479","Adriano","Espaillat","NY","D",-0.6432,"House","*ZEV FILL IN*"
-"480","Sean","Casten","IL","D",-0.64514,"House","*ZEV FILL IN*"
-"481","Bob","Gibbs","OH","R",-0.6466,"House","*ZEV FILL IN*"
-"482","Katie","Hill","CA","D",-0.64772,"House","*ZEV FILL IN*"
-"483","Kevin","Hern","OK","R",-0.64899,"House","*ZEV FILL IN*"
-"484","Jim","Clyburn","SC","D",-0.65059,"House","*ZEV FILL IN*"
-"485","Maxine","Waters","CA","D",-0.65181,"House","*ZEV FILL IN*"
-"486","Jody","Hice","GA","R",-0.65629,"House","*ZEV FILL IN*"
-"487","Robert","Aderholt","AL","R",-0.65654,"House","*ZEV FILL IN*"
-"488","Ralph","Abraham","LA","R",-0.66306,"House","*ZEV FILL IN*"
-"489","Bill","Flores","TX","R",-0.66924,"House","*ZEV FILL IN*"
-"490","Debbie","Mucarsel-Powell","FL","D",-0.67368,"House","*ZEV FILL IN*"
-"491","Nanette","Barragan","CA","D",-0.68814,"House","*ZEV FILL IN*"
-"492","John","Shimkus","IL","R",-0.69042,"House","*ZEV FILL IN*"
-"493","Alex","Mooney","WV","R",-0.6997,"House","*ZEV FILL IN*"
-"494","Nita","Lowey","NY","D",-0.71495,"House","*ZEV FILL IN*"
-"495","Greg","Murphy","NC","R",-0.71649,"House","*ZEV FILL IN*"
-"496","Steven","Horsford","NV","D",-0.72214,"House","*ZEV FILL IN*"
-"497","Hal","Rogers","KY","R",-0.72686,"House","*ZEV FILL IN*"
-"498","Ralph","Norman","SC","R",-0.73072,"House","*ZEV FILL IN*"
-"499","John","Joyce","PA","R",-0.73164,"House","*ZEV FILL IN*"
-"500","John","Lewis","GA","D",-0.73904,"House","*ZEV FILL IN*"
-"501","Bonnie","Watson Coleman","NJ","D",-0.78639,"House","*ZEV FILL IN*"
-"502","Steve","Womack","AR","R",-0.79518,"House","*ZEV FILL IN*"
-"503","Kevin","Brady","TX","R",-0.81002,"House","*ZEV FILL IN*"
-"504","Jimmy","Gomez","CA","D",-0.83313,"House","*ZEV FILL IN*"
-"505","Juan","Vargas","CA","D",-0.83814,"House","*ZEV FILL IN*"
-"506","Pramila","Jayapal","WA","D",-0.86177,"House","*ZEV FILL IN*"
-"507","Jahana","Hayes","CT","D",-0.86652,"House","*ZEV FILL IN*"
-"508","Rick","Crawford","AR","R",-0.87285,"House","*ZEV FILL IN*"
-"509","Jeff","Duncan","SC","R",-0.88446,"House","*ZEV FILL IN*"
-"510","Warren","Davidson","OH","R",-0.93594,"House","*ZEV FILL IN*"
-"511","Chip","Roy","TX","R",-0.94616,"House","*ZEV FILL IN*"
-"512","Ken","Buck","CO","R",-0.95169,"House","*ZEV FILL IN*"
-"513","Rashida","Tlaib","MI","D",-1.00756,"House","*ZEV FILL IN*"
-"514","Frederica","Wilson","FL","D",-1.02535,"House","*ZEV FILL IN*"
-"515","Andy","Biggs","AZ","R",-1.05869,"House","*ZEV FILL IN*"
-"516","Steve","King","IA","R",-1.05905,"House","*ZEV FILL IN*"
-"517","Steny","Hoyer","MD","D",-1.08017,"House","*ZEV FILL IN*"
-"518","Russ","Fulcher","ID","R",-1.08977,"House","*ZEV FILL IN*"
-"519","Chuy","García","IL","D",-1.13248,"House","*ZEV FILL IN*"
-"520","Liz","Cheney","WY","R",-1.13521,"House","*ZEV FILL IN*"
-"521","Scott","Desjarlais","TN","R",-1.14864,"House","*ZEV FILL IN*"
-"522","Adam","Schiff","CA","D",-1.1523,"House","*ZEV FILL IN*"
-"523","Ilhan","Omar","MN","D",-1.17031,"House","*ZEV FILL IN*"
-"524","Dan","Bishop","NC","R",-1.24251,"House","*ZEV FILL IN*"
-"525","Ayanna","Pressley","MA","D",-1.24848,"House","*ZEV FILL IN*"
-"526","Alexandria","Ocasio-Cortez","NY","D",-1.2585,"House","*ZEV FILL IN*"
-"527","Tom","McClintock","CA","R",-1.26454,"House","*ZEV FILL IN*"
-"528","Michael","Cloud","TX","R",-1.27429,"House","*ZEV FILL IN*"
-"529","John","Rose","TN","R",-1.28081,"House","*ZEV FILL IN*"
-"530","Louie","Gohmert","TX","R",-1.34767,"House","*ZEV FILL IN*"
-"531","Mo","Brooks","AL","R",-1.35791,"House","*ZEV FILL IN*"
-"532","Mike","Johnson","LA","R",-1.3601,"House","*ZEV FILL IN*"
-"533","Steve","Scalise","LA","R",-1.40137,"House","*ZEV FILL IN*"
-"534","Jim","Jordan","OH","R",-1.47887,"House","*ZEV FILL IN*"
-"535","Rick","Allen","GA","R",-1.53762,"House","*ZEV FILL IN*"
-"536","Gary","Palmer","AL","R",-1.76249,"House","*ZEV FILL IN*"
+name,twitter_handle,twitter_handle_2,twitter_handle_3,state,party,score,congress_group,density
+Susan Collins,SenatorCollins,,,ME,R,4.58409,Senate,*ZEV FILL IN*
+Lisa Murkowski,lisamurkowski,LisaForSenate,,AK,R,3.17341,Senate,*ZEV FILL IN*
+Rob Portman,senrobportman,robportman,,OH,R,2.81887,Senate,*ZEV FILL IN*
+Cory Gardner,SenCoryGardner,CoryGardner,,CO,R,2.65591,Senate,*ZEV FILL IN*
+Kyrsten Sinema,kyrstensinema,SenatorSinema,,AZ,D,2.42747,Senate,*ZEV FILL IN*
+Shelley Moore Capito,SenCapito,CapitoforWV,,WV,R,2.23815,Senate,*ZEV FILL IN*
+Maggie Hassan,Senator_Hassan,Maggie_Hassan,SenatorHassan,NH,D,1.94482,Senate,*ZEV FILL IN*
+Todd Young,ToddYoungIN,SenToddYoung,,IN,R,1.92724,Senate,*ZEV FILL IN*
+Martha McSally,MarthaMcSally,SenMcSallyAZ,,AZ,R,1.83145,Senate,*ZEV FILL IN*
+Bill Cassidy,SenBillCassidy,BillCassidy,,LA,R,1.82578,Senate,*ZEV FILL IN*
+Jerry Moran,JerryMoran,,,KS,R,1.78611,Senate,*ZEV FILL IN*
+John Cornyn,JohnCornyn,,,TX,R,1.75472,Senate,*ZEV FILL IN*
+Marco Rubio,marcorubio,SenRubioPress,,FL,R,1.74223,Senate,*ZEV FILL IN*
+Roger Wicker,RogerWicker,SenatorWicker,,MS,R,1.7134,Senate,*ZEV FILL IN*
+Gary Peters,GaryPeters,SenGaryPeters,,MI,D,1.62309,Senate,*ZEV FILL IN*
+Dan Sullivan,DanSullivan_AK,SenDanSullivan,,AK,R,1.62283,Senate,*ZEV FILL IN*
+Jon Tester,jontester,SenatorTester,,MT,D,1.58348,Senate,*ZEV FILL IN*
+Chris Coons,SenCoonsOffice,ChrisCoons,,DE,D,1.57316,Senate,*ZEV FILL IN*
+Chuck Grassley,GrassleyPress,ChuckGrassley,,IA,R,1.52958,Senate,*ZEV FILL IN*
+John Boozman,JohnBoozman,Boozman4AR,,AR,R,1.51178,Senate,*ZEV FILL IN*
+Kevin Cramer,kevincramer,SenKevinCramer,,ND,R,1.40017,Senate,*ZEV FILL IN*
+Steve Daines,SteveDaines,,,MT,R,1.35493,Senate,*ZEV FILL IN*
+Amy Klobuchar,SenAmyKlobuchar,amyklobuchar,,MN,D,1.20981,Senate,*ZEV FILL IN*
+Doug Jones,SenDougJones,DougJones,,AL,D,1.15808,Senate,*ZEV FILL IN*
+Jacky Rosen,SenJackyRosen,RosenforNevada,,NV,D,1.14432,Senate,*ZEV FILL IN*
+Joe Manchin,JoeManchinWV,Sen_JoeManchin,,WV,D,1.12798,Senate,*ZEV FILL IN*
+Roy Blunt,RoyBluntMO,RoyBlunt,,MO,R,1.07934,Senate,*ZEV FILL IN*
+Tim Scott,votetimscott,SenatorTimScott,,SC,R,1.04325,Senate,*ZEV FILL IN*
+Richard Burr,BurrForSenate,SenatorBurr,,NC,R,0.99633,Senate,*ZEV FILL IN*
+John Hoeven,SenJohnHoeven,,,ND,R,0.95947,Senate,*ZEV FILL IN*
+Thom Tillis,SenThomTillis,ThomTillis,,NC,R,0.95733,Senate,*ZEV FILL IN*
+Jeanne Shaheen,SenatorShaheen,JeanneShaheen,,NH,D,0.93783,Senate,*ZEV FILL IN*
+Joni Ernst,SenJoniErnst,joniernst,,IA,R,0.87397,Senate,*ZEV FILL IN*
+Mike Crapo,MikeCrapo,,,ID,R,0.84921,Senate,*ZEV FILL IN*
+Lindsey Graham,GrahamBlog,LindseyGrahamSC,,SC,R,0.76101,Senate,*ZEV FILL IN*
+Johnny Isakson,SenatorIsakson,JohnnyIsakson,,GA,R,0.68683,Senate,*ZEV FILL IN*
+Angus King,SenAngusKing,,,ME,D,0.67431,Senate,*ZEV FILL IN*
+Mark Warner,MarkWarner,MarkWarnerVA,,VA,D,0.61617,Senate,*ZEV FILL IN*
+Charles Roberts,SenPatRoberts,PatRoberts,,KS,R,0.59892,Senate,*ZEV FILL IN*
+Mike Rounds,SenatorRounds,,,SD,R,0.58314,Senate,*ZEV FILL IN*
+Tammy Baldwin,tammybaldwin,SenatorBaldwin,,WI,D,0.50641,Senate,*ZEV FILL IN*
+Tina Smith,SenTinaSmith,TinaSmithMN,,MN,D,0.50318,Senate,*ZEV FILL IN*
+Pat Toomey,SenToomey,PatToomey,,PA,R,0.48029,Senate,*ZEV FILL IN*
+Michael Bennet,SenatorBennet,MichaelBennet,,CO,D,0.47966,Senate,*ZEV FILL IN*
+Bob Menendez,SenatorMenendez,BobMenendezNJ,,NJ,D,0.46323,Senate,*ZEV FILL IN*
+John Thune,SenJohnThune,johnthune,,SD,R,0.42951,Senate,*ZEV FILL IN*
+John Barrasso,SenJohnBarrasso,,,WY,R,0.42064,Senate,*ZEV FILL IN*
+James Lankford,SenatorLankford,,,OK,R,0.40495,Senate,*ZEV FILL IN*
+Ben Cardin,BenCardinforMD,SenatorCardin,,MD,D,0.40041,Senate,*ZEV FILL IN*
+Catherine Cortez Masto,SenCortezMasto,CatherineForNV,,NV,D,0.39273,Senate,*ZEV FILL IN*
+Bob Casey,Bob_Casey,SenBobCasey,,PA,D,0.3595,Senate,*ZEV FILL IN*
+Lamar Alexander,LamarAlexander,SenAlexander,,TN,R,0.3274,Senate,*ZEV FILL IN*
+John Neely Kennedy,JohnKennedyLA,SenJohnKennedy,,LA,R,0.27984,Senate,*ZEV FILL IN*
+Sherrod Brown,SenSherrodBrown,SherrodBrown,,OH,D,0.27911,Senate,*ZEV FILL IN*
+Deb Fischer,DebFischerNE,SenatorFischer,,NE,R,0.27574,Senate,*ZEV FILL IN*
+Jim Risch,SenatorRisch,Risch4Idaho,,ID,R,0.26547,Senate,*ZEV FILL IN*
+Marsha Blackburn,MarshaBlackburn,VoteMarsha,,TN,R,0.24786,Senate,*ZEV FILL IN*
+Debbie Stabenow,SenStabenow,stabenow,,MI,D,0.19326,Senate,*ZEV FILL IN*
+Mike Braun,braun4indiana,SenatorBraun,,IN,R,0.18492,Senate,*ZEV FILL IN*
+Ron Johnson,RonJohnsonWI,SenRonJohnson,,WI,R,0.16688,Senate,*ZEV FILL IN*
+Mitt Romney,SenatorRomney,MittRomney,,UT,R,0.14243,Senate,*ZEV FILL IN*
+Tom Carper,TomCarperforDE,SenatorCarper,,DE,D,0.06458,Senate,*ZEV FILL IN*
+Maria Cantwell,MariaCantwell,SenatorCantwell,,WA,D,0.00993,Senate,*ZEV FILL IN*
+Jim Inhofe,JimInhofe,InhofePress,,OK,R,-0.02392,Senate,*ZEV FILL IN*
+Cindy Hyde-Smith,cindyhydesmith,SenHydeSmith,,MS,R,-0.0256,Senate,*ZEV FILL IN*
+David Perdue,sendavidperdue,Perduesenate,,GA,R,-0.0418,Senate,*ZEV FILL IN*
+Dianne Feinstein,DianneFeinstein,SenFeinstein,,CA,D,-0.061,Senate,*ZEV FILL IN*
+Chris Van Hollen,VanHollenForMD,ChrisVanHollen,,MD,D,-0.07502,Senate,*ZEV FILL IN*
+Kirsten Gillibrand,gillibrandny,SenGillibrand,,NY,D,-0.10141,Senate,*ZEV FILL IN*
+Brian Schatz,SenBrianSchatz,brianschatz,,HI,D,-0.11555,Senate,*ZEV FILL IN*
+Elizabeth Warren,ewarren,SenWarren,,MA,D,-0.13038,Senate,*ZEV FILL IN*
+Martin Heinrich,MartinHeinrich,,,NM,D,-0.13568,Senate,*ZEV FILL IN*
+Ed Markey,EdMarkey,SenMarkey,,MA,D,-0.14534,Senate,*ZEV FILL IN*
+Tammy Duckworth,SenDuckworth,,,IL,D,-0.16112,Senate,*ZEV FILL IN*
+Ron Wyden,WydenPress,WydenForOregon,RonWyden,OR,D,-0.17821,Senate,*ZEV FILL IN*
+Richard Blumenthal,SenBlumenthal,,,CT,D,-0.19497,Senate,*ZEV FILL IN*
+Patrick Leahy,SenatorLeahy,,,VT,D,-0.20541,Senate,*ZEV FILL IN*
+Sheldon Whitehouse,SenWhitehouse,SheldonforRI,,RI,D,-0.21238,Senate,*ZEV FILL IN*
+Tom Cotton,SenTomCotton,TomCottonAR,,AR,R,-0.24526,Senate,*ZEV FILL IN*
+Dick Durbin,SenatorDurbin,DickDurbin,,IL,D,-0.27855,Senate,*ZEV FILL IN*
+Rand Paul,RandPaul,DrRandPaul,,KY,R,-0.28881,Senate,*ZEV FILL IN*
+Josh Hawley,HawleyMO,SenHawleyPress,,MO,R,-0.29032,Senate,*ZEV FILL IN*
+Mike Lee,SenMikeLee,,,UT,R,-0.34082,Senate,*ZEV FILL IN*
+Tim Kaine,timkaine,,,VA,D,-0.36628,Senate,*ZEV FILL IN*
+Mike Enzi,SenatorEnzi,,,WY,R,-0.44405,Senate,*ZEV FILL IN*
+Rick Scott,ScottforFlorida,SenRickScott,,FL,R,-0.44777,Senate,*ZEV FILL IN*
+Jeff Merkley,JeffMerkley,SenJeffMerkley,,OR,D,-0.47978,Senate,*ZEV FILL IN*
+Jack Reed,SenJackReed,,,RI,D,-0.51223,Senate,*ZEV FILL IN*
+Ted Cruz,SenTedCruz,tedcruz,,TX,R,-0.53971,Senate,*ZEV FILL IN*
+Cory Booker,CoryBooker,SenBooker,,NJ,D,-0.61229,Senate,*ZEV FILL IN*
+Tom Udall,SenatorTomUdall,TomUdallPress,,NM,D,-0.65696,Senate,*ZEV FILL IN*
+Chris Murphy,SenMurphyOffice,ChrisMurphyCT,,CT,D,-0.74095,Senate,*ZEV FILL IN*
+Ben Sasse,SenSasse,BenSasse,,NE,R,-0.80295,Senate,*ZEV FILL IN*
+Kamala Harris,SenKamalaHarris,KamalaHarris,,CA,D,-0.92915,Senate,*ZEV FILL IN*
+Mazie Hirono,maziehirono,mazieforhawaii,,HI,D,-0.95739,Senate,*ZEV FILL IN*
+Patty Murray,MurrayCampaign,PattyMurray,,WA,D,-1.00766,Senate,*ZEV FILL IN*
+Kelly Loeffler,SenatorLoeffler,,,GA,R,-1.09946,Senate,*ZEV FILL IN*
+Richard Shelby,SenShelby,,,AL,R,-1.19357,Senate,*ZEV FILL IN*
+Bernie Sanders,BernieSanders,SenSanders,,VT,D,-1.66974,Senate,*ZEV FILL IN*
+Brian Fitzpatrick,BrianFitzUSA,RepBrianFitz,,PA,R,6.83932,House,*ZEV FILL IN*
+John Katko,RepJohnKatko,,,NY,R,4.25232,House,*ZEV FILL IN*
+Josh Gottheimer,JoshGottheimer,RepJoshG,,NJ,D,3.64695,House,*ZEV FILL IN*
+Peter King,RepPeteKing,petekingcpg,,NY,R,3.348,House,*ZEV FILL IN*
+Chris Smith,RepChrisSmith,,,NJ,R,2.94641,House,*ZEV FILL IN*
+Don Young,DonYoungAK,repdonyoung,,AK,R,2.8809,House,*ZEV FILL IN*
+Ron Kind,KindforCongress,RepRonKind,,WI,D,2.84213,House,*ZEV FILL IN*
+Collin Peterson,collinpeterson,,,MN,D,2.51264,House,*ZEV FILL IN*
+Abigail Spanberger,SpanbergerVA07,RepSpanberger,,VA,D,2.30736,House,*ZEV FILL IN*
+David McKinley,RepMcKinley,,,WV,R,2.29043,House,*ZEV FILL IN*
+Jenniffer Gonzalez,RepJenniffer,,,PR,R,2.0737,House,*ZEV FILL IN*
+Dean Phillips,RepDeanPhillips,deanbphillips,,MN,D,2.02728,House,*ZEV FILL IN*
+Elise Stefanik,RepStefanik,EliseStefanik,,NY,R,1.86284,House,*ZEV FILL IN*
+Rodney Davis,RodneyDavis,,,IL,R,1.85946,House,*ZEV FILL IN*
+Don Bacon,RepDonBacon,DonJBacon,,NE,R,1.82881,House,*ZEV FILL IN*
+Henry Cuellar,RepCuellar,,,TX,D,1.77832,House,*ZEV FILL IN*
+Joe Cunningham,JoeCunninghamSC,RepCunningham,,SC,D,1.76579,House,*ZEV FILL IN*
+Anthony Brindisi,ABrindisiNY,RepBrindisi,,NY,D,1.74901,House,*ZEV FILL IN*
+Lee Zeldin,leezeldin,RepLeeZeldin,,NY,R,1.71579,House,*ZEV FILL IN*
+Tom O'Halleran,RepOHalleran,TomOHalleran,,AZ,D,1.63282,House,*ZEV FILL IN*
+Steve Stivers,stevestivers,RepSteveStivers,,OH,R,1.60116,House,*ZEV FILL IN*
+Van Taylor,RepVanTaylor,VanTaylorTX,,TX,R,1.56865,House,*ZEV FILL IN*
+Michael McCaul,RepMcCaul,McCaulforTexas,,TX,R,1.5027,House,*ZEV FILL IN*
+Antonio Delgado,repdelgado,DelgadoforNY19,,NY,D,1.50087,House,*ZEV FILL IN*
+Tom Cole,TomColeOK04,,,OK,R,1.49861,House,*ZEV FILL IN*
+Derek Kilmer,RepDerekKilmer,DerekKilmer,,WA,D,1.49799,House,*ZEV FILL IN*
+Gus Bilirakis,RepGusBilirakis,,,FL,R,1.49257,House,*ZEV FILL IN*
+Jimmy Panetta,RepJimmyPanetta,JimmyPanetta,,CA,D,1.45102,House,*ZEV FILL IN*
+Matt Cartwright,CartwrightPA,RepCartwright,,PA,D,1.44156,House,*ZEV FILL IN*
+Tom Reed,RepTomReed,TomReedCongress,,NY,R,1.43964,House,*ZEV FILL IN*
+Darren Soto,DarrenSoto,RepDarrenSoto,,FL,D,1.41872,House,*ZEV FILL IN*
+Elaine Luria,ElaineLuriaVA,RepElaineLuria,,VA,D,1.41624,House,*ZEV FILL IN*
+Kathleen Rice,RepKathleenRice,KathleenRice,,NY,D,1.41391,House,*ZEV FILL IN*
+Peter Welch,WelchForVT,PeterWelch,,VT,D,1.39486,House,*ZEV FILL IN*
+Cathy McMorris Rodgers,cathymcmorris,TeamCMR,,WA,R,1.37557,House,*ZEV FILL IN*
+Adam Kinzinger,RepKinzinger,AdamKinzinger,,IL,R,1.35736,House,*ZEV FILL IN*
+Mike Thompson,RepThompson,Mike_CA05,,CA,D,1.30854,House,*ZEV FILL IN*
+Ann McLane Kuster,RepAnnieKuster,AnnMcLaneKuster,,NH,D,1.30242,House,*ZEV FILL IN*
+Anthony Gonzalez,RepAGonzalez,anthonygonzalez,,OH,R,1.29965,House,*ZEV FILL IN*
+Ben Mcadams,BenMcAdams,RepBenMcAdams,,UT,D,1.27925,House,*ZEV FILL IN*
+Joe Neguse,RepJoeNeguse,JoeNeguse,,CO,D,1.2638,House,*ZEV FILL IN*
+Tim Ryan,RepTimRyan,TimRyan,,OH,D,1.21726,House,*ZEV FILL IN*
+John Rutherford,RepRutherfordFL,,,FL,R,1.20303,House,*ZEV FILL IN*
+David Joyce,RepDaveJoyce,DaveJoyceOH14,,OH,R,1.19926,House,*ZEV FILL IN*
+Conor Lamb,RepConorLamb,ConorLambPA,,PA,D,1.19867,House,*ZEV FILL IN*
+Will Hurd,WillHurd,HurdOnTheHill,,TX,R,1.1655,House,*ZEV FILL IN*
+Amata Radewagen,RepAmata,,,AS,R,1.16396,House,*ZEV FILL IN*
+Susan Brooks,SusanWBrooks,SusanBrooksIN,,IN,R,1.14,House,*ZEV FILL IN*
+David Trone,davidjtrone,RepDavidTrone,,MD,D,1.1325,House,*ZEV FILL IN*
+Cindy Axne,Axne4Congress,RepCindyAxne,,IA,D,1.13045,House,*ZEV FILL IN*
+Scott Peters,RepScottPeters,ScottPetersSD,,CA,D,1.12609,House,*ZEV FILL IN*
+Paul Tonko,PaulTonko,RepPaulTonko,,NY,D,1.09071,House,*ZEV FILL IN*
+Brian Mast,RepBrianMast,BrianMastFL,,FL,R,1.08583,House,*ZEV FILL IN*
+Mike Bost,BostForCongress,RepBost,,IL,R,1.08466,House,*ZEV FILL IN*
+Pete Stauber,PeteStauber,RepPeteStauber,,MN,R,1.054,House,*ZEV FILL IN*
+Vicente Gonzalez,RepGonzalez,,,TX,D,1.04917,House,*ZEV FILL IN*
+Terri Sewell,RepTerriSewell,,,AL,D,1.04208,House,*ZEV FILL IN*
+Eliot Engel,RepEliotEngel,,,NY,D,1.03345,House,*ZEV FILL IN*
+Jim Sensenbrenner,JimPressOffice,,,WI,R,1.03132,House,*ZEV FILL IN*
+Darin Lahood,RepLaHood,,,IL,R,1.02415,House,*ZEV FILL IN*
+Buddy Carter,Buddy_Carter,RepBuddyCarter,,GA,R,1.02338,House,*ZEV FILL IN*
+Thomas Suozzi,Tom_Suozzi,RepTomSuozzi,,NY,D,1.02125,House,*ZEV FILL IN*
+Jason Crow,JasonCrowCO6,RepJasonCrow,,CO,D,1.01193,House,*ZEV FILL IN*
+John Curtis,RepJohnCurtis,CurtisUT,,UT,R,1.00936,House,*ZEV FILL IN*
+Elissa Slotkin,ElissaSlotkin,RepSlotkin,,MI,D,1.00082,House,*ZEV FILL IN*
+Ted Yoho,RepTedYoho,,,FL,R,0.97715,House,*ZEV FILL IN*
+Vern Buchanan,VernBuchanan,,,FL,R,0.96964,House,*ZEV FILL IN*
+Kendra Horn,HornForCongress,RepKendraHorn,,OK,D,0.96283,House,*ZEV FILL IN*
+Glenn Thompson,GT_TeamGT,CongressmanGT,,PA,R,0.9597,House,*ZEV FILL IN*
+Abby Finkenauer,RepFinkenauer,Abby4Iowa,,IA,D,0.95556,House,*ZEV FILL IN*
+Ann Wagner,RepAnnWagner,AnnLWagner,,MO,R,0.94177,House,*ZEV FILL IN*
+Josh Harder,RepJoshHarder,JoshHarder,,CA,D,0.92242,House,*ZEV FILL IN*
+Max Rose,MaxRose4NY,RepMaxRose,,NY,D,0.89914,House,*ZEV FILL IN*
+Paul Cook,RepPaulCook,,,CA,R,0.88398,House,*ZEV FILL IN*
+Andy Kim,AndyKimNJ,RepAndyKimNJ,,NJ,D,0.8799,House,*ZEV FILL IN*
+Joe Wilson,RepJoeWilson,CongJoeWilson,,SC,R,0.84118,House,*ZEV FILL IN*
+Jared Golden,golden4congress,RepGolden,,ME,D,0.83044,House,*ZEV FILL IN*
+Jackie Walorski,jackiewalorski,RepWalorski,,IN,R,0.82095,House,*ZEV FILL IN*
+Earl Blumenauer,repblumenauer,,,OR,D,0.8177,House,*ZEV FILL IN*
+Tulsi Gabbard,TulsiGabbard,TulsiPress,,HI,D,0.80671,House,*ZEV FILL IN*
+Mike Turner,MikeTurnerOH,RepMikeTurner,,OH,R,0.78947,House,*ZEV FILL IN*
+John Garamendi,JohnGaramendi,RepGaramendi,,CA,D,0.78401,House,*ZEV FILL IN*
+Brad Schneider,RepSchneider,Schneider4IL10,,IL,D,0.7831,House,*ZEV FILL IN*
+Guy Reschenthaler,reschenthaler,GReschenthaler,,PA,R,0.76908,House,*ZEV FILL IN*
+Jaime Herrera Beutler,HerreraBeutler,JaimeForUSRep,,WA,R,0.7597,House,*ZEV FILL IN*
+Michael Waltz,michaelgwaltz,RepMichaelWaltz,,FL,R,0.74534,House,*ZEV FILL IN*
+Charlie Crist,RepCharlieCrist,CharlieCrist,,FL,D,0.74517,House,*ZEV FILL IN*
+Raul Ruiz,RepRaulRuizMD,Dr_RaulRuiz,,CA,D,0.74395,House,*ZEV FILL IN*
+Mike Gallagher,RepGallagher,MikeforWI,,WI,R,0.74369,House,*ZEV FILL IN*
+Jeff Fortenberry,JeffFortenberry,,,NE,R,0.74045,House,*ZEV FILL IN*
+James Langevin,LangevinForRI,JimLangevin,,RI,D,0.71725,House,*ZEV FILL IN*
+Angie Craig,AngieCraigMN,RepAngieCraig,,MN,D,0.71094,House,*ZEV FILL IN*
+Tim Walberg,TimWalberg,RepWalberg,,MI,R,0.70639,House,*ZEV FILL IN*
+Fred Upton,RepFredUpton,UptonForAllOfUs,,MI,R,0.70064,House,*ZEV FILL IN*
+Stephanie Murphy,SMurphyCongress,RepStephMurphy,,FL,D,0.69541,House,*ZEV FILL IN*
+Steve Chabot,SteveChabot,RepSteveChabot,,OH,R,0.68059,House,*ZEV FILL IN*
+Chris Pappas,ChrisPappasNH,RepChrisPappas,,NH,D,0.67513,House,*ZEV FILL IN*
+Susie Lee,RepSusieLee,SusieLeeNV,,NV,D,0.67079,House,*ZEV FILL IN*
+Kurt Schrader,RepSchrader,,,OR,D,0.66722,House,*ZEV FILL IN*
+Phil Roe,DrPhilRoe,,,TN,R,0.65543,House,*ZEV FILL IN*
+Pete Olson,RepPeteOlson,PeteOlson,,TX,R,0.6537,House,*ZEV FILL IN*
+Scott Tipton,RepTipton,,,CO,R,0.6469,House,*ZEV FILL IN*
+Chrissy Houlahan,RepHoulahan,HoulahanForPa,,PA,D,0.63697,House,*ZEV FILL IN*
+Ann Kirkpatrick,Ann_Kirkpatrick,RepKirkpatrick,,AZ,D,0.63361,House,*ZEV FILL IN*
+Brad Sherman,BradSherman4SFV,BradSherman,,CA,D,0.62495,House,*ZEV FILL IN*
+Francis Rooney,RepRooney,FrancisRooney,,FL,R,0.61581,House,*ZEV FILL IN*
+Dan Lipinski,RepLipinski,DanLipinski,,IL,D,0.61555,House,*ZEV FILL IN*
+Seth Moulton,sethmoulton,teammoulton,,MA,D,0.61322,House,*ZEV FILL IN*
+Frank Lucas,RepFrankLucas,,,OK,R,0.61122,House,*ZEV FILL IN*
+Xochitl Torres Small,RepTorresSmall,XochforCongress,,NM,D,0.60634,House,*ZEV FILL IN*
+Gil Cisneros,GilCisnerosCA,RepGilCisneros,,CA,D,0.58577,House,*ZEV FILL IN*
+Colin Allred,ColinAllredTX,RepColinAllred,,TX,D,0.58477,House,*ZEV FILL IN*
+Debbie Dingell,DebDingell,RepDebDingell,,MI,D,0.56848,House,*ZEV FILL IN*
+Peter Defazio,RepPeterDeFazio,,,OR,D,0.55195,House,*ZEV FILL IN*
+Dave Loebsack,daveloebsack,DaveForIowa,,IA,D,0.54675,House,*ZEV FILL IN*
+Anthony Brown,AnthonyBrownMD4,RepAnthonyBrown,,MD,D,0.54489,House,*ZEV FILL IN*
+Jack Bergman,RepJackBergman,JackBergman_MI1,,MI,R,0.52541,House,*ZEV FILL IN*
+Mikie Sherrill,MikieSherrill,RepSherrill,,NJ,D,0.52491,House,*ZEV FILL IN*
+Gerry Connolly,GerryConnolly,ElectConnolly,,VA,D,0.52369,House,*ZEV FILL IN*
+Gregorio Sablan,Kilili_Sablan,,,MP,D,0.51397,House,*ZEV FILL IN*
+Troy Balderson,RepBalderson,Troy_Balderson,,OH,R,0.50926,House,*ZEV FILL IN*
+Lizzie Pannill Fletcher,RepFletcher,Lizzie4Congress,,TX,D,0.50006,House,*ZEV FILL IN*
+Harley Rouda,HarleyRouda,RepHarley,,CA,D,0.49601,House,*ZEV FILL IN*
+Sanford Bishop,SanfordBishop,,,GA,D,0.4887,House,*ZEV FILL IN*
+Chellie Pingree,chelliepingree,,,ME,D,0.48617,House,*ZEV FILL IN*
+Cheri Bustos,CheriBustos,RepCheri,,IL,D,0.48405,House,*ZEV FILL IN*
+Joe Courtney,JoeCourtneyCT,RepJoeCourtney,,CT,D,0.48387,House,*ZEV FILL IN*
+Jim McGovern,McGovernMA,RepMcGovern,,MA,D,0.47069,House,*ZEV FILL IN*
+Mike Kelly,MikeKellyPA,MikeKellyforPA,,PA,R,0.4669,House,*ZEV FILL IN*
+Susan Wild,wildforcongress,RepSusanWild,,PA,D,0.44862,House,*ZEV FILL IN*
+Tom Malinowski,Malinowski,RepMalinowski,,NJ,D,0.43254,House,*ZEV FILL IN*
+Eddie Bernice Johnson,RepEBJ,,,TX,D,0.42547,House,*ZEV FILL IN*
+Roger Marshall,RepMarshall,RogerMarshallMD,,KS,R,0.42486,House,*ZEV FILL IN*
+Markwayne Mullin,MarkwayneMullin,RepMullin,,OK,R,0.41798,House,*ZEV FILL IN*
+Brad Wenstrup,RepBradWenstrup,,,OH,R,0.40225,House,*ZEV FILL IN*
+Denny Heck,RepDennyHeck,,,WA,D,0.39136,House,*ZEV FILL IN*
+Lisa Blunt Rochester,LisaBRochester,RepLBR,,DE,D,0.3894,House,*ZEV FILL IN*
+Paul Mitchell,RepPaulMitchell,,,MI,R,0.36355,House,*ZEV FILL IN*
+George Holding,RepHolding,GeorgeHolding,,NC,R,0.35992,House,*ZEV FILL IN*
+Bill Pascrell,PascrellforNJ,BillPascrell,,NJ,D,0.35605,House,*ZEV FILL IN*
+Dan Crenshaw,DanCrenshawTX,RepDanCrenshaw,,TX,R,0.35529,House,*ZEV FILL IN*
+Lou Correa,RepLouCorrea,voteloucorrea,,CA,D,0.35367,House,*ZEV FILL IN*
+Suzan Delbene,SuzanDelBene,RepDelBene,,WA,D,0.35231,House,*ZEV FILL IN*
+Dusty Johnson,RepDustyJohnson,DustyJohnson,,SD,R,0.35075,House,*ZEV FILL IN*
+Ron Estes,RepRonEstes,RonEstesKS,,KS,R,0.34983,House,*ZEV FILL IN*
+Vicky Hartzler,RepHartzler,VickyH4Congress,,MO,R,0.3422,House,*ZEV FILL IN*
+Dutch Ruppersberger,Call_Me_Dutch,GoDutchForMD,,MD,D,0.34119,House,*ZEV FILL IN*
+David Cicilline,RepCicilline,davidcicilline,,RI,D,0.34039,House,*ZEV FILL IN*
+David Schweikert,DavidSchweikert,RepDavid,,AZ,R,0.33982,House,*ZEV FILL IN*
+Ted Deutch,TedDeutch,RepTedDeutch,,FL,D,0.33098,House,*ZEV FILL IN*
+Jim Baird,RepJimBaird,,,IN,R,0.32969,House,*ZEV FILL IN*
+Bill Foster,RepBillFoster,Foster4Congress,,IL,D,0.32769,House,*ZEV FILL IN*
+Doris Matsui,DorisMatsui,Matsui4Congress,,CA,D,0.3256,House,*ZEV FILL IN*
+Nydia Velazquez,ReElectNydia,NydiaVelazquez,,NY,D,0.31147,House,*ZEV FILL IN*
+Ruben Gallego,RubenGallego,RepRubenGallego,,AZ,D,0.31108,House,*ZEV FILL IN*
+Adrian Smith,RepAdrianSmith,,,NE,R,0.30817,House,*ZEV FILL IN*
+Bruce Westerman,WestermanAR,RepWesterman,,AR,R,0.30209,House,*ZEV FILL IN*
+Paul Gosar,DrPaulGosar,RepGosar,,AZ,R,0.29777,House,*ZEV FILL IN*
+Greg Stanton,RepGregStanton,gregstantonaz,,AZ,D,0.28692,House,*ZEV FILL IN*
+Dan Meuser,RepMeuser,Meuser4Congress,,PA,R,0.28203,House,*ZEV FILL IN*
+Brian Higgins,Higgins4WNY,RepBrianHiggins,,NY,D,0.28111,House,*ZEV FILL IN*
+Zoe Lofgren,RepZoeLofgren,,,CA,D,0.28064,House,*ZEV FILL IN*
+Ken Calvert,KenCalvert,TeamCalvert,,CA,R,0.27601,House,*ZEV FILL IN*
+Dan Newhouse,RepNewhouse,,,WA,R,0.27218,House,*ZEV FILL IN*
+Ben Ray Lujan,repbenraylujan,benraylujan,,NM,D,0.26132,House,*ZEV FILL IN*
+Hakeem Jeffries,hakeem_jeffries,RepJeffries,,NY,D,0.2579,House,*ZEV FILL IN*
+Austin Scott,AustinScottGA08,,,GA,R,0.25755,House,*ZEV FILL IN*
+Mario Diaz-Balart,MarioDBCamp,MarioDB,,FL,R,0.25606,House,*ZEV FILL IN*
+Steve Cohen,ReElectCohen,RepCohen,,TN,D,0.25381,House,*ZEV FILL IN*
+Donna Shalala,RepShalala,DonnaShalala,,FL,D,0.24497,House,*ZEV FILL IN*
+Larry Bucshon,RepLarryBucshon,,,IN,R,0.24314,House,*ZEV FILL IN*
+Lucy Mcbath,lucymcbath,RepLucyMcBath,,GA,D,0.23528,House,*ZEV FILL IN*
+T.J. Cox,TJCoxCongress,RepTjCox,,CA,D,0.23256,House,*ZEV FILL IN*
+Marcy Kaptur,Marcy_Kaptur,RepMarcyKaptur,,OH,D,0.23253,House,*ZEV FILL IN*
+Steven Palazzo,StevenPalazzo,CongPalazzo,,MS,R,0.22813,House,*ZEV FILL IN*
+Suzanne Bonamici,RepBonamici,,,OR,D,0.22484,House,*ZEV FILL IN*
+Rob Wittman,RobWittman,ReElectWittman,,VA,R,0.22308,House,*ZEV FILL IN*
+Diana Degette,RepDianaDeGette,DeGette5280,,CO,D,0.21696,House,*ZEV FILL IN*
+Doug Lamalfa,RepLaMalfa,,,CA,R,0.21468,House,*ZEV FILL IN*
+Lloyd Smucker,RepSmucker,LloydSmuckerPA,,PA,R,0.21217,House,*ZEV FILL IN*
+Raja Krishnamoorthi,CongressmanRaja,RajaForCongress,,IL,D,0.21083,House,*ZEV FILL IN*
+Ed Case,RepEdCase,,,HI,D,0.20774,House,*ZEV FILL IN*
+Donald Norcross,DonaldNorcross,,,NJ,D,0.20157,House,*ZEV FILL IN*
+Bobby Rush,RepBobbyRush,,,IL,D,0.1977,House,*ZEV FILL IN*
+Ed Perlmutter,RepPerlmutter,Ed4Colorado,,CO,D,0.19111,House,*ZEV FILL IN*
+Michael Doyle,USRepMikeDoyle,,,PA,D,0.18481,House,*ZEV FILL IN*
+Greg Walden,votegregwalden,repgregwalden,,OR,R,0.18453,House,*ZEV FILL IN*
+Carolyn Maloney,CarolynBMaloney,RepMaloney,,NY,D,0.1833,House,*ZEV FILL IN*
+Salud Carbajal,RepCarbajal,carbajalsalud,,CA,D,0.17887,House,*ZEV FILL IN*
+Mike Quigley,RepMikeQuigley,,,IL,D,0.17783,House,*ZEV FILL IN*
+Morgan Griffith,RepMGriffith,MorganGriffith,,VA,R,0.17441,House,*ZEV FILL IN*
+Kim Schrier,RepKimSchrier,DrKimSchrier,,WA,D,0.16952,House,*ZEV FILL IN*
+Ro Khanna,RoKhanna,RepRoKhanna,,CA,D,0.16045,House,*ZEV FILL IN*
+Garret Graves,garretgraves,RepGarretGraves,,LA,R,0.1545,House,*ZEV FILL IN*
+Mark Amodei,MarkAmodeiNV2,,,NV,R,0.15312,House,*ZEV FILL IN*
+Julia Brownley,RepBrownley,JuliaBrownley,,CA,D,0.15308,House,*ZEV FILL IN*
+Glenn Grothman,GrothmanforWI,RepGrothman,,WI,R,0.13425,House,*ZEV FILL IN*
+Alcee Hastings,RepHastingsFL,,,FL,D,0.13091,House,*ZEV FILL IN*
+John Moolenaar,RepMoolenaar,,,MI,R,0.12994,House,*ZEV FILL IN*
+French Hill,RepFrenchHill,,,AR,R,0.12919,House,*ZEV FILL IN*
+Jackie Speier,RepSpeier,JackieSpeier,,CA,D,0.12298,House,*ZEV FILL IN*
+Danny Davis,RepDannyDavis,,,IL,D,0.11383,House,*ZEV FILL IN*
+Anna Eshoo,RepAnnaEshoo,Eshoo4Congress,,CA,D,0.11088,House,*ZEV FILL IN*
+Richard Hudson,RichHudson,RepRichHudson,,NC,R,0.09517,House,*ZEV FILL IN*
+Bob Latta,latta4congress,boblatta,,OH,R,0.09505,House,*ZEV FILL IN*
+Ami Bera,RepBera,BeraForCongress,,CA,D,0.09456,House,*ZEV FILL IN*
+Ted Lieu,tedlieu,RepTedLieu,,CA,D,0.08906,House,*ZEV FILL IN*
+Jan Schakowsky,RepSchakowsky,janschakowsky,,IL,D,0.07888,House,*ZEV FILL IN*
+G.K. Butterfield,GKButterfield,,,NC,D,0.07775,House,*ZEV FILL IN*
+Tom Graves,RepTomGraves,TomGravesGA14,,GA,R,0.07723,House,*ZEV FILL IN*
+Haley Stevens,RepHaleyStevens,HaleyLive,,MI,D,0.07336,House,*ZEV FILL IN*
+Kenny Marchant,RepKenMarchant,,,TX,R,0.07061,House,*ZEV FILL IN*
+Fred Keller,RepFredKeller,,,PA,R,0.07048,House,*ZEV FILL IN*
+Betty McCollum,BettyMcCollum04,,,MN,D,0.06716,House,*ZEV FILL IN*
+Jim Hagedorn,JimHagedornMN,RepHagedorn,,MN,R,0.06324,House,*ZEV FILL IN*
+Joseph Morelle,votemorelle,RepJoeMorelle,,NY,D,0.06187,House,*ZEV FILL IN*
+Trey Hollingsworth,RepTrey,VoteForTrey,,IN,R,0.0612,House,*ZEV FILL IN*
+David Scott,repdavidscott,,,GA,D,0.06107,House,*ZEV FILL IN*
+Joyce Beatty,RepBeatty,JoyceBeatty,,OH,D,0.05927,House,*ZEV FILL IN*
+Deb Haaland,RepDebHaaland,Deb4CongressNM,,NM,D,0.05685,House,*ZEV FILL IN*
+Filemon Vela,RepFilemonVela,,,TX,D,0.05613,House,*ZEV FILL IN*
+Al Lawson,RepAlLawsonJr,AlLawsonJr,,FL,D,0.04996,House,*ZEV FILL IN*
+Brendan Boyle,CongBoyle,RepBrendanBoyle,,PA,D,0.04462,House,*ZEV FILL IN*
+John Larson,JohnLarsonCT,RepJohnLarson,,CT,D,0.04087,House,*ZEV FILL IN*
+Tony Cardenas,Tcardenas,RepCardenas,,CA,D,0.03785,House,*ZEV FILL IN*
+Greg Steube,RepGregSteube,gregsteube,,FL,R,0.03669,House,*ZEV FILL IN*
+Donald Payne,RepDonaldPayne,,,NJ,D,0.03042,House,*ZEV FILL IN*
+Steve Watkins,Rep_Watkins,Steve4Kansas,,KS,R,0.02958,House,*ZEV FILL IN*
+Joaquin Castro,JoaquinCastrotx,,,TX,D,0.0274,House,*ZEV FILL IN*
+David Kustoff,RepDavidKustoff,DavidKustoff,,TN,R,0.02346,House,*ZEV FILL IN*
+Sean Patrick Maloney,RepSeanMaloney,spmaloney,,NY,D,0.02248,House,*ZEV FILL IN*
+Lois Frankel,RepLoisFrankel,LoisFrankel,,FL,D,0.0205,House,*ZEV FILL IN*
+Jerry McNerney,RepMcNerney,jerrymcnerney,,CA,D,0.01761,House,*ZEV FILL IN*
+Robin Kelly,RepRobinKelly,RobinLynneKelly,,IL,D,0.01361,House,*ZEV FILL IN*
+Bill Posey,congbillposey,,,FL,R,0.0107,House,*ZEV FILL IN*
+Brett Guthrie,RepGuthrie,brettguthrie,,KY,R,0.01039,House,*ZEV FILL IN*
+Jason Smith,JasonSmithMO,RepJasonSmith,,MO,R,0.00992,House,*ZEV FILL IN*
+Stephen Lynch,RepStephenLynch,RepLynch,,MA,D,0.00713,House,*ZEV FILL IN*
+Marc Veasey,RepVeasey,MarcVeasey,,TX,D,0.0067,House,*ZEV FILL IN*
+Frank Pallone,FrankPallone,pallonefornj,,NJ,D,-0.00531,House,*ZEV FILL IN*
+Tom Emmer,RepTomEmmer,tomemmer,,MN,R,-0.00763,House,*ZEV FILL IN*
+Gwen Moore,RepGwenMoore,Gwen4Congress,,WI,D,-0.01532,House,*ZEV FILL IN*
+Emanuel Cleaver,repcleaver,Vote4Cleaver,,MO,D,-0.01839,House,*ZEV FILL IN*
+Katie Porter,katieporteroc,RepKatiePorter,,CA,D,-0.02984,House,*ZEV FILL IN*
+Dina Titus,dinatitus,repdinatitus,,NV,D,-0.04676,House,*ZEV FILL IN*
+Doug Collins,CollinsforGA,RepDougCollins,,GA,R,-0.04966,House,*ZEV FILL IN*
+Kathy Castor,USRepKCastor,KathyCastorFL,,FL,D,-0.05078,House,*ZEV FILL IN*
+Tim Burchett,RepTimBurchett,timburchett,,TN,R,-0.05498,House,*ZEV FILL IN*
+Jared Huffman,JaredHuffman,RepHuffman,,CA,D,-0.056,House,*ZEV FILL IN*
+Marcia Fudge,mlfudge,RepMarciaFudge,,OH,D,-0.05621,House,*ZEV FILL IN*
+Rob Bishop,RobBishopUT,RepRobBishop,,UT,R,-0.05912,House,*ZEV FILL IN*
+Mark Pocan,repmarkpocan,MarkPocan,,WI,D,-0.05993,House,*ZEV FILL IN*
+Eleanor Holmes Norton,EleanorNorton,,,DC,D,-0.06546,House,*ZEV FILL IN*
+Trent Kelly,RepTrentKelly,KellyforMS01,,MS,R,-0.07256,House,*ZEV FILL IN*
+Mark Takano,MarkTakano,RepMarkTakano,,CA,D,-0.0736,House,*ZEV FILL IN*
+Jim Costa,RepJimCosta,,,CA,D,-0.07435,House,*ZEV FILL IN*
+Roger Williams,RepRWilliams,,,TX,R,-0.07757,House,*ZEV FILL IN*
+Linda Sanchez,LindaTSanchez,RepLindaSanchez,,CA,D,-0.09479,House,*ZEV FILL IN*
+Grace Napolitano,gracenapolitano,grace4congress,,CA,D,-0.09515,House,*ZEV FILL IN*
+Val Demings,val_demings,RepValDemings,,FL,D,-0.09562,House,*ZEV FILL IN*
+Bryan Steil,BryanSteil,RepBryanSteil,,WI,R,-0.09659,House,*ZEV FILL IN*
+Mike Levin,RepMikeLevin,MikeLevin,,CA,D,-0.09674,House,*ZEV FILL IN*
+Jamie Raskin,jamie_raskin,RepRaskin,,MD,D,-0.10566,House,*ZEV FILL IN*
+Grace Meng,RepGraceMeng,Grace4NY,,NY,D,-0.11152,House,*ZEV FILL IN*
+James Comer,JamesComer,,,KY,R,-0.12203,House,*ZEV FILL IN*
+Jennifer Wexton,JenniferWexton,RepWexton,,VA,D,-0.12352,House,*ZEV FILL IN*
+Lori Trahan,RepLoriTrahan,LoriTrahanMA,,MA,D,-0.12752,House,*ZEV FILL IN*
+Don Beyer,RepDonBeyer,DonBeyerVA,,VA,D,-0.12921,House,*ZEV FILL IN*
+Sheila Jackson Lee,JacksonLeeTX18,,,TX,D,-0.12998,House,*ZEV FILL IN*
+Karen Bass,RepKarenBass,KarenBassTweets,,CA,D,-0.13179,House,*ZEV FILL IN*
+Dan Kildee,RepDanKildee,dankildee,,MI,D,-0.13211,House,*ZEV FILL IN*
+Richard Neal,RepRichardNeal,,,MA,D,-0.14637,House,*ZEV FILL IN*
+Chris Collins,,,,NY,R,-0.15061,House,*ZEV FILL IN*
+Mark Meadows,MarkMeadows,TeamMeadows,,NC,R,-0.15311,House,*ZEV FILL IN*
+Greg Pence,GregPenceIN,RepGregPence,,IN,R,-0.15612,House,*ZEV FILL IN*
+Debbie Wasserman Schultz,RepDWStweets,DWStweets,,FL,D,-0.1609,House,*ZEV FILL IN*
+Ross Spano,RossSpano,RepRossSpano,,FL,R,-0.16375,House,*ZEV FILL IN*
+Eric Swalwell,RepSwalwell,ericswalwell,,CA,D,-0.18178,House,*ZEV FILL IN*
+Thomas Massie,RepThomasMassie,,,KY,R,-0.18282,House,*ZEV FILL IN*
+Yvette Clarke,RepYvetteClarke,VoteYvette,,NY,D,-0.18608,House,*ZEV FILL IN*
+Brian Babin,RepBrianBabin,,,TX,R,-0.18846,House,*ZEV FILL IN*
+Bill Keating,USRepKeating,WilliamKeating,,MA,D,-0.20656,House,*ZEV FILL IN*
+Rick Larsen,RepRickLarsen,larsenrick,,WA,D,-0.21257,House,*ZEV FILL IN*
+Denver Riggleman,RepRiggleman,Denver4VA,,VA,R,-0.21437,House,*ZEV FILL IN*
+Judy Chu,RepJudyChu,,,CA,D,-0.21887,House,*ZEV FILL IN*
+Bradley Byrne,RepByrne,BradleyByrne,,AL,R,-0.22203,House,*ZEV FILL IN*
+Sam Graves,RepSamGraves,,,MO,R,-0.22455,House,*ZEV FILL IN*
+Carol Miller,RepCarolMiller,,,WV,R,-0.22806,House,*ZEV FILL IN*
+Daniel Webster,WebsterCongress,RepWebster,,FL,R,-0.23189,House,*ZEV FILL IN*
+Chris Stewart,StewartforUtah,RepChrisStewart,,UT,R,-0.23332,House,*ZEV FILL IN*
+Patrick McHenry,PatrickMcHenry,McHenryCampaign,,NC,R,-0.23474,House,*ZEV FILL IN*
+Michael Burgess,michaelcburgess,,,TX,R,-0.23902,House,*ZEV FILL IN*
+Raul Grijalva,RepRaulGrijalva,standwithraul,,AZ,D,-0.24407,House,*ZEV FILL IN*
+Albio Sires,RepSires,,,NJ,D,-0.24737,House,*ZEV FILL IN*
+Tom Rice,RepTomRice,,,SC,R,-0.24992,House,*ZEV FILL IN*
+Lacy Clay,LacyClayMO1,,,MO,D,-0.25049,House,*ZEV FILL IN*
+John Ratcliffe,RatcliffeTX4,RepRatcliffe,,TX,R,-0.25138,House,*ZEV FILL IN*
+Bill Johnson,RepBillJohnson,JohnsonLeads,,OH,R,-0.25457,House,*ZEV FILL IN*
+Donald Mceachin,Donald_McEachin,RepMcEachin,,VA,D,-0.27055,House,*ZEV FILL IN*
+Chuck Fleischmann,chuck4congress,RepChuck,,TN,R,-0.27235,House,*ZEV FILL IN*
+Stacey Plaskett,StaceyPlaskett,,,VI,D,-0.2764,House,*ZEV FILL IN*
+Mike Simpson,MikeSimpson4ID,CongMikeSimpson,,ID,R,-0.28105,House,*ZEV FILL IN*
+Jerrold Nadler,RepJerryNadler,JerryNadler,,NY,D,-0.28429,House,*ZEV FILL IN*
+Sean Duffy,SeanDuffyWI,,,WI,R,-0.2856,House,*ZEV FILL IN*
+Sharice Davids,sharicedavids,RepDavids,,KS,D,-0.28764,House,*ZEV FILL IN*
+Rob Woodall,RepRobWoodall,,,GA,R,-0.28884,House,*ZEV FILL IN*
+Justin Amash,justinamash,,,MI,R,-0.29115,House,*ZEV FILL IN*
+Mike Rogers,RepMikeRogersAL,MikeRogersCamp,,AL,R,-0.29136,House,*ZEV FILL IN*
+Jim Cooper,repjimcooper,CoopForCongress,,TN,D,-0.29216,House,*ZEV FILL IN*
+Jose Serrano,RepJoseSerrano,,,NY,D,-0.29324,House,*ZEV FILL IN*
+Joseph Kennedy,joekennedy,RepJoeKennedy,,MA,D,-0.29349,House,*ZEV FILL IN*
+Ben Cline,Cline4Virginia,RepBenCline,,VA,R,-0.2985,House,*ZEV FILL IN*
+Mark Green,RepMarkGreen,DrMarkGreen4TN,,TN,R,-0.3013,House,*ZEV FILL IN*
+Ron Wright,RepRonWright,,,TX,R,-0.30965,House,*ZEV FILL IN*
+Bennie Thompson,BennieGThompson,,,MS,D,-0.31218,House,*ZEV FILL IN*
+Debbie Lesko,DebbieLesko,RepDLesko,,AZ,R,-0.31408,House,*ZEV FILL IN*
+Brenda Lawrence,BrendaLLawrence,RepLawrence,,MI,D,-0.3144,House,*ZEV FILL IN*
+Blaine Luetkemeyer,LuetkemeyerB,RepBlaine,,MO,R,-0.31633,House,*ZEV FILL IN*
+Mark Desaulnier,RepDeSaulnier,,,CA,D,-0.3167,House,*ZEV FILL IN*
+Alan Lowenthal,RepLowenthal,,,CA,D,-0.31696,House,*ZEV FILL IN*
+Andy Levin,RepAndyLevin,Andy_Levin,,MI,D,-0.32202,House,*ZEV FILL IN*
+Mike Conaway,ConawayTX11,,,TX,R,-0.32789,House,*ZEV FILL IN*
+Susan Davis,RepSusanDavis,,,CA,D,-0.32832,House,*ZEV FILL IN*
+Andy Harris,Harris4Congress,RepAndyHarrisMD,,MD,R,-0.33499,House,*ZEV FILL IN*
+Duncan Hunter,,,,CA,R,-0.33735,House,*ZEV FILL IN*
+Cedric Richmond,CedricRichmond,RepRichmond,,LA,D,-0.34515,House,*ZEV FILL IN*
+Matt Gaetz,mattgaetz,RepMattGaetz,,FL,R,-0.34847,House,*ZEV FILL IN*
+Doug Lamborn,RepDLamborn,,,CO,R,-0.35018,House,*ZEV FILL IN*
+Michael San Nicolas,,,,GU,D,-0.35743,House,*ZEV FILL IN*
+Drew Ferguson,RepDrewFerguson,,,GA,R,-0.36057,House,*ZEV FILL IN*
+Elijah Cummings,RepCummings,ReElectCummings,,MD,D,-0.36068,House,*ZEV FILL IN*
+Bobby Scott,BobbyScott4VA3,BobbyScott,,VA,D,-0.37748,House,*ZEV FILL IN*
+Veronica Escobar,vgescobar,RepEscobar,,TX,D,-0.38365,House,*ZEV FILL IN*
+Lloyd Doggett,RepLloydDoggett,LloydDoggettTX,,TX,D,-0.38415,House,*ZEV FILL IN*
+Norma Torres,NormaJTorres,Norma4Congress,,CA,D,-0.39059,House,*ZEV FILL IN*
+Hank Johnson,RepHankJohnson,ReElectHank,,GA,D,-0.39061,House,*ZEV FILL IN*
+Andy Barr,RepAndyBarr,barrforcongress,,KY,R,-0.39878,House,*ZEV FILL IN*
+Madeleine Dean,RepDean,MadeleineDean,,PA,D,-0.41095,House,*ZEV FILL IN*
+William Timmons,RepTimmons,,,SC,R,-0.41125,House,*ZEV FILL IN*
+David Price,RepDavidEPrice,,,NC,D,-0.41942,House,*ZEV FILL IN*
+David Rouzer,RepDavidRouzer,DavidRouzer,,NC,R,-0.43503,House,*ZEV FILL IN*
+Rosa Delauro,Rosa_DeLauro,rosadelauro,,CT,D,-0.43696,House,*ZEV FILL IN*
+Sylvia Garcia,RepSylviaGarcia,,,TX,D,-0.44702,House,*ZEV FILL IN*
+Billy Long,USRepLong,auctnr1,,MO,R,-0.44728,House,*ZEV FILL IN*
+John Yarmuth,RepJohnYarmuth,,,KY,D,-0.45525,House,*ZEV FILL IN*
+Virginia Foxx,foxxforcongress,virginiafoxx,,NC,R,-0.46232,House,*ZEV FILL IN*
+Martha Roby,RepMarthaRoby,,,AL,R,-0.46381,House,*ZEV FILL IN*
+Lauren Underwood,RepUnderwood,LaurenUnderwood,,IL,D,-0.46388,House,*ZEV FILL IN*
+Neal Dunn,DunnCampaign,DrNealDunnFL2,,FL,R,-0.47778,House,*ZEV FILL IN*
+Michael Guest,RepMichaelGuest,GuestCongress,,MS,R,-0.48168,House,*ZEV FILL IN*
+Lance Gooden,Lancegooden,,,TX,R,-0.48317,House,*ZEV FILL IN*
+Barry Loudermilk,RepLoudermilk,standwithbarry,,GA,R,-0.48676,House,*ZEV FILL IN*
+Mark Walker,RepMarkWalker,,,NC,R,-0.50474,House,*ZEV FILL IN*
+Alma Adams,RepAdams,,,NC,D,-0.50727,House,*ZEV FILL IN*
+Randy Weber,WeberforTexas,TXRandy14,,TX,R,-0.51,House,*ZEV FILL IN*
+Andre Carson,RepAndreCarson,,,IN,D,-0.51949,House,*ZEV FILL IN*
+Lucille Roybal-Allard,RepRoybalAllard,,,CA,D,-0.52676,House,*ZEV FILL IN*
+Ted Budd,RepTedBudd,buddforcongress,,NC,R,-0.53381,House,*ZEV FILL IN*
+Mary Gay Scanlon,marygayscanlon,RepMGS,,PA,D,-0.53762,House,*ZEV FILL IN*
+Jim Banks,Jim_Banks,RepJimBanks,,IN,R,-0.54076,House,*ZEV FILL IN*
+Dwight Evans,RepDwightEvans,DwightEvansPA,,PA,D,-0.55211,House,*ZEV FILL IN*
+Al Green,RepAlGreenTX,RepAlGreen,,TX,D,-0.5564,House,*ZEV FILL IN*
+Adam Smith,RepAdamSmith,electadamsmith,,WA,D,-0.56896,House,*ZEV FILL IN*
+Greg Gianforte,GregForMontana,,,MT,R,-0.57197,House,*ZEV FILL IN*
+Devin Nunes,RepDevinNunes,DevinNunes,,CA,R,-0.57398,House,*ZEV FILL IN*
+Katherine Clark,KatherineClark,RepKClark,,MA,D,-0.57489,House,*ZEV FILL IN*
+Bill Huizenga,RepHuizenga,,,MI,R,-0.58724,House,*ZEV FILL IN*
+Mac Thornberry,MacThornberry,MacTXPress,,TX,R,-0.58953,House,*ZEV FILL IN*
+Clay Higgins,CaptClayHiggins,RepClayHiggins,,LA,R,-0.59182,House,*ZEV FILL IN*
+Pete Visclosky,RepVisclosky,TeamVisclosky,,IN,D,-0.59627,House,*ZEV FILL IN*
+Kelly Armstrong,Armstrong_ND,RepArmstrongND,,ND,R,-0.59851,House,*ZEV FILL IN*
+John Sarbanes,RepSarbanes,JohnSarbanes,,MD,D,-0.60553,House,*ZEV FILL IN*
+Barbara Lee,BLeeForCongress,RepBarbaraLee,,CA,D,-0.60713,House,*ZEV FILL IN*
+John Carter,JudgeJohnCarter,JudgeCarter,,TX,R,-0.61224,House,*ZEV FILL IN*
+Jodey Arrington,JodeyArrington,RepArrington,,TX,R,-0.61229,House,*ZEV FILL IN*
+Pete Aguilar,RepPeteAguilar,aguilarpete,,CA,D,-0.62251,House,*ZEV FILL IN*
+Gregory Meeks,RepGregoryMeeks,,,NY,D,-0.63544,House,*ZEV FILL IN*
+Jim Himes,jahimes,,,CT,D,-0.63814,House,*ZEV FILL IN*
+Scott Perry,RepScottPerry,,,PA,R,-0.64064,House,*ZEV FILL IN*
+Adriano Espaillat,EspaillatNY,RepEspaillat,,NY,D,-0.6432,House,*ZEV FILL IN*
+Sean Casten,SeanCasten,RepCasten,,IL,D,-0.64514,House,*ZEV FILL IN*
+Bob Gibbs,RepBobGibbs,,,OH,R,-0.6466,House,*ZEV FILL IN*
+Katie Hill,KatieHill4CA,RepKatieHill,,CA,D,-0.64772,House,*ZEV FILL IN*
+Kevin Hern,repkevinhern,krhern,,OK,R,-0.64899,House,*ZEV FILL IN*
+Jim Clyburn,ClyburnSC06,WhipClyburn,,SC,D,-0.65059,House,*ZEV FILL IN*
+Maxine Waters,RepMaxineWaters,MaxineWaters,,CA,D,-0.65181,House,*ZEV FILL IN*
+Jody Hice,CongressmanHice,JodyHice,,GA,R,-0.65629,House,*ZEV FILL IN*
+Robert Aderholt,Robert_Aderholt,,,AL,R,-0.65654,House,*ZEV FILL IN*
+Ralph Abraham,DocAbraham,RepAbraham,,LA,R,-0.66306,House,*ZEV FILL IN*
+Bill Flores,RepBillFlores,Flores4Congress,,TX,R,-0.66924,House,*ZEV FILL IN*
+Debbie Mucarsel-Powell,DebbieforFL,RepDMP,,FL,D,-0.67368,House,*ZEV FILL IN*
+Nanette Barragan,RepBarragan,Nanette4CA,,CA,D,-0.68814,House,*ZEV FILL IN*
+John Shimkus,JohnMShimkus,RepShimkus,,IL,R,-0.69042,House,*ZEV FILL IN*
+Alex Mooney,RepAlexMooney,MooneyforWV,,WV,R,-0.6997,House,*ZEV FILL IN*
+Nita Lowey,NitaLowey,,,NY,D,-0.71495,House,*ZEV FILL IN*
+Greg Murphy,RepGregMurphy,,,NC,R,-0.71649,House,*ZEV FILL IN*
+Steven Horsford,RepHorsford,StevenHorsford,,NV,D,-0.72214,House,*ZEV FILL IN*
+Hal Rogers,RepHalRogers,,,KY,R,-0.72686,House,*ZEV FILL IN*
+Ralph Norman,RalphNorman,RepRalphNorman,,SC,R,-0.73072,House,*ZEV FILL IN*
+John Joyce,RepJohnJoyce,JohnJoyceForPA,,PA,R,-0.73164,House,*ZEV FILL IN*
+John Lewis,repjohnlewis,,,GA,D,-0.73904,House,*ZEV FILL IN*
+Bonnie Watson Coleman,RepBonnie,,,NJ,D,-0.78639,House,*ZEV FILL IN*
+Steve Womack,rep_stevewomack,womack4congress,,AR,R,-0.79518,House,*ZEV FILL IN*
+Kevin Brady,bradyfortexas,RepKevinBrady,,TX,R,-0.81002,House,*ZEV FILL IN*
+Jimmy Gomez,RepJimmyGomez,JimmyGomezCA,,CA,D,-0.83313,House,*ZEV FILL IN*
+Juan Vargas,RepJuanVargas,,,CA,D,-0.83814,House,*ZEV FILL IN*
+Pramila Jayapal,RepJayapal,PramilaJayapal,,WA,D,-0.86177,House,*ZEV FILL IN*
+Jahana Hayes,JahanaHayesCT,RepJahanaHayes,,CT,D,-0.86652,House,*ZEV FILL IN*
+Rick Crawford,RepRickCrawford,,,AR,R,-0.87285,House,*ZEV FILL IN*
+Jeff Duncan,RepJeffDuncan,Duncan4Congress,,SC,R,-0.88446,House,*ZEV FILL IN*
+Warren Davidson,WarrenDavidson,Vote_Davidson,,OH,R,-0.93594,House,*ZEV FILL IN*
+Chip Roy,chiproytx,RepChipRoy,,TX,R,-0.94616,House,*ZEV FILL IN*
+Ken Buck,RepKenBuck,BuckForColorado,,CO,R,-0.95169,House,*ZEV FILL IN*
+Rashida Tlaib,RashidaTlaib,RepRashida,,MI,D,-1.00756,House,*ZEV FILL IN*
+Frederica Wilson,RepWilson,,,FL,D,-1.02535,House,*ZEV FILL IN*
+Andy Biggs,andybiggs4az,RepAndyBiggsAZ,,AZ,R,-1.05869,House,*ZEV FILL IN*
+Steve King,SteveKingIA,KingforCongress,,IA,R,-1.05905,House,*ZEV FILL IN*
+Steny Hoyer,StenyHoyer,LeaderHoyer,,MD,D,-1.08017,House,*ZEV FILL IN*
+Russ Fulcher,RepRussFulcher,RussFulcher,,ID,R,-1.08977,House,*ZEV FILL IN*
+Chuy Garcia,RepChuyGarcia,ChuyForCongress,,IL,D,-1.13248,House,*ZEV FILL IN*
+Liz Cheney,RepLizCheney,Liz_Cheney,,WY,R,-1.13521,House,*ZEV FILL IN*
+Scott Desjarlais,tndesjarlais,DesJarlaisTN04,,TN,R,-1.14864,House,*ZEV FILL IN*
+Adam Schiff,RepAdamSchiff,AdamSchiff,,CA,D,-1.1523,House,*ZEV FILL IN*
+Ilhan Omar,Ilhan,IlhanMN,,MN,D,-1.17031,House,*ZEV FILL IN*
+Dan Bishop,RepDanBishop,,,NC,R,-1.24251,House,*ZEV FILL IN*
+Ayanna Pressley,AyannaPressley,RepPressley,,MA,D,-1.24848,House,*ZEV FILL IN*
+Alexandria Ocasio-Cortez,AOC,RepAOC,,NY,D,-1.2585,House,*ZEV FILL IN*
+Tom McClintock,RepMcClintock,tommcclintock,,CA,R,-1.26454,House,*ZEV FILL IN*
+Michael Cloud,MichaelJCloud,RepCloudTX,,TX,R,-1.27429,House,*ZEV FILL IN*
+John Rose,RepJohnRose,JohnRoseforTN,,TN,R,-1.28081,House,*ZEV FILL IN*
+Louie Gohmert,replouiegohmert,LouieGohmertTX1,,TX,R,-1.34767,House,*ZEV FILL IN*
+Mo Brooks,RepMoBrooks,,,AL,R,-1.35791,House,*ZEV FILL IN*
+Mike Johnson,RepMikeJohnson,MikeJohnson,,LA,R,-1.3601,House,*ZEV FILL IN*
+Steve Scalise,SteveScaliseGOP,SteveScalise,,LA,R,-1.40137,House,*ZEV FILL IN*
+Jim Jordan,Jim_Jordan,,,OH,R,-1.47887,House,*ZEV FILL IN*
+Rick Allen,RepRickAllen,rickallen,,GA,R,-1.53762,House,*ZEV FILL IN*
+Gary Palmer,Palmer4Alabama,USRepGaryPalmer,,AL,R,-1.76249,House,*ZEV FILL IN*
