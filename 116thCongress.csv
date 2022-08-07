@@ -1,537 +1,543 @@
-name,twitter_handle,twitter_handle_2,twitter_handle_3,state,party,score,congress_group,density
-Susan Collins,SenatorCollins,,,ME,R,4.58409,Senate,*ZEV FILL IN*
-Lisa Murkowski,lisamurkowski,LisaForSenate,,AK,R,3.17341,Senate,*ZEV FILL IN*
-Rob Portman,senrobportman,robportman,,OH,R,2.81887,Senate,*ZEV FILL IN*
-Cory Gardner,SenCoryGardner,CoryGardner,,CO,R,2.65591,Senate,*ZEV FILL IN*
-Kyrsten Sinema,kyrstensinema,SenatorSinema,,AZ,D,2.42747,Senate,*ZEV FILL IN*
-Shelley Moore Capito,SenCapito,CapitoforWV,,WV,R,2.23815,Senate,*ZEV FILL IN*
-Maggie Hassan,Senator_Hassan,Maggie_Hassan,SenatorHassan,NH,D,1.94482,Senate,*ZEV FILL IN*
-Todd Young,ToddYoungIN,SenToddYoung,,IN,R,1.92724,Senate,*ZEV FILL IN*
-Martha McSally,MarthaMcSally,SenMcSallyAZ,,AZ,R,1.83145,Senate,*ZEV FILL IN*
-Bill Cassidy,SenBillCassidy,BillCassidy,,LA,R,1.82578,Senate,*ZEV FILL IN*
-Jerry Moran,JerryMoran,,,KS,R,1.78611,Senate,*ZEV FILL IN*
-John Cornyn,JohnCornyn,,,TX,R,1.75472,Senate,*ZEV FILL IN*
-Marco Rubio,marcorubio,SenRubioPress,,FL,R,1.74223,Senate,*ZEV FILL IN*
-Roger Wicker,RogerWicker,SenatorWicker,,MS,R,1.7134,Senate,*ZEV FILL IN*
-Gary Peters,GaryPeters,SenGaryPeters,,MI,D,1.62309,Senate,*ZEV FILL IN*
-Dan Sullivan,DanSullivan_AK,SenDanSullivan,,AK,R,1.62283,Senate,*ZEV FILL IN*
-Jon Tester,jontester,SenatorTester,,MT,D,1.58348,Senate,*ZEV FILL IN*
-Chris Coons,SenCoonsOffice,ChrisCoons,,DE,D,1.57316,Senate,*ZEV FILL IN*
-Chuck Grassley,GrassleyPress,ChuckGrassley,,IA,R,1.52958,Senate,*ZEV FILL IN*
-John Boozman,JohnBoozman,Boozman4AR,,AR,R,1.51178,Senate,*ZEV FILL IN*
-Kevin Cramer,kevincramer,SenKevinCramer,,ND,R,1.40017,Senate,*ZEV FILL IN*
-Steve Daines,SteveDaines,,,MT,R,1.35493,Senate,*ZEV FILL IN*
-Amy Klobuchar,SenAmyKlobuchar,amyklobuchar,,MN,D,1.20981,Senate,*ZEV FILL IN*
-Doug Jones,SenDougJones,DougJones,,AL,D,1.15808,Senate,*ZEV FILL IN*
-Jacky Rosen,SenJackyRosen,RosenforNevada,,NV,D,1.14432,Senate,*ZEV FILL IN*
-Joe Manchin,JoeManchinWV,Sen_JoeManchin,,WV,D,1.12798,Senate,*ZEV FILL IN*
-Roy Blunt,RoyBluntMO,RoyBlunt,,MO,R,1.07934,Senate,*ZEV FILL IN*
-Tim Scott,votetimscott,SenatorTimScott,,SC,R,1.04325,Senate,*ZEV FILL IN*
-Richard Burr,BurrForSenate,SenatorBurr,,NC,R,0.99633,Senate,*ZEV FILL IN*
-John Hoeven,SenJohnHoeven,,,ND,R,0.95947,Senate,*ZEV FILL IN*
-Thom Tillis,SenThomTillis,ThomTillis,,NC,R,0.95733,Senate,*ZEV FILL IN*
-Jeanne Shaheen,SenatorShaheen,JeanneShaheen,,NH,D,0.93783,Senate,*ZEV FILL IN*
-Joni Ernst,SenJoniErnst,joniernst,,IA,R,0.87397,Senate,*ZEV FILL IN*
-Mike Crapo,MikeCrapo,,,ID,R,0.84921,Senate,*ZEV FILL IN*
-Lindsey Graham,GrahamBlog,LindseyGrahamSC,,SC,R,0.76101,Senate,*ZEV FILL IN*
-Johnny Isakson,SenatorIsakson,JohnnyIsakson,,GA,R,0.68683,Senate,*ZEV FILL IN*
-Angus King,SenAngusKing,,,ME,D,0.67431,Senate,*ZEV FILL IN*
-Mark Warner,MarkWarner,MarkWarnerVA,,VA,D,0.61617,Senate,*ZEV FILL IN*
-Charles Roberts,SenPatRoberts,PatRoberts,,KS,R,0.59892,Senate,*ZEV FILL IN*
-Mike Rounds,SenatorRounds,,,SD,R,0.58314,Senate,*ZEV FILL IN*
-Tammy Baldwin,tammybaldwin,SenatorBaldwin,,WI,D,0.50641,Senate,*ZEV FILL IN*
-Tina Smith,SenTinaSmith,TinaSmithMN,,MN,D,0.50318,Senate,*ZEV FILL IN*
-Pat Toomey,SenToomey,PatToomey,,PA,R,0.48029,Senate,*ZEV FILL IN*
-Michael Bennet,SenatorBennet,MichaelBennet,,CO,D,0.47966,Senate,*ZEV FILL IN*
-Bob Menendez,SenatorMenendez,BobMenendezNJ,,NJ,D,0.46323,Senate,*ZEV FILL IN*
-John Thune,SenJohnThune,johnthune,,SD,R,0.42951,Senate,*ZEV FILL IN*
-John Barrasso,SenJohnBarrasso,,,WY,R,0.42064,Senate,*ZEV FILL IN*
-James Lankford,SenatorLankford,,,OK,R,0.40495,Senate,*ZEV FILL IN*
-Ben Cardin,BenCardinforMD,SenatorCardin,,MD,D,0.40041,Senate,*ZEV FILL IN*
-Catherine Cortez Masto,SenCortezMasto,CatherineForNV,,NV,D,0.39273,Senate,*ZEV FILL IN*
-Bob Casey,Bob_Casey,SenBobCasey,,PA,D,0.3595,Senate,*ZEV FILL IN*
-Lamar Alexander,LamarAlexander,SenAlexander,,TN,R,0.3274,Senate,*ZEV FILL IN*
-John Neely Kennedy,JohnKennedyLA,SenJohnKennedy,,LA,R,0.27984,Senate,*ZEV FILL IN*
-Sherrod Brown,SenSherrodBrown,SherrodBrown,,OH,D,0.27911,Senate,*ZEV FILL IN*
-Deb Fischer,DebFischerNE,SenatorFischer,,NE,R,0.27574,Senate,*ZEV FILL IN*
-Jim Risch,SenatorRisch,Risch4Idaho,,ID,R,0.26547,Senate,*ZEV FILL IN*
-Marsha Blackburn,MarshaBlackburn,VoteMarsha,,TN,R,0.24786,Senate,*ZEV FILL IN*
-Debbie Stabenow,SenStabenow,stabenow,,MI,D,0.19326,Senate,*ZEV FILL IN*
-Mike Braun,braun4indiana,SenatorBraun,,IN,R,0.18492,Senate,*ZEV FILL IN*
-Ron Johnson,RonJohnsonWI,SenRonJohnson,,WI,R,0.16688,Senate,*ZEV FILL IN*
-Mitt Romney,SenatorRomney,MittRomney,,UT,R,0.14243,Senate,*ZEV FILL IN*
-Tom Carper,TomCarperforDE,SenatorCarper,,DE,D,0.06458,Senate,*ZEV FILL IN*
-Maria Cantwell,MariaCantwell,SenatorCantwell,,WA,D,0.00993,Senate,*ZEV FILL IN*
-Jim Inhofe,JimInhofe,InhofePress,,OK,R,-0.02392,Senate,*ZEV FILL IN*
-Cindy Hyde-Smith,cindyhydesmith,SenHydeSmith,,MS,R,-0.0256,Senate,*ZEV FILL IN*
-David Perdue,sendavidperdue,Perduesenate,,GA,R,-0.0418,Senate,*ZEV FILL IN*
-Dianne Feinstein,DianneFeinstein,SenFeinstein,,CA,D,-0.061,Senate,*ZEV FILL IN*
-Chris Van Hollen,VanHollenForMD,ChrisVanHollen,,MD,D,-0.07502,Senate,*ZEV FILL IN*
-Kirsten Gillibrand,gillibrandny,SenGillibrand,,NY,D,-0.10141,Senate,*ZEV FILL IN*
-Brian Schatz,SenBrianSchatz,brianschatz,,HI,D,-0.11555,Senate,*ZEV FILL IN*
-Elizabeth Warren,ewarren,SenWarren,,MA,D,-0.13038,Senate,*ZEV FILL IN*
-Martin Heinrich,MartinHeinrich,,,NM,D,-0.13568,Senate,*ZEV FILL IN*
-Ed Markey,EdMarkey,SenMarkey,,MA,D,-0.14534,Senate,*ZEV FILL IN*
-Tammy Duckworth,SenDuckworth,,,IL,D,-0.16112,Senate,*ZEV FILL IN*
-Ron Wyden,WydenPress,WydenForOregon,RonWyden,OR,D,-0.17821,Senate,*ZEV FILL IN*
-Richard Blumenthal,SenBlumenthal,,,CT,D,-0.19497,Senate,*ZEV FILL IN*
-Patrick Leahy,SenatorLeahy,,,VT,D,-0.20541,Senate,*ZEV FILL IN*
-Sheldon Whitehouse,SenWhitehouse,SheldonforRI,,RI,D,-0.21238,Senate,*ZEV FILL IN*
-Tom Cotton,SenTomCotton,TomCottonAR,,AR,R,-0.24526,Senate,*ZEV FILL IN*
-Dick Durbin,SenatorDurbin,DickDurbin,,IL,D,-0.27855,Senate,*ZEV FILL IN*
-Rand Paul,RandPaul,DrRandPaul,,KY,R,-0.28881,Senate,*ZEV FILL IN*
-Josh Hawley,HawleyMO,SenHawleyPress,,MO,R,-0.29032,Senate,*ZEV FILL IN*
-Mike Lee,SenMikeLee,,,UT,R,-0.34082,Senate,*ZEV FILL IN*
-Tim Kaine,timkaine,,,VA,D,-0.36628,Senate,*ZEV FILL IN*
-Mike Enzi,SenatorEnzi,,,WY,R,-0.44405,Senate,*ZEV FILL IN*
-Rick Scott,ScottforFlorida,SenRickScott,,FL,R,-0.44777,Senate,*ZEV FILL IN*
-Jeff Merkley,JeffMerkley,SenJeffMerkley,,OR,D,-0.47978,Senate,*ZEV FILL IN*
-Jack Reed,SenJackReed,,,RI,D,-0.51223,Senate,*ZEV FILL IN*
-Ted Cruz,SenTedCruz,tedcruz,,TX,R,-0.53971,Senate,*ZEV FILL IN*
-Cory Booker,CoryBooker,SenBooker,,NJ,D,-0.61229,Senate,*ZEV FILL IN*
-Tom Udall,SenatorTomUdall,TomUdallPress,,NM,D,-0.65696,Senate,*ZEV FILL IN*
-Chris Murphy,SenMurphyOffice,ChrisMurphyCT,,CT,D,-0.74095,Senate,*ZEV FILL IN*
-Ben Sasse,SenSasse,BenSasse,,NE,R,-0.80295,Senate,*ZEV FILL IN*
-Kamala Harris,SenKamalaHarris,KamalaHarris,,CA,D,-0.92915,Senate,*ZEV FILL IN*
-Mazie Hirono,maziehirono,mazieforhawaii,,HI,D,-0.95739,Senate,*ZEV FILL IN*
-Patty Murray,MurrayCampaign,PattyMurray,,WA,D,-1.00766,Senate,*ZEV FILL IN*
-Kelly Loeffler,SenatorLoeffler,,,GA,R,-1.09946,Senate,*ZEV FILL IN*
-Richard Shelby,SenShelby,,,AL,R,-1.19357,Senate,*ZEV FILL IN*
-Bernie Sanders,BernieSanders,SenSanders,,VT,D,-1.66974,Senate,*ZEV FILL IN*
-Brian Fitzpatrick,BrianFitzUSA,RepBrianFitz,,PA,R,6.83932,House,*ZEV FILL IN*
-John Katko,RepJohnKatko,,,NY,R,4.25232,House,*ZEV FILL IN*
-Josh Gottheimer,JoshGottheimer,RepJoshG,,NJ,D,3.64695,House,*ZEV FILL IN*
-Peter King,RepPeteKing,petekingcpg,,NY,R,3.348,House,*ZEV FILL IN*
-Chris Smith,RepChrisSmith,,,NJ,R,2.94641,House,*ZEV FILL IN*
-Don Young,DonYoungAK,repdonyoung,,AK,R,2.8809,House,*ZEV FILL IN*
-Ron Kind,KindforCongress,RepRonKind,,WI,D,2.84213,House,*ZEV FILL IN*
-Collin Peterson,collinpeterson,,,MN,D,2.51264,House,*ZEV FILL IN*
-Abigail Spanberger,SpanbergerVA07,RepSpanberger,,VA,D,2.30736,House,*ZEV FILL IN*
-David McKinley,RepMcKinley,,,WV,R,2.29043,House,*ZEV FILL IN*
-Jenniffer Gonzalez,RepJenniffer,,,PR,R,2.0737,House,*ZEV FILL IN*
-Dean Phillips,RepDeanPhillips,deanbphillips,,MN,D,2.02728,House,*ZEV FILL IN*
-Elise Stefanik,RepStefanik,EliseStefanik,,NY,R,1.86284,House,*ZEV FILL IN*
-Rodney Davis,RodneyDavis,,,IL,R,1.85946,House,*ZEV FILL IN*
-Don Bacon,RepDonBacon,DonJBacon,,NE,R,1.82881,House,*ZEV FILL IN*
-Henry Cuellar,RepCuellar,,,TX,D,1.77832,House,*ZEV FILL IN*
-Joe Cunningham,JoeCunninghamSC,RepCunningham,,SC,D,1.76579,House,*ZEV FILL IN*
-Anthony Brindisi,ABrindisiNY,RepBrindisi,,NY,D,1.74901,House,*ZEV FILL IN*
-Lee Zeldin,leezeldin,RepLeeZeldin,,NY,R,1.71579,House,*ZEV FILL IN*
-Tom O'Halleran,RepOHalleran,TomOHalleran,,AZ,D,1.63282,House,*ZEV FILL IN*
-Steve Stivers,stevestivers,RepSteveStivers,,OH,R,1.60116,House,*ZEV FILL IN*
-Van Taylor,RepVanTaylor,VanTaylorTX,,TX,R,1.56865,House,*ZEV FILL IN*
-Michael McCaul,RepMcCaul,McCaulforTexas,,TX,R,1.5027,House,*ZEV FILL IN*
-Antonio Delgado,repdelgado,DelgadoforNY19,,NY,D,1.50087,House,*ZEV FILL IN*
-Tom Cole,TomColeOK04,,,OK,R,1.49861,House,*ZEV FILL IN*
-Derek Kilmer,RepDerekKilmer,DerekKilmer,,WA,D,1.49799,House,*ZEV FILL IN*
-Gus Bilirakis,RepGusBilirakis,,,FL,R,1.49257,House,*ZEV FILL IN*
-Jimmy Panetta,RepJimmyPanetta,JimmyPanetta,,CA,D,1.45102,House,*ZEV FILL IN*
-Matt Cartwright,CartwrightPA,RepCartwright,,PA,D,1.44156,House,*ZEV FILL IN*
-Tom Reed,RepTomReed,TomReedCongress,,NY,R,1.43964,House,*ZEV FILL IN*
-Darren Soto,DarrenSoto,RepDarrenSoto,,FL,D,1.41872,House,*ZEV FILL IN*
-Elaine Luria,ElaineLuriaVA,RepElaineLuria,,VA,D,1.41624,House,*ZEV FILL IN*
-Kathleen Rice,RepKathleenRice,KathleenRice,,NY,D,1.41391,House,*ZEV FILL IN*
-Peter Welch,WelchForVT,PeterWelch,,VT,D,1.39486,House,*ZEV FILL IN*
-Cathy McMorris Rodgers,cathymcmorris,TeamCMR,,WA,R,1.37557,House,*ZEV FILL IN*
-Adam Kinzinger,RepKinzinger,AdamKinzinger,,IL,R,1.35736,House,*ZEV FILL IN*
-Mike Thompson,RepThompson,Mike_CA05,,CA,D,1.30854,House,*ZEV FILL IN*
-Ann McLane Kuster,RepAnnieKuster,AnnMcLaneKuster,,NH,D,1.30242,House,*ZEV FILL IN*
-Anthony Gonzalez,RepAGonzalez,anthonygonzalez,,OH,R,1.29965,House,*ZEV FILL IN*
-Ben Mcadams,BenMcAdams,RepBenMcAdams,,UT,D,1.27925,House,*ZEV FILL IN*
-Joe Neguse,RepJoeNeguse,JoeNeguse,,CO,D,1.2638,House,*ZEV FILL IN*
-Tim Ryan,RepTimRyan,TimRyan,,OH,D,1.21726,House,*ZEV FILL IN*
-John Rutherford,RepRutherfordFL,,,FL,R,1.20303,House,*ZEV FILL IN*
-David Joyce,RepDaveJoyce,DaveJoyceOH14,,OH,R,1.19926,House,*ZEV FILL IN*
-Conor Lamb,RepConorLamb,ConorLambPA,,PA,D,1.19867,House,*ZEV FILL IN*
-Will Hurd,WillHurd,HurdOnTheHill,,TX,R,1.1655,House,*ZEV FILL IN*
-Amata Radewagen,RepAmata,,,AS,R,1.16396,House,*ZEV FILL IN*
-Susan Brooks,SusanWBrooks,SusanBrooksIN,,IN,R,1.14,House,*ZEV FILL IN*
-David Trone,davidjtrone,RepDavidTrone,,MD,D,1.1325,House,*ZEV FILL IN*
-Cindy Axne,Axne4Congress,RepCindyAxne,,IA,D,1.13045,House,*ZEV FILL IN*
-Scott Peters,RepScottPeters,ScottPetersSD,,CA,D,1.12609,House,*ZEV FILL IN*
-Paul Tonko,PaulTonko,RepPaulTonko,,NY,D,1.09071,House,*ZEV FILL IN*
-Brian Mast,RepBrianMast,BrianMastFL,,FL,R,1.08583,House,*ZEV FILL IN*
-Mike Bost,BostForCongress,RepBost,,IL,R,1.08466,House,*ZEV FILL IN*
-Pete Stauber,PeteStauber,RepPeteStauber,,MN,R,1.054,House,*ZEV FILL IN*
-Vicente Gonzalez,RepGonzalez,,,TX,D,1.04917,House,*ZEV FILL IN*
-Terri Sewell,RepTerriSewell,,,AL,D,1.04208,House,*ZEV FILL IN*
-Eliot Engel,RepEliotEngel,,,NY,D,1.03345,House,*ZEV FILL IN*
-Jim Sensenbrenner,JimPressOffice,,,WI,R,1.03132,House,*ZEV FILL IN*
-Darin Lahood,RepLaHood,,,IL,R,1.02415,House,*ZEV FILL IN*
-Buddy Carter,Buddy_Carter,RepBuddyCarter,,GA,R,1.02338,House,*ZEV FILL IN*
-Thomas Suozzi,Tom_Suozzi,RepTomSuozzi,,NY,D,1.02125,House,*ZEV FILL IN*
-Jason Crow,JasonCrowCO6,RepJasonCrow,,CO,D,1.01193,House,*ZEV FILL IN*
-John Curtis,RepJohnCurtis,CurtisUT,,UT,R,1.00936,House,*ZEV FILL IN*
-Elissa Slotkin,ElissaSlotkin,RepSlotkin,,MI,D,1.00082,House,*ZEV FILL IN*
-Ted Yoho,RepTedYoho,,,FL,R,0.97715,House,*ZEV FILL IN*
-Vern Buchanan,VernBuchanan,,,FL,R,0.96964,House,*ZEV FILL IN*
-Kendra Horn,HornForCongress,RepKendraHorn,,OK,D,0.96283,House,*ZEV FILL IN*
-Glenn Thompson,GT_TeamGT,CongressmanGT,,PA,R,0.9597,House,*ZEV FILL IN*
-Abby Finkenauer,RepFinkenauer,Abby4Iowa,,IA,D,0.95556,House,*ZEV FILL IN*
-Ann Wagner,RepAnnWagner,AnnLWagner,,MO,R,0.94177,House,*ZEV FILL IN*
-Josh Harder,RepJoshHarder,JoshHarder,,CA,D,0.92242,House,*ZEV FILL IN*
-Max Rose,MaxRose4NY,RepMaxRose,,NY,D,0.89914,House,*ZEV FILL IN*
-Paul Cook,RepPaulCook,,,CA,R,0.88398,House,*ZEV FILL IN*
-Andy Kim,AndyKimNJ,RepAndyKimNJ,,NJ,D,0.8799,House,*ZEV FILL IN*
-Joe Wilson,RepJoeWilson,CongJoeWilson,,SC,R,0.84118,House,*ZEV FILL IN*
-Jared Golden,golden4congress,RepGolden,,ME,D,0.83044,House,*ZEV FILL IN*
-Jackie Walorski,jackiewalorski,RepWalorski,,IN,R,0.82095,House,*ZEV FILL IN*
-Earl Blumenauer,repblumenauer,,,OR,D,0.8177,House,*ZEV FILL IN*
-Tulsi Gabbard,TulsiGabbard,TulsiPress,,HI,D,0.80671,House,*ZEV FILL IN*
-Mike Turner,MikeTurnerOH,RepMikeTurner,,OH,R,0.78947,House,*ZEV FILL IN*
-John Garamendi,JohnGaramendi,RepGaramendi,,CA,D,0.78401,House,*ZEV FILL IN*
-Brad Schneider,RepSchneider,Schneider4IL10,,IL,D,0.7831,House,*ZEV FILL IN*
-Guy Reschenthaler,reschenthaler,GReschenthaler,,PA,R,0.76908,House,*ZEV FILL IN*
-Jaime Herrera Beutler,HerreraBeutler,JaimeForUSRep,,WA,R,0.7597,House,*ZEV FILL IN*
-Michael Waltz,michaelgwaltz,RepMichaelWaltz,,FL,R,0.74534,House,*ZEV FILL IN*
-Charlie Crist,RepCharlieCrist,CharlieCrist,,FL,D,0.74517,House,*ZEV FILL IN*
-Raul Ruiz,RepRaulRuizMD,Dr_RaulRuiz,,CA,D,0.74395,House,*ZEV FILL IN*
-Mike Gallagher,RepGallagher,MikeforWI,,WI,R,0.74369,House,*ZEV FILL IN*
-Jeff Fortenberry,JeffFortenberry,,,NE,R,0.74045,House,*ZEV FILL IN*
-James Langevin,LangevinForRI,JimLangevin,,RI,D,0.71725,House,*ZEV FILL IN*
-Angie Craig,AngieCraigMN,RepAngieCraig,,MN,D,0.71094,House,*ZEV FILL IN*
-Tim Walberg,TimWalberg,RepWalberg,,MI,R,0.70639,House,*ZEV FILL IN*
-Fred Upton,RepFredUpton,UptonForAllOfUs,,MI,R,0.70064,House,*ZEV FILL IN*
-Stephanie Murphy,SMurphyCongress,RepStephMurphy,,FL,D,0.69541,House,*ZEV FILL IN*
-Steve Chabot,SteveChabot,RepSteveChabot,,OH,R,0.68059,House,*ZEV FILL IN*
-Chris Pappas,ChrisPappasNH,RepChrisPappas,,NH,D,0.67513,House,*ZEV FILL IN*
-Susie Lee,RepSusieLee,SusieLeeNV,,NV,D,0.67079,House,*ZEV FILL IN*
-Kurt Schrader,RepSchrader,,,OR,D,0.66722,House,*ZEV FILL IN*
-Phil Roe,DrPhilRoe,,,TN,R,0.65543,House,*ZEV FILL IN*
-Pete Olson,RepPeteOlson,PeteOlson,,TX,R,0.6537,House,*ZEV FILL IN*
-Scott Tipton,RepTipton,,,CO,R,0.6469,House,*ZEV FILL IN*
-Chrissy Houlahan,RepHoulahan,HoulahanForPa,,PA,D,0.63697,House,*ZEV FILL IN*
-Ann Kirkpatrick,Ann_Kirkpatrick,RepKirkpatrick,,AZ,D,0.63361,House,*ZEV FILL IN*
-Brad Sherman,BradSherman4SFV,BradSherman,,CA,D,0.62495,House,*ZEV FILL IN*
-Francis Rooney,RepRooney,FrancisRooney,,FL,R,0.61581,House,*ZEV FILL IN*
-Dan Lipinski,RepLipinski,DanLipinski,,IL,D,0.61555,House,*ZEV FILL IN*
-Seth Moulton,sethmoulton,teammoulton,,MA,D,0.61322,House,*ZEV FILL IN*
-Frank Lucas,RepFrankLucas,,,OK,R,0.61122,House,*ZEV FILL IN*
-Xochitl Torres Small,RepTorresSmall,XochforCongress,,NM,D,0.60634,House,*ZEV FILL IN*
-Gil Cisneros,GilCisnerosCA,RepGilCisneros,,CA,D,0.58577,House,*ZEV FILL IN*
-Colin Allred,ColinAllredTX,RepColinAllred,,TX,D,0.58477,House,*ZEV FILL IN*
-Debbie Dingell,DebDingell,RepDebDingell,,MI,D,0.56848,House,*ZEV FILL IN*
-Peter Defazio,RepPeterDeFazio,,,OR,D,0.55195,House,*ZEV FILL IN*
-Dave Loebsack,daveloebsack,DaveForIowa,,IA,D,0.54675,House,*ZEV FILL IN*
-Anthony Brown,AnthonyBrownMD4,RepAnthonyBrown,,MD,D,0.54489,House,*ZEV FILL IN*
-Jack Bergman,RepJackBergman,JackBergman_MI1,,MI,R,0.52541,House,*ZEV FILL IN*
-Mikie Sherrill,MikieSherrill,RepSherrill,,NJ,D,0.52491,House,*ZEV FILL IN*
-Gerry Connolly,GerryConnolly,ElectConnolly,,VA,D,0.52369,House,*ZEV FILL IN*
-Gregorio Sablan,Kilili_Sablan,,,MP,D,0.51397,House,*ZEV FILL IN*
-Troy Balderson,RepBalderson,Troy_Balderson,,OH,R,0.50926,House,*ZEV FILL IN*
-Lizzie Pannill Fletcher,RepFletcher,Lizzie4Congress,,TX,D,0.50006,House,*ZEV FILL IN*
-Harley Rouda,HarleyRouda,RepHarley,,CA,D,0.49601,House,*ZEV FILL IN*
-Sanford Bishop,SanfordBishop,,,GA,D,0.4887,House,*ZEV FILL IN*
-Chellie Pingree,chelliepingree,,,ME,D,0.48617,House,*ZEV FILL IN*
-Cheri Bustos,CheriBustos,RepCheri,,IL,D,0.48405,House,*ZEV FILL IN*
-Joe Courtney,JoeCourtneyCT,RepJoeCourtney,,CT,D,0.48387,House,*ZEV FILL IN*
-Jim McGovern,McGovernMA,RepMcGovern,,MA,D,0.47069,House,*ZEV FILL IN*
-Mike Kelly,MikeKellyPA,MikeKellyforPA,,PA,R,0.4669,House,*ZEV FILL IN*
-Susan Wild,wildforcongress,RepSusanWild,,PA,D,0.44862,House,*ZEV FILL IN*
-Tom Malinowski,Malinowski,RepMalinowski,,NJ,D,0.43254,House,*ZEV FILL IN*
-Eddie Bernice Johnson,RepEBJ,,,TX,D,0.42547,House,*ZEV FILL IN*
-Roger Marshall,RepMarshall,RogerMarshallMD,,KS,R,0.42486,House,*ZEV FILL IN*
-Markwayne Mullin,MarkwayneMullin,RepMullin,,OK,R,0.41798,House,*ZEV FILL IN*
-Brad Wenstrup,RepBradWenstrup,,,OH,R,0.40225,House,*ZEV FILL IN*
-Denny Heck,RepDennyHeck,,,WA,D,0.39136,House,*ZEV FILL IN*
-Lisa Blunt Rochester,LisaBRochester,RepLBR,,DE,D,0.3894,House,*ZEV FILL IN*
-Paul Mitchell,RepPaulMitchell,,,MI,R,0.36355,House,*ZEV FILL IN*
-George Holding,RepHolding,GeorgeHolding,,NC,R,0.35992,House,*ZEV FILL IN*
-Bill Pascrell,PascrellforNJ,BillPascrell,,NJ,D,0.35605,House,*ZEV FILL IN*
-Dan Crenshaw,DanCrenshawTX,RepDanCrenshaw,,TX,R,0.35529,House,*ZEV FILL IN*
-Lou Correa,RepLouCorrea,voteloucorrea,,CA,D,0.35367,House,*ZEV FILL IN*
-Suzan Delbene,SuzanDelBene,RepDelBene,,WA,D,0.35231,House,*ZEV FILL IN*
-Dusty Johnson,RepDustyJohnson,DustyJohnson,,SD,R,0.35075,House,*ZEV FILL IN*
-Ron Estes,RepRonEstes,RonEstesKS,,KS,R,0.34983,House,*ZEV FILL IN*
-Vicky Hartzler,RepHartzler,VickyH4Congress,,MO,R,0.3422,House,*ZEV FILL IN*
-Dutch Ruppersberger,Call_Me_Dutch,GoDutchForMD,,MD,D,0.34119,House,*ZEV FILL IN*
-David Cicilline,RepCicilline,davidcicilline,,RI,D,0.34039,House,*ZEV FILL IN*
-David Schweikert,DavidSchweikert,RepDavid,,AZ,R,0.33982,House,*ZEV FILL IN*
-Ted Deutch,TedDeutch,RepTedDeutch,,FL,D,0.33098,House,*ZEV FILL IN*
-Jim Baird,RepJimBaird,,,IN,R,0.32969,House,*ZEV FILL IN*
-Bill Foster,RepBillFoster,Foster4Congress,,IL,D,0.32769,House,*ZEV FILL IN*
-Doris Matsui,DorisMatsui,Matsui4Congress,,CA,D,0.3256,House,*ZEV FILL IN*
-Nydia Velazquez,ReElectNydia,NydiaVelazquez,,NY,D,0.31147,House,*ZEV FILL IN*
-Ruben Gallego,RubenGallego,RepRubenGallego,,AZ,D,0.31108,House,*ZEV FILL IN*
-Adrian Smith,RepAdrianSmith,,,NE,R,0.30817,House,*ZEV FILL IN*
-Bruce Westerman,WestermanAR,RepWesterman,,AR,R,0.30209,House,*ZEV FILL IN*
-Paul Gosar,DrPaulGosar,RepGosar,,AZ,R,0.29777,House,*ZEV FILL IN*
-Greg Stanton,RepGregStanton,gregstantonaz,,AZ,D,0.28692,House,*ZEV FILL IN*
-Dan Meuser,RepMeuser,Meuser4Congress,,PA,R,0.28203,House,*ZEV FILL IN*
-Brian Higgins,Higgins4WNY,RepBrianHiggins,,NY,D,0.28111,House,*ZEV FILL IN*
-Zoe Lofgren,RepZoeLofgren,,,CA,D,0.28064,House,*ZEV FILL IN*
-Ken Calvert,KenCalvert,TeamCalvert,,CA,R,0.27601,House,*ZEV FILL IN*
-Dan Newhouse,RepNewhouse,,,WA,R,0.27218,House,*ZEV FILL IN*
-Ben Ray Lujan,repbenraylujan,benraylujan,,NM,D,0.26132,House,*ZEV FILL IN*
-Hakeem Jeffries,hakeem_jeffries,RepJeffries,,NY,D,0.2579,House,*ZEV FILL IN*
-Austin Scott,AustinScottGA08,,,GA,R,0.25755,House,*ZEV FILL IN*
-Mario Diaz-Balart,MarioDBCamp,MarioDB,,FL,R,0.25606,House,*ZEV FILL IN*
-Steve Cohen,ReElectCohen,RepCohen,,TN,D,0.25381,House,*ZEV FILL IN*
-Donna Shalala,RepShalala,DonnaShalala,,FL,D,0.24497,House,*ZEV FILL IN*
-Larry Bucshon,RepLarryBucshon,,,IN,R,0.24314,House,*ZEV FILL IN*
-Lucy Mcbath,lucymcbath,RepLucyMcBath,,GA,D,0.23528,House,*ZEV FILL IN*
-T.J. Cox,TJCoxCongress,RepTjCox,,CA,D,0.23256,House,*ZEV FILL IN*
-Marcy Kaptur,Marcy_Kaptur,RepMarcyKaptur,,OH,D,0.23253,House,*ZEV FILL IN*
-Steven Palazzo,StevenPalazzo,CongPalazzo,,MS,R,0.22813,House,*ZEV FILL IN*
-Suzanne Bonamici,RepBonamici,,,OR,D,0.22484,House,*ZEV FILL IN*
-Rob Wittman,RobWittman,ReElectWittman,,VA,R,0.22308,House,*ZEV FILL IN*
-Diana Degette,RepDianaDeGette,DeGette5280,,CO,D,0.21696,House,*ZEV FILL IN*
-Doug Lamalfa,RepLaMalfa,,,CA,R,0.21468,House,*ZEV FILL IN*
-Lloyd Smucker,RepSmucker,LloydSmuckerPA,,PA,R,0.21217,House,*ZEV FILL IN*
-Raja Krishnamoorthi,CongressmanRaja,RajaForCongress,,IL,D,0.21083,House,*ZEV FILL IN*
-Ed Case,RepEdCase,,,HI,D,0.20774,House,*ZEV FILL IN*
-Donald Norcross,DonaldNorcross,,,NJ,D,0.20157,House,*ZEV FILL IN*
-Bobby Rush,RepBobbyRush,,,IL,D,0.1977,House,*ZEV FILL IN*
-Ed Perlmutter,RepPerlmutter,Ed4Colorado,,CO,D,0.19111,House,*ZEV FILL IN*
-Michael Doyle,USRepMikeDoyle,,,PA,D,0.18481,House,*ZEV FILL IN*
-Greg Walden,votegregwalden,repgregwalden,,OR,R,0.18453,House,*ZEV FILL IN*
-Carolyn Maloney,CarolynBMaloney,RepMaloney,,NY,D,0.1833,House,*ZEV FILL IN*
-Salud Carbajal,RepCarbajal,carbajalsalud,,CA,D,0.17887,House,*ZEV FILL IN*
-Mike Quigley,RepMikeQuigley,,,IL,D,0.17783,House,*ZEV FILL IN*
-Morgan Griffith,RepMGriffith,MorganGriffith,,VA,R,0.17441,House,*ZEV FILL IN*
-Kim Schrier,RepKimSchrier,DrKimSchrier,,WA,D,0.16952,House,*ZEV FILL IN*
-Ro Khanna,RoKhanna,RepRoKhanna,,CA,D,0.16045,House,*ZEV FILL IN*
-Garret Graves,garretgraves,RepGarretGraves,,LA,R,0.1545,House,*ZEV FILL IN*
-Mark Amodei,MarkAmodeiNV2,,,NV,R,0.15312,House,*ZEV FILL IN*
-Julia Brownley,RepBrownley,JuliaBrownley,,CA,D,0.15308,House,*ZEV FILL IN*
-Glenn Grothman,GrothmanforWI,RepGrothman,,WI,R,0.13425,House,*ZEV FILL IN*
-Alcee Hastings,RepHastingsFL,,,FL,D,0.13091,House,*ZEV FILL IN*
-John Moolenaar,RepMoolenaar,,,MI,R,0.12994,House,*ZEV FILL IN*
-French Hill,RepFrenchHill,,,AR,R,0.12919,House,*ZEV FILL IN*
-Jackie Speier,RepSpeier,JackieSpeier,,CA,D,0.12298,House,*ZEV FILL IN*
-Danny Davis,RepDannyDavis,,,IL,D,0.11383,House,*ZEV FILL IN*
-Anna Eshoo,RepAnnaEshoo,Eshoo4Congress,,CA,D,0.11088,House,*ZEV FILL IN*
-Richard Hudson,RichHudson,RepRichHudson,,NC,R,0.09517,House,*ZEV FILL IN*
-Bob Latta,latta4congress,boblatta,,OH,R,0.09505,House,*ZEV FILL IN*
-Ami Bera,RepBera,BeraForCongress,,CA,D,0.09456,House,*ZEV FILL IN*
-Ted Lieu,tedlieu,RepTedLieu,,CA,D,0.08906,House,*ZEV FILL IN*
-Jan Schakowsky,RepSchakowsky,janschakowsky,,IL,D,0.07888,House,*ZEV FILL IN*
-G.K. Butterfield,GKButterfield,,,NC,D,0.07775,House,*ZEV FILL IN*
-Tom Graves,RepTomGraves,TomGravesGA14,,GA,R,0.07723,House,*ZEV FILL IN*
-Haley Stevens,RepHaleyStevens,HaleyLive,,MI,D,0.07336,House,*ZEV FILL IN*
-Kenny Marchant,RepKenMarchant,,,TX,R,0.07061,House,*ZEV FILL IN*
-Fred Keller,RepFredKeller,,,PA,R,0.07048,House,*ZEV FILL IN*
-Betty McCollum,BettyMcCollum04,,,MN,D,0.06716,House,*ZEV FILL IN*
-Jim Hagedorn,JimHagedornMN,RepHagedorn,,MN,R,0.06324,House,*ZEV FILL IN*
-Joseph Morelle,votemorelle,RepJoeMorelle,,NY,D,0.06187,House,*ZEV FILL IN*
-Trey Hollingsworth,RepTrey,VoteForTrey,,IN,R,0.0612,House,*ZEV FILL IN*
-David Scott,repdavidscott,,,GA,D,0.06107,House,*ZEV FILL IN*
-Joyce Beatty,RepBeatty,JoyceBeatty,,OH,D,0.05927,House,*ZEV FILL IN*
-Deb Haaland,RepDebHaaland,Deb4CongressNM,,NM,D,0.05685,House,*ZEV FILL IN*
-Filemon Vela,RepFilemonVela,,,TX,D,0.05613,House,*ZEV FILL IN*
-Al Lawson,RepAlLawsonJr,AlLawsonJr,,FL,D,0.04996,House,*ZEV FILL IN*
-Brendan Boyle,CongBoyle,RepBrendanBoyle,,PA,D,0.04462,House,*ZEV FILL IN*
-John Larson,JohnLarsonCT,RepJohnLarson,,CT,D,0.04087,House,*ZEV FILL IN*
-Tony Cardenas,Tcardenas,RepCardenas,,CA,D,0.03785,House,*ZEV FILL IN*
-Greg Steube,RepGregSteube,gregsteube,,FL,R,0.03669,House,*ZEV FILL IN*
-Donald Payne,RepDonaldPayne,,,NJ,D,0.03042,House,*ZEV FILL IN*
-Steve Watkins,Rep_Watkins,Steve4Kansas,,KS,R,0.02958,House,*ZEV FILL IN*
-Joaquin Castro,JoaquinCastrotx,,,TX,D,0.0274,House,*ZEV FILL IN*
-David Kustoff,RepDavidKustoff,DavidKustoff,,TN,R,0.02346,House,*ZEV FILL IN*
-Sean Patrick Maloney,RepSeanMaloney,spmaloney,,NY,D,0.02248,House,*ZEV FILL IN*
-Lois Frankel,RepLoisFrankel,LoisFrankel,,FL,D,0.0205,House,*ZEV FILL IN*
-Jerry McNerney,RepMcNerney,jerrymcnerney,,CA,D,0.01761,House,*ZEV FILL IN*
-Robin Kelly,RepRobinKelly,RobinLynneKelly,,IL,D,0.01361,House,*ZEV FILL IN*
-Bill Posey,congbillposey,,,FL,R,0.0107,House,*ZEV FILL IN*
-Brett Guthrie,RepGuthrie,brettguthrie,,KY,R,0.01039,House,*ZEV FILL IN*
-Jason Smith,JasonSmithMO,RepJasonSmith,,MO,R,0.00992,House,*ZEV FILL IN*
-Stephen Lynch,RepStephenLynch,RepLynch,,MA,D,0.00713,House,*ZEV FILL IN*
-Marc Veasey,RepVeasey,MarcVeasey,,TX,D,0.0067,House,*ZEV FILL IN*
-Frank Pallone,FrankPallone,pallonefornj,,NJ,D,-0.00531,House,*ZEV FILL IN*
-Tom Emmer,RepTomEmmer,tomemmer,,MN,R,-0.00763,House,*ZEV FILL IN*
-Gwen Moore,RepGwenMoore,Gwen4Congress,,WI,D,-0.01532,House,*ZEV FILL IN*
-Emanuel Cleaver,repcleaver,Vote4Cleaver,,MO,D,-0.01839,House,*ZEV FILL IN*
-Katie Porter,katieporteroc,RepKatiePorter,,CA,D,-0.02984,House,*ZEV FILL IN*
-Dina Titus,dinatitus,repdinatitus,,NV,D,-0.04676,House,*ZEV FILL IN*
-Doug Collins,CollinsforGA,RepDougCollins,,GA,R,-0.04966,House,*ZEV FILL IN*
-Kathy Castor,USRepKCastor,KathyCastorFL,,FL,D,-0.05078,House,*ZEV FILL IN*
-Tim Burchett,RepTimBurchett,timburchett,,TN,R,-0.05498,House,*ZEV FILL IN*
-Jared Huffman,JaredHuffman,RepHuffman,,CA,D,-0.056,House,*ZEV FILL IN*
-Marcia Fudge,mlfudge,RepMarciaFudge,,OH,D,-0.05621,House,*ZEV FILL IN*
-Rob Bishop,RobBishopUT,RepRobBishop,,UT,R,-0.05912,House,*ZEV FILL IN*
-Mark Pocan,repmarkpocan,MarkPocan,,WI,D,-0.05993,House,*ZEV FILL IN*
-Eleanor Holmes Norton,EleanorNorton,,,DC,D,-0.06546,House,*ZEV FILL IN*
-Trent Kelly,RepTrentKelly,KellyforMS01,,MS,R,-0.07256,House,*ZEV FILL IN*
-Mark Takano,MarkTakano,RepMarkTakano,,CA,D,-0.0736,House,*ZEV FILL IN*
-Jim Costa,RepJimCosta,,,CA,D,-0.07435,House,*ZEV FILL IN*
-Roger Williams,RepRWilliams,,,TX,R,-0.07757,House,*ZEV FILL IN*
-Linda Sanchez,LindaTSanchez,RepLindaSanchez,,CA,D,-0.09479,House,*ZEV FILL IN*
-Grace Napolitano,gracenapolitano,grace4congress,,CA,D,-0.09515,House,*ZEV FILL IN*
-Val Demings,val_demings,RepValDemings,,FL,D,-0.09562,House,*ZEV FILL IN*
-Bryan Steil,BryanSteil,RepBryanSteil,,WI,R,-0.09659,House,*ZEV FILL IN*
-Mike Levin,RepMikeLevin,MikeLevin,,CA,D,-0.09674,House,*ZEV FILL IN*
-Jamie Raskin,jamie_raskin,RepRaskin,,MD,D,-0.10566,House,*ZEV FILL IN*
-Grace Meng,RepGraceMeng,Grace4NY,,NY,D,-0.11152,House,*ZEV FILL IN*
-James Comer,JamesComer,,,KY,R,-0.12203,House,*ZEV FILL IN*
-Jennifer Wexton,JenniferWexton,RepWexton,,VA,D,-0.12352,House,*ZEV FILL IN*
-Lori Trahan,RepLoriTrahan,LoriTrahanMA,,MA,D,-0.12752,House,*ZEV FILL IN*
-Don Beyer,RepDonBeyer,DonBeyerVA,,VA,D,-0.12921,House,*ZEV FILL IN*
-Sheila Jackson Lee,JacksonLeeTX18,,,TX,D,-0.12998,House,*ZEV FILL IN*
-Karen Bass,RepKarenBass,KarenBassTweets,,CA,D,-0.13179,House,*ZEV FILL IN*
-Dan Kildee,RepDanKildee,dankildee,,MI,D,-0.13211,House,*ZEV FILL IN*
-Richard Neal,RepRichardNeal,,,MA,D,-0.14637,House,*ZEV FILL IN*
-Chris Collins,,,,NY,R,-0.15061,House,*ZEV FILL IN*
-Mark Meadows,MarkMeadows,TeamMeadows,,NC,R,-0.15311,House,*ZEV FILL IN*
-Greg Pence,GregPenceIN,RepGregPence,,IN,R,-0.15612,House,*ZEV FILL IN*
-Debbie Wasserman Schultz,RepDWStweets,DWStweets,,FL,D,-0.1609,House,*ZEV FILL IN*
-Ross Spano,RossSpano,RepRossSpano,,FL,R,-0.16375,House,*ZEV FILL IN*
-Eric Swalwell,RepSwalwell,ericswalwell,,CA,D,-0.18178,House,*ZEV FILL IN*
-Thomas Massie,RepThomasMassie,,,KY,R,-0.18282,House,*ZEV FILL IN*
-Yvette Clarke,RepYvetteClarke,VoteYvette,,NY,D,-0.18608,House,*ZEV FILL IN*
-Brian Babin,RepBrianBabin,,,TX,R,-0.18846,House,*ZEV FILL IN*
-Bill Keating,USRepKeating,WilliamKeating,,MA,D,-0.20656,House,*ZEV FILL IN*
-Rick Larsen,RepRickLarsen,larsenrick,,WA,D,-0.21257,House,*ZEV FILL IN*
-Denver Riggleman,RepRiggleman,Denver4VA,,VA,R,-0.21437,House,*ZEV FILL IN*
-Judy Chu,RepJudyChu,,,CA,D,-0.21887,House,*ZEV FILL IN*
-Bradley Byrne,RepByrne,BradleyByrne,,AL,R,-0.22203,House,*ZEV FILL IN*
-Sam Graves,RepSamGraves,,,MO,R,-0.22455,House,*ZEV FILL IN*
-Carol Miller,RepCarolMiller,,,WV,R,-0.22806,House,*ZEV FILL IN*
-Daniel Webster,WebsterCongress,RepWebster,,FL,R,-0.23189,House,*ZEV FILL IN*
-Chris Stewart,StewartforUtah,RepChrisStewart,,UT,R,-0.23332,House,*ZEV FILL IN*
-Patrick McHenry,PatrickMcHenry,McHenryCampaign,,NC,R,-0.23474,House,*ZEV FILL IN*
-Michael Burgess,michaelcburgess,,,TX,R,-0.23902,House,*ZEV FILL IN*
-Raul Grijalva,RepRaulGrijalva,standwithraul,,AZ,D,-0.24407,House,*ZEV FILL IN*
-Albio Sires,RepSires,,,NJ,D,-0.24737,House,*ZEV FILL IN*
-Tom Rice,RepTomRice,,,SC,R,-0.24992,House,*ZEV FILL IN*
-Lacy Clay,LacyClayMO1,,,MO,D,-0.25049,House,*ZEV FILL IN*
-John Ratcliffe,RatcliffeTX4,RepRatcliffe,,TX,R,-0.25138,House,*ZEV FILL IN*
-Bill Johnson,RepBillJohnson,JohnsonLeads,,OH,R,-0.25457,House,*ZEV FILL IN*
-Donald Mceachin,Donald_McEachin,RepMcEachin,,VA,D,-0.27055,House,*ZEV FILL IN*
-Chuck Fleischmann,chuck4congress,RepChuck,,TN,R,-0.27235,House,*ZEV FILL IN*
-Stacey Plaskett,StaceyPlaskett,,,VI,D,-0.2764,House,*ZEV FILL IN*
-Mike Simpson,MikeSimpson4ID,CongMikeSimpson,,ID,R,-0.28105,House,*ZEV FILL IN*
-Jerrold Nadler,RepJerryNadler,JerryNadler,,NY,D,-0.28429,House,*ZEV FILL IN*
-Sean Duffy,SeanDuffyWI,,,WI,R,-0.2856,House,*ZEV FILL IN*
-Sharice Davids,sharicedavids,RepDavids,,KS,D,-0.28764,House,*ZEV FILL IN*
-Rob Woodall,RepRobWoodall,,,GA,R,-0.28884,House,*ZEV FILL IN*
-Justin Amash,justinamash,,,MI,R,-0.29115,House,*ZEV FILL IN*
-Mike Rogers,RepMikeRogersAL,MikeRogersCamp,,AL,R,-0.29136,House,*ZEV FILL IN*
-Jim Cooper,repjimcooper,CoopForCongress,,TN,D,-0.29216,House,*ZEV FILL IN*
-Jose Serrano,RepJoseSerrano,,,NY,D,-0.29324,House,*ZEV FILL IN*
-Joseph Kennedy,joekennedy,RepJoeKennedy,,MA,D,-0.29349,House,*ZEV FILL IN*
-Ben Cline,Cline4Virginia,RepBenCline,,VA,R,-0.2985,House,*ZEV FILL IN*
-Mark Green,RepMarkGreen,DrMarkGreen4TN,,TN,R,-0.3013,House,*ZEV FILL IN*
-Ron Wright,RepRonWright,,,TX,R,-0.30965,House,*ZEV FILL IN*
-Bennie Thompson,BennieGThompson,,,MS,D,-0.31218,House,*ZEV FILL IN*
-Debbie Lesko,DebbieLesko,RepDLesko,,AZ,R,-0.31408,House,*ZEV FILL IN*
-Brenda Lawrence,BrendaLLawrence,RepLawrence,,MI,D,-0.3144,House,*ZEV FILL IN*
-Blaine Luetkemeyer,LuetkemeyerB,RepBlaine,,MO,R,-0.31633,House,*ZEV FILL IN*
-Mark Desaulnier,RepDeSaulnier,,,CA,D,-0.3167,House,*ZEV FILL IN*
-Alan Lowenthal,RepLowenthal,,,CA,D,-0.31696,House,*ZEV FILL IN*
-Andy Levin,RepAndyLevin,Andy_Levin,,MI,D,-0.32202,House,*ZEV FILL IN*
-Mike Conaway,ConawayTX11,,,TX,R,-0.32789,House,*ZEV FILL IN*
-Susan Davis,RepSusanDavis,,,CA,D,-0.32832,House,*ZEV FILL IN*
-Andy Harris,Harris4Congress,RepAndyHarrisMD,,MD,R,-0.33499,House,*ZEV FILL IN*
-Duncan Hunter,,,,CA,R,-0.33735,House,*ZEV FILL IN*
-Cedric Richmond,CedricRichmond,RepRichmond,,LA,D,-0.34515,House,*ZEV FILL IN*
-Matt Gaetz,mattgaetz,RepMattGaetz,,FL,R,-0.34847,House,*ZEV FILL IN*
-Doug Lamborn,RepDLamborn,,,CO,R,-0.35018,House,*ZEV FILL IN*
-Michael San Nicolas,,,,GU,D,-0.35743,House,*ZEV FILL IN*
-Drew Ferguson,RepDrewFerguson,,,GA,R,-0.36057,House,*ZEV FILL IN*
-Elijah Cummings,RepCummings,ReElectCummings,,MD,D,-0.36068,House,*ZEV FILL IN*
-Bobby Scott,BobbyScott4VA3,BobbyScott,,VA,D,-0.37748,House,*ZEV FILL IN*
-Veronica Escobar,vgescobar,RepEscobar,,TX,D,-0.38365,House,*ZEV FILL IN*
-Lloyd Doggett,RepLloydDoggett,LloydDoggettTX,,TX,D,-0.38415,House,*ZEV FILL IN*
-Norma Torres,NormaJTorres,Norma4Congress,,CA,D,-0.39059,House,*ZEV FILL IN*
-Hank Johnson,RepHankJohnson,ReElectHank,,GA,D,-0.39061,House,*ZEV FILL IN*
-Andy Barr,RepAndyBarr,barrforcongress,,KY,R,-0.39878,House,*ZEV FILL IN*
-Madeleine Dean,RepDean,MadeleineDean,,PA,D,-0.41095,House,*ZEV FILL IN*
-William Timmons,RepTimmons,,,SC,R,-0.41125,House,*ZEV FILL IN*
-David Price,RepDavidEPrice,,,NC,D,-0.41942,House,*ZEV FILL IN*
-David Rouzer,RepDavidRouzer,DavidRouzer,,NC,R,-0.43503,House,*ZEV FILL IN*
-Rosa Delauro,Rosa_DeLauro,rosadelauro,,CT,D,-0.43696,House,*ZEV FILL IN*
-Sylvia Garcia,RepSylviaGarcia,,,TX,D,-0.44702,House,*ZEV FILL IN*
-Billy Long,USRepLong,auctnr1,,MO,R,-0.44728,House,*ZEV FILL IN*
-John Yarmuth,RepJohnYarmuth,,,KY,D,-0.45525,House,*ZEV FILL IN*
-Virginia Foxx,foxxforcongress,virginiafoxx,,NC,R,-0.46232,House,*ZEV FILL IN*
-Martha Roby,RepMarthaRoby,,,AL,R,-0.46381,House,*ZEV FILL IN*
-Lauren Underwood,RepUnderwood,LaurenUnderwood,,IL,D,-0.46388,House,*ZEV FILL IN*
-Neal Dunn,DunnCampaign,DrNealDunnFL2,,FL,R,-0.47778,House,*ZEV FILL IN*
-Michael Guest,RepMichaelGuest,GuestCongress,,MS,R,-0.48168,House,*ZEV FILL IN*
-Lance Gooden,Lancegooden,,,TX,R,-0.48317,House,*ZEV FILL IN*
-Barry Loudermilk,RepLoudermilk,standwithbarry,,GA,R,-0.48676,House,*ZEV FILL IN*
-Mark Walker,RepMarkWalker,,,NC,R,-0.50474,House,*ZEV FILL IN*
-Alma Adams,RepAdams,,,NC,D,-0.50727,House,*ZEV FILL IN*
-Randy Weber,WeberforTexas,TXRandy14,,TX,R,-0.51,House,*ZEV FILL IN*
-Andre Carson,RepAndreCarson,,,IN,D,-0.51949,House,*ZEV FILL IN*
-Lucille Roybal-Allard,RepRoybalAllard,,,CA,D,-0.52676,House,*ZEV FILL IN*
-Ted Budd,RepTedBudd,buddforcongress,,NC,R,-0.53381,House,*ZEV FILL IN*
-Mary Gay Scanlon,marygayscanlon,RepMGS,,PA,D,-0.53762,House,*ZEV FILL IN*
-Jim Banks,Jim_Banks,RepJimBanks,,IN,R,-0.54076,House,*ZEV FILL IN*
-Dwight Evans,RepDwightEvans,DwightEvansPA,,PA,D,-0.55211,House,*ZEV FILL IN*
-Al Green,RepAlGreenTX,RepAlGreen,,TX,D,-0.5564,House,*ZEV FILL IN*
-Adam Smith,RepAdamSmith,electadamsmith,,WA,D,-0.56896,House,*ZEV FILL IN*
-Greg Gianforte,GregForMontana,,,MT,R,-0.57197,House,*ZEV FILL IN*
-Devin Nunes,RepDevinNunes,DevinNunes,,CA,R,-0.57398,House,*ZEV FILL IN*
-Katherine Clark,KatherineClark,RepKClark,,MA,D,-0.57489,House,*ZEV FILL IN*
-Bill Huizenga,RepHuizenga,,,MI,R,-0.58724,House,*ZEV FILL IN*
-Mac Thornberry,MacThornberry,MacTXPress,,TX,R,-0.58953,House,*ZEV FILL IN*
-Clay Higgins,CaptClayHiggins,RepClayHiggins,,LA,R,-0.59182,House,*ZEV FILL IN*
-Pete Visclosky,RepVisclosky,TeamVisclosky,,IN,D,-0.59627,House,*ZEV FILL IN*
-Kelly Armstrong,Armstrong_ND,RepArmstrongND,,ND,R,-0.59851,House,*ZEV FILL IN*
-John Sarbanes,RepSarbanes,JohnSarbanes,,MD,D,-0.60553,House,*ZEV FILL IN*
-Barbara Lee,BLeeForCongress,RepBarbaraLee,,CA,D,-0.60713,House,*ZEV FILL IN*
-John Carter,JudgeJohnCarter,JudgeCarter,,TX,R,-0.61224,House,*ZEV FILL IN*
-Jodey Arrington,JodeyArrington,RepArrington,,TX,R,-0.61229,House,*ZEV FILL IN*
-Pete Aguilar,RepPeteAguilar,aguilarpete,,CA,D,-0.62251,House,*ZEV FILL IN*
-Gregory Meeks,RepGregoryMeeks,,,NY,D,-0.63544,House,*ZEV FILL IN*
-Jim Himes,jahimes,,,CT,D,-0.63814,House,*ZEV FILL IN*
-Scott Perry,RepScottPerry,,,PA,R,-0.64064,House,*ZEV FILL IN*
-Adriano Espaillat,EspaillatNY,RepEspaillat,,NY,D,-0.6432,House,*ZEV FILL IN*
-Sean Casten,SeanCasten,RepCasten,,IL,D,-0.64514,House,*ZEV FILL IN*
-Bob Gibbs,RepBobGibbs,,,OH,R,-0.6466,House,*ZEV FILL IN*
-Katie Hill,KatieHill4CA,RepKatieHill,,CA,D,-0.64772,House,*ZEV FILL IN*
-Kevin Hern,repkevinhern,krhern,,OK,R,-0.64899,House,*ZEV FILL IN*
-Jim Clyburn,ClyburnSC06,WhipClyburn,,SC,D,-0.65059,House,*ZEV FILL IN*
-Maxine Waters,RepMaxineWaters,MaxineWaters,,CA,D,-0.65181,House,*ZEV FILL IN*
-Jody Hice,CongressmanHice,JodyHice,,GA,R,-0.65629,House,*ZEV FILL IN*
-Robert Aderholt,Robert_Aderholt,,,AL,R,-0.65654,House,*ZEV FILL IN*
-Ralph Abraham,DocAbraham,RepAbraham,,LA,R,-0.66306,House,*ZEV FILL IN*
-Bill Flores,RepBillFlores,Flores4Congress,,TX,R,-0.66924,House,*ZEV FILL IN*
-Debbie Mucarsel-Powell,DebbieforFL,RepDMP,,FL,D,-0.67368,House,*ZEV FILL IN*
-Nanette Barragan,RepBarragan,Nanette4CA,,CA,D,-0.68814,House,*ZEV FILL IN*
-John Shimkus,JohnMShimkus,RepShimkus,,IL,R,-0.69042,House,*ZEV FILL IN*
-Alex Mooney,RepAlexMooney,MooneyforWV,,WV,R,-0.6997,House,*ZEV FILL IN*
-Nita Lowey,NitaLowey,,,NY,D,-0.71495,House,*ZEV FILL IN*
-Greg Murphy,RepGregMurphy,,,NC,R,-0.71649,House,*ZEV FILL IN*
-Steven Horsford,RepHorsford,StevenHorsford,,NV,D,-0.72214,House,*ZEV FILL IN*
-Hal Rogers,RepHalRogers,,,KY,R,-0.72686,House,*ZEV FILL IN*
-Ralph Norman,RalphNorman,RepRalphNorman,,SC,R,-0.73072,House,*ZEV FILL IN*
-John Joyce,RepJohnJoyce,JohnJoyceForPA,,PA,R,-0.73164,House,*ZEV FILL IN*
-John Lewis,repjohnlewis,,,GA,D,-0.73904,House,*ZEV FILL IN*
-Bonnie Watson Coleman,RepBonnie,,,NJ,D,-0.78639,House,*ZEV FILL IN*
-Steve Womack,rep_stevewomack,womack4congress,,AR,R,-0.79518,House,*ZEV FILL IN*
-Kevin Brady,bradyfortexas,RepKevinBrady,,TX,R,-0.81002,House,*ZEV FILL IN*
-Jimmy Gomez,RepJimmyGomez,JimmyGomezCA,,CA,D,-0.83313,House,*ZEV FILL IN*
-Juan Vargas,RepJuanVargas,,,CA,D,-0.83814,House,*ZEV FILL IN*
-Pramila Jayapal,RepJayapal,PramilaJayapal,,WA,D,-0.86177,House,*ZEV FILL IN*
-Jahana Hayes,JahanaHayesCT,RepJahanaHayes,,CT,D,-0.86652,House,*ZEV FILL IN*
-Rick Crawford,RepRickCrawford,,,AR,R,-0.87285,House,*ZEV FILL IN*
-Jeff Duncan,RepJeffDuncan,Duncan4Congress,,SC,R,-0.88446,House,*ZEV FILL IN*
-Warren Davidson,WarrenDavidson,Vote_Davidson,,OH,R,-0.93594,House,*ZEV FILL IN*
-Chip Roy,chiproytx,RepChipRoy,,TX,R,-0.94616,House,*ZEV FILL IN*
-Ken Buck,RepKenBuck,BuckForColorado,,CO,R,-0.95169,House,*ZEV FILL IN*
-Rashida Tlaib,RashidaTlaib,RepRashida,,MI,D,-1.00756,House,*ZEV FILL IN*
-Frederica Wilson,RepWilson,,,FL,D,-1.02535,House,*ZEV FILL IN*
-Andy Biggs,andybiggs4az,RepAndyBiggsAZ,,AZ,R,-1.05869,House,*ZEV FILL IN*
-Steve King,SteveKingIA,KingforCongress,,IA,R,-1.05905,House,*ZEV FILL IN*
-Steny Hoyer,StenyHoyer,LeaderHoyer,,MD,D,-1.08017,House,*ZEV FILL IN*
-Russ Fulcher,RepRussFulcher,RussFulcher,,ID,R,-1.08977,House,*ZEV FILL IN*
-Chuy Garcia,RepChuyGarcia,ChuyForCongress,,IL,D,-1.13248,House,*ZEV FILL IN*
-Liz Cheney,RepLizCheney,Liz_Cheney,,WY,R,-1.13521,House,*ZEV FILL IN*
-Scott Desjarlais,tndesjarlais,DesJarlaisTN04,,TN,R,-1.14864,House,*ZEV FILL IN*
-Adam Schiff,RepAdamSchiff,AdamSchiff,,CA,D,-1.1523,House,*ZEV FILL IN*
-Ilhan Omar,Ilhan,IlhanMN,,MN,D,-1.17031,House,*ZEV FILL IN*
-Dan Bishop,RepDanBishop,,,NC,R,-1.24251,House,*ZEV FILL IN*
-Ayanna Pressley,AyannaPressley,RepPressley,,MA,D,-1.24848,House,*ZEV FILL IN*
-Alexandria Ocasio-Cortez,AOC,RepAOC,,NY,D,-1.2585,House,*ZEV FILL IN*
-Tom McClintock,RepMcClintock,tommcclintock,,CA,R,-1.26454,House,*ZEV FILL IN*
-Michael Cloud,MichaelJCloud,RepCloudTX,,TX,R,-1.27429,House,*ZEV FILL IN*
-John Rose,RepJohnRose,JohnRoseforTN,,TN,R,-1.28081,House,*ZEV FILL IN*
-Louie Gohmert,replouiegohmert,LouieGohmertTX1,,TX,R,-1.34767,House,*ZEV FILL IN*
-Mo Brooks,RepMoBrooks,,,AL,R,-1.35791,House,*ZEV FILL IN*
-Mike Johnson,RepMikeJohnson,MikeJohnson,,LA,R,-1.3601,House,*ZEV FILL IN*
-Steve Scalise,SteveScaliseGOP,SteveScalise,,LA,R,-1.40137,House,*ZEV FILL IN*
-Jim Jordan,Jim_Jordan,,,OH,R,-1.47887,House,*ZEV FILL IN*
-Rick Allen,RepRickAllen,rickallen,,GA,R,-1.53762,House,*ZEV FILL IN*
-Gary Palmer,Palmer4Alabama,USRepGaryPalmer,,AL,R,-1.76249,House,*ZEV FILL IN*
+name,twitter_handle,twitter_handle_2,twitter_handle_3,state,party,score,congress_group
+Susan Collins,SenatorCollins,,,ME,R,4.58409,Senate
+Lisa Murkowski,lisamurkowski,LisaForSenate,,AK,R,3.17341,Senate
+Rob Portman,senrobportman,robportman,,OH,R,2.81887,Senate
+Cory Gardner,SenCoryGardner,CoryGardner,,CO,R,2.65591,Senate
+Kyrsten Sinema,kyrstensinema,SenatorSinema,,AZ,D,2.42747,Senate
+Shelley Moore Capito,SenCapito,CapitoforWV,,WV,R,2.23815,Senate
+Maggie Hassan,Senator_Hassan,Maggie_Hassan,SenatorHassan,NH,D,1.94482,Senate
+Todd Young,ToddYoungIN,SenToddYoung,,IN,R,1.92724,Senate
+Martha McSally,MarthaMcSally,SenMcSallyAZ,,AZ,R,1.83145,Senate
+Bill Cassidy,SenBillCassidy,BillCassidy,,LA,R,1.82578,Senate
+Jerry Moran,JerryMoran,,,KS,R,1.78611,Senate
+John Cornyn,JohnCornyn,,,TX,R,1.75472,Senate
+Marco Rubio,marcorubio,SenRubioPress,,FL,R,1.74223,Senate
+Roger Wicker,RogerWicker,SenatorWicker,,MS,R,1.7134,Senate
+Gary Peters,GaryPeters,SenGaryPeters,,MI,D,1.62309,Senate
+Dan Sullivan,DanSullivan_AK,SenDanSullivan,,AK,R,1.62283,Senate
+Jon Tester,jontester,SenatorTester,,MT,D,1.58348,Senate
+Chris Coons,SenCoonsOffice,ChrisCoons,,DE,D,1.57316,Senate
+Chuck Grassley,GrassleyPress,ChuckGrassley,,IA,R,1.52958,Senate
+John Boozman,JohnBoozman,Boozman4AR,,AR,R,1.51178,Senate
+Kevin Cramer,kevincramer,SenKevinCramer,,ND,R,1.40017,Senate
+Steve Daines,SteveDaines,,,MT,R,1.35493,Senate
+Amy Klobuchar,SenAmyKlobuchar,amyklobuchar,,MN,D,1.20981,Senate
+Doug Jones,SenDougJones,DougJones,,AL,D,1.15808,Senate
+Jacky Rosen,SenJackyRosen,RosenforNevada,,NV,D,1.14432,Senate
+Joe Manchin,JoeManchinWV,Sen_JoeManchin,,WV,D,1.12798,Senate
+Roy Blunt,RoyBluntMO,RoyBlunt,,MO,R,1.07934,Senate
+Tim Scott,votetimscott,SenatorTimScott,,SC,R,1.04325,Senate
+Richard Burr,BurrForSenate,SenatorBurr,,NC,R,0.99633,Senate
+John Hoeven,SenJohnHoeven,,,ND,R,0.95947,Senate
+Thom Tillis,SenThomTillis,ThomTillis,,NC,R,0.95733,Senate
+Jeanne Shaheen,SenatorShaheen,JeanneShaheen,,NH,D,0.93783,Senate
+Joni Ernst,SenJoniErnst,joniernst,,IA,R,0.87397,Senate
+Mike Crapo,MikeCrapo,,,ID,R,0.84921,Senate
+Lindsey Graham,GrahamBlog,LindseyGrahamSC,,SC,R,0.76101,Senate
+Johnny Isakson,SenatorIsakson,JohnnyIsakson,,GA,R,0.68683,Senate
+Angus King,SenAngusKing,,,ME,D,0.67431,Senate
+Mark Warner,MarkWarner,MarkWarnerVA,,VA,D,0.61617,Senate
+Charles Roberts,SenPatRoberts,PatRoberts,,KS,R,0.59892,Senate
+Mike Rounds,SenatorRounds,,,SD,R,0.58314,Senate
+Tammy Baldwin,tammybaldwin,SenatorBaldwin,,WI,D,0.50641,Senate
+Tina Smith,SenTinaSmith,TinaSmithMN,,MN,D,0.50318,Senate
+Pat Toomey,SenToomey,PatToomey,,PA,R,0.48029,Senate
+Michael Bennet,SenatorBennet,MichaelBennet,,CO,D,0.47966,Senate
+Bob Menendez,SenatorMenendez,BobMenendezNJ,,NJ,D,0.46323,Senate
+John Thune,SenJohnThune,johnthune,,SD,R,0.42951,Senate
+John Barrasso,SenJohnBarrasso,,,WY,R,0.42064,Senate
+James Lankford,SenatorLankford,,,OK,R,0.40495,Senate
+Ben Cardin,BenCardinforMD,SenatorCardin,,MD,D,0.40041,Senate
+Catherine Cortez Masto,SenCortezMasto,CatherineForNV,,NV,D,0.39273,Senate
+Bob Casey,Bob_Casey,SenBobCasey,,PA,D,0.3595,Senate
+Lamar Alexander,LamarAlexander,SenAlexander,,TN,R,0.3274,Senate
+John Neely Kennedy,JohnKennedyLA,SenJohnKennedy,,LA,R,0.27984,Senate
+Sherrod Brown,SenSherrodBrown,SherrodBrown,,OH,D,0.27911,Senate
+Deb Fischer,DebFischerNE,SenatorFischer,,NE,R,0.27574,Senate
+Jim Risch,SenatorRisch,Risch4Idaho,,ID,R,0.26547,Senate
+Marsha Blackburn,MarshaBlackburn,VoteMarsha,,TN,R,0.24786,Senate
+Debbie Stabenow,SenStabenow,stabenow,,MI,D,0.19326,Senate
+Mike Braun,braun4indiana,SenatorBraun,,IN,R,0.18492,Senate
+Ron Johnson,RonJohnsonWI,SenRonJohnson,,WI,R,0.16688,Senate
+Mitt Romney,SenatorRomney,MittRomney,,UT,R,0.14243,Senate
+Tom Carper,TomCarperforDE,SenatorCarper,,DE,D,0.06458,Senate
+Maria Cantwell,MariaCantwell,SenatorCantwell,,WA,D,0.00993,Senate
+Jim Inhofe,JimInhofe,InhofePress,,OK,R,-0.02392,Senate
+Cindy Hyde-Smith,cindyhydesmith,SenHydeSmith,,MS,R,-0.0256,Senate
+David Perdue,sendavidperdue,Perduesenate,,GA,R,-0.0418,Senate
+Dianne Feinstein,DianneFeinstein,SenFeinstein,,CA,D,-0.061,Senate
+Chris Van Hollen,VanHollenForMD,ChrisVanHollen,,MD,D,-0.07502,Senate
+Kirsten Gillibrand,gillibrandny,SenGillibrand,,NY,D,-0.10141,Senate
+Brian Schatz,SenBrianSchatz,brianschatz,,HI,D,-0.11555,Senate
+Elizabeth Warren,ewarren,SenWarren,,MA,D,-0.13038,Senate
+Martin Heinrich,MartinHeinrich,,,NM,D,-0.13568,Senate
+Ed Markey,EdMarkey,SenMarkey,,MA,D,-0.14534,Senate
+Tammy Duckworth,SenDuckworth,,,IL,D,-0.16112,Senate
+Ron Wyden,WydenPress,WydenForOregon,RonWyden,OR,D,-0.17821,Senate
+Richard Blumenthal,SenBlumenthal,,,CT,D,-0.19497,Senate
+Patrick Leahy,SenatorLeahy,,,VT,D,-0.20541,Senate
+Sheldon Whitehouse,SenWhitehouse,SheldonforRI,,RI,D,-0.21238,Senate
+Tom Cotton,SenTomCotton,TomCottonAR,,AR,R,-0.24526,Senate
+Dick Durbin,SenatorDurbin,DickDurbin,,IL,D,-0.27855,Senate
+Rand Paul,RandPaul,DrRandPaul,,KY,R,-0.28881,Senate
+Josh Hawley,HawleyMO,SenHawleyPress,,MO,R,-0.29032,Senate
+Mike Lee,SenMikeLee,,,UT,R,-0.34082,Senate
+Tim Kaine,timkaine,,,VA,D,-0.36628,Senate
+Mike Enzi,SenatorEnzi,,,WY,R,-0.44405,Senate
+Rick Scott,ScottforFlorida,SenRickScott,,FL,R,-0.44777,Senate
+Jeff Merkley,JeffMerkley,SenJeffMerkley,,OR,D,-0.47978,Senate
+Jack Reed,SenJackReed,,,RI,D,-0.51223,Senate
+Ted Cruz,SenTedCruz,tedcruz,,TX,R,-0.53971,Senate
+Cory Booker,CoryBooker,SenBooker,,NJ,D,-0.61229,Senate
+Tom Udall,SenatorTomUdall,TomUdallPress,,NM,D,-0.65696,Senate
+Chris Murphy,SenMurphyOffice,ChrisMurphyCT,,CT,D,-0.74095,Senate
+Ben Sasse,SenSasse,BenSasse,,NE,R,-0.80295,Senate
+Kamala Harris,SenKamalaHarris,KamalaHarris,,CA,D,-0.92915,Senate
+Mazie Hirono,maziehirono,mazieforhawaii,,HI,D,-0.95739,Senate
+Patty Murray,MurrayCampaign,PattyMurray,,WA,D,-1.00766,Senate
+Kelly Loeffler,SenatorLoeffler,,,GA,R,-1.09946,Senate
+Richard Shelby,SenShelby,,,AL,R,-1.19357,Senate
+Bernie Sanders,BernieSanders,SenSanders,,VT,D,-1.66974,Senate
+Brian Fitzpatrick,BrianFitzUSA,RepBrianFitz,,PA,R,6.83932,House
+John Katko,RepJohnKatko,,,NY,R,4.25232,House
+Josh Gottheimer,JoshGottheimer,RepJoshG,,NJ,D,3.64695,House
+Peter King,RepPeteKing,petekingcpg,,NY,R,3.348,House
+Chris Smith,RepChrisSmith,,,NJ,R,2.94641,House
+Don Young,DonYoungAK,repdonyoung,,AK,R,2.8809,House
+Ron Kind,KindforCongress,RepRonKind,,WI,D,2.84213,House
+Collin Peterson,collinpeterson,,,MN,D,2.51264,House
+Abigail Spanberger,SpanbergerVA07,RepSpanberger,,VA,D,2.30736,House
+David McKinley,RepMcKinley,,,WV,R,2.29043,House
+Jenniffer Gonzalez,RepJenniffer,,,PR,R,2.0737,House
+Dean Phillips,RepDeanPhillips,deanbphillips,,MN,D,2.02728,House
+Elise Stefanik,RepStefanik,EliseStefanik,,NY,R,1.86284,House
+Rodney Davis,RodneyDavis,,,IL,R,1.85946,House
+Don Bacon,RepDonBacon,DonJBacon,,NE,R,1.82881,House
+Henry Cuellar,RepCuellar,,,TX,D,1.77832,House
+Joe Cunningham,JoeCunninghamSC,RepCunningham,,SC,D,1.76579,House
+Anthony Brindisi,ABrindisiNY,RepBrindisi,,NY,D,1.74901,House
+Lee Zeldin,leezeldin,RepLeeZeldin,,NY,R,1.71579,House
+Tom O'Halleran,RepOHalleran,TomOHalleran,,AZ,D,1.63282,House
+Steve Stivers,stevestivers,RepSteveStivers,,OH,R,1.60116,House
+Van Taylor,RepVanTaylor,VanTaylorTX,,TX,R,1.56865,House
+Michael McCaul,RepMcCaul,McCaulforTexas,,TX,R,1.5027,House
+Antonio Delgado,repdelgado,DelgadoforNY19,,NY,D,1.50087,House
+Tom Cole,TomColeOK04,,,OK,R,1.49861,House
+Derek Kilmer,RepDerekKilmer,DerekKilmer,,WA,D,1.49799,House
+Gus Bilirakis,RepGusBilirakis,,,FL,R,1.49257,House
+Jimmy Panetta,RepJimmyPanetta,JimmyPanetta,,CA,D,1.45102,House
+Matt Cartwright,CartwrightPA,RepCartwright,,PA,D,1.44156,House
+Tom Reed,RepTomReed,TomReedCongress,,NY,R,1.43964,House
+Darren Soto,DarrenSoto,RepDarrenSoto,,FL,D,1.41872,House
+Elaine Luria,ElaineLuriaVA,RepElaineLuria,,VA,D,1.41624,House
+Kathleen Rice,RepKathleenRice,KathleenRice,,NY,D,1.41391,House
+Peter Welch,WelchForVT,PeterWelch,,VT,D,1.39486,House
+Cathy McMorris Rodgers,cathymcmorris,TeamCMR,,WA,R,1.37557,House
+Adam Kinzinger,RepKinzinger,AdamKinzinger,,IL,R,1.35736,House
+Mike Thompson,RepThompson,Mike_CA05,,CA,D,1.30854,House
+Ann McLane Kuster,RepAnnieKuster,AnnMcLaneKuster,,NH,D,1.30242,House
+Anthony Gonzalez,RepAGonzalez,anthonygonzalez,,OH,R,1.29965,House
+Ben Mcadams,BenMcAdams,RepBenMcAdams,,UT,D,1.27925,House
+Joe Neguse,RepJoeNeguse,JoeNeguse,,CO,D,1.2638,House
+Tim Ryan,RepTimRyan,TimRyan,,OH,D,1.21726,House
+John Rutherford,RepRutherfordFL,,,FL,R,1.20303,House
+David Joyce,RepDaveJoyce,DaveJoyceOH14,,OH,R,1.19926,House
+Conor Lamb,RepConorLamb,ConorLambPA,,PA,D,1.19867,House
+Will Hurd,WillHurd,HurdOnTheHill,,TX,R,1.1655,House
+Amata Radewagen,RepAmata,,,AS,R,1.16396,House
+Susan Brooks,SusanWBrooks,SusanBrooksIN,,IN,R,1.14,House
+David Trone,davidjtrone,RepDavidTrone,,MD,D,1.1325,House
+Cindy Axne,Axne4Congress,RepCindyAxne,,IA,D,1.13045,House
+Scott Peters,RepScottPeters,ScottPetersSD,,CA,D,1.12609,House
+Paul Tonko,PaulTonko,RepPaulTonko,,NY,D,1.09071,House
+Brian Mast,RepBrianMast,BrianMastFL,,FL,R,1.08583,House
+Mike Bost,BostForCongress,RepBost,,IL,R,1.08466,House
+Pete Stauber,PeteStauber,RepPeteStauber,,MN,R,1.054,House
+Vicente Gonzalez,RepGonzalez,,,TX,D,1.04917,House
+Terri Sewell,RepTerriSewell,,,AL,D,1.04208,House
+Eliot Engel,RepEliotEngel,,,NY,D,1.03345,House
+Jim Sensenbrenner,JimPressOffice,,,WI,R,1.03132,House
+Darin Lahood,RepLaHood,,,IL,R,1.02415,House
+Buddy Carter,Buddy_Carter,RepBuddyCarter,,GA,R,1.02338,House
+Thomas Suozzi,Tom_Suozzi,RepTomSuozzi,,NY,D,1.02125,House
+Jason Crow,JasonCrowCO6,RepJasonCrow,,CO,D,1.01193,House
+John Curtis,RepJohnCurtis,CurtisUT,,UT,R,1.00936,House
+Elissa Slotkin,ElissaSlotkin,RepSlotkin,,MI,D,1.00082,House
+Ted Yoho,RepTedYoho,,,FL,R,0.97715,House
+Vern Buchanan,VernBuchanan,,,FL,R,0.96964,House
+Kendra Horn,HornForCongress,RepKendraHorn,,OK,D,0.96283,House
+Glenn Thompson,GT_TeamGT,CongressmanGT,,PA,R,0.9597,House
+Abby Finkenauer,RepFinkenauer,Abby4Iowa,,IA,D,0.95556,House
+Ann Wagner,RepAnnWagner,AnnLWagner,,MO,R,0.94177,House
+Josh Harder,RepJoshHarder,JoshHarder,,CA,D,0.92242,House
+Max Rose,MaxRose4NY,RepMaxRose,,NY,D,0.89914,House
+Paul Cook,RepPaulCook,,,CA,R,0.88398,House
+Andy Kim,AndyKimNJ,RepAndyKimNJ,,NJ,D,0.8799,House
+Joe Wilson,RepJoeWilson,CongJoeWilson,,SC,R,0.84118,House
+Jared Golden,golden4congress,RepGolden,,ME,D,0.83044,House
+Jackie Walorski,jackiewalorski,RepWalorski,,IN,R,0.82095,House
+Earl Blumenauer,repblumenauer,,,OR,D,0.8177,House
+Tulsi Gabbard,TulsiGabbard,TulsiPress,,HI,D,0.80671,House
+Mike Turner,MikeTurnerOH,RepMikeTurner,,OH,R,0.78947,House
+John Garamendi,JohnGaramendi,RepGaramendi,,CA,D,0.78401,House
+Brad Schneider,RepSchneider,Schneider4IL10,,IL,D,0.7831,House
+Guy Reschenthaler,reschenthaler,GReschenthaler,,PA,R,0.76908,House
+Jaime Herrera Beutler,HerreraBeutler,JaimeForUSRep,,WA,R,0.7597,House
+Michael Waltz,michaelgwaltz,RepMichaelWaltz,,FL,R,0.74534,House
+Charlie Crist,RepCharlieCrist,CharlieCrist,,FL,D,0.74517,House
+Raul Ruiz,RepRaulRuizMD,Dr_RaulRuiz,,CA,D,0.74395,House
+Mike Gallagher,RepGallagher,MikeforWI,,WI,R,0.74369,House
+Jeff Fortenberry,JeffFortenberry,,,NE,R,0.74045,House
+James Langevin,LangevinForRI,JimLangevin,,RI,D,0.71725,House
+Angie Craig,AngieCraigMN,RepAngieCraig,,MN,D,0.71094,House
+Tim Walberg,TimWalberg,RepWalberg,,MI,R,0.70639,House
+Fred Upton,RepFredUpton,UptonForAllOfUs,,MI,R,0.70064,House
+Stephanie Murphy,SMurphyCongress,RepStephMurphy,,FL,D,0.69541,House
+Steve Chabot,SteveChabot,RepSteveChabot,,OH,R,0.68059,House
+Chris Pappas,ChrisPappasNH,RepChrisPappas,,NH,D,0.67513,House
+Susie Lee,RepSusieLee,SusieLeeNV,,NV,D,0.67079,House
+Kurt Schrader,RepSchrader,,,OR,D,0.66722,House
+Phil Roe,DrPhilRoe,,,TN,R,0.65543,House
+Pete Olson,RepPeteOlson,PeteOlson,,TX,R,0.6537,House
+Scott Tipton,RepTipton,,,CO,R,0.6469,House
+Chrissy Houlahan,RepHoulahan,HoulahanForPa,,PA,D,0.63697,House
+Ann Kirkpatrick,Ann_Kirkpatrick,RepKirkpatrick,,AZ,D,0.63361,House
+Brad Sherman,BradSherman4SFV,BradSherman,,CA,D,0.62495,House
+Francis Rooney,RepRooney,FrancisRooney,,FL,R,0.61581,House
+Dan Lipinski,RepLipinski,DanLipinski,,IL,D,0.61555,House
+Seth Moulton,sethmoulton,teammoulton,,MA,D,0.61322,House
+Frank Lucas,RepFrankLucas,,,OK,R,0.61122,House
+Xochitl Torres Small,RepTorresSmall,XochforCongress,,NM,D,0.60634,House
+Gil Cisneros,GilCisnerosCA,RepGilCisneros,,CA,D,0.58577,House
+Colin Allred,ColinAllredTX,RepColinAllred,,TX,D,0.58477,House
+Debbie Dingell,DebDingell,RepDebDingell,,MI,D,0.56848,House
+Peter Defazio,RepPeterDeFazio,,,OR,D,0.55195,House
+Dave Loebsack,daveloebsack,DaveForIowa,,IA,D,0.54675,House
+Anthony Brown,AnthonyBrownMD4,RepAnthonyBrown,,MD,D,0.54489,House
+Jack Bergman,RepJackBergman,JackBergman_MI1,,MI,R,0.52541,House
+Mikie Sherrill,MikieSherrill,RepSherrill,,NJ,D,0.52491,House
+Gerry Connolly,GerryConnolly,ElectConnolly,,VA,D,0.52369,House
+Gregorio Sablan,Kilili_Sablan,,,MP,D,0.51397,House
+Troy Balderson,RepBalderson,Troy_Balderson,,OH,R,0.50926,House
+Lizzie Pannill Fletcher,RepFletcher,Lizzie4Congress,,TX,D,0.50006,House
+Harley Rouda,HarleyRouda,RepHarley,,CA,D,0.49601,House
+Sanford Bishop,SanfordBishop,,,GA,D,0.4887,House
+Chellie Pingree,chelliepingree,,,ME,D,0.48617,House
+Cheri Bustos,CheriBustos,RepCheri,,IL,D,0.48405,House
+Joe Courtney,JoeCourtneyCT,RepJoeCourtney,,CT,D,0.48387,House
+Jim McGovern,McGovernMA,RepMcGovern,,MA,D,0.47069,House
+Mike Kelly,MikeKellyPA,MikeKellyforPA,,PA,R,0.4669,House
+Susan Wild,wildforcongress,RepSusanWild,,PA,D,0.44862,House
+Tom Malinowski,Malinowski,RepMalinowski,,NJ,D,0.43254,House
+Eddie Bernice Johnson,RepEBJ,,,TX,D,0.42547,House
+Roger Marshall,RepMarshall,RogerMarshallMD,,KS,R,0.42486,House
+Markwayne Mullin,MarkwayneMullin,RepMullin,,OK,R,0.41798,House
+Brad Wenstrup,RepBradWenstrup,,,OH,R,0.40225,House
+Denny Heck,RepDennyHeck,,,WA,D,0.39136,House
+Lisa Blunt Rochester,LisaBRochester,RepLBR,,DE,D,0.3894,House
+Paul Mitchell,RepPaulMitchell,,,MI,R,0.36355,House
+George Holding,RepHolding,GeorgeHolding,,NC,R,0.35992,House
+Bill Pascrell,PascrellforNJ,BillPascrell,,NJ,D,0.35605,House
+Dan Crenshaw,DanCrenshawTX,RepDanCrenshaw,,TX,R,0.35529,House
+Lou Correa,RepLouCorrea,voteloucorrea,,CA,D,0.35367,House
+Suzan Delbene,SuzanDelBene,RepDelBene,,WA,D,0.35231,House
+Dusty Johnson,RepDustyJohnson,DustyJohnson,,SD,R,0.35075,House
+Ron Estes,RepRonEstes,RonEstesKS,,KS,R,0.34983,House
+Vicky Hartzler,RepHartzler,VickyH4Congress,,MO,R,0.3422,House
+Dutch Ruppersberger,Call_Me_Dutch,GoDutchForMD,,MD,D,0.34119,House
+David Cicilline,RepCicilline,davidcicilline,,RI,D,0.34039,House
+David Schweikert,DavidSchweikert,RepDavid,,AZ,R,0.33982,House
+Ted Deutch,TedDeutch,RepTedDeutch,,FL,D,0.33098,House
+Jim Baird,RepJimBaird,,,IN,R,0.32969,House
+Bill Foster,RepBillFoster,Foster4Congress,,IL,D,0.32769,House
+Doris Matsui,DorisMatsui,Matsui4Congress,,CA,D,0.3256,House
+Nydia Velazquez,ReElectNydia,NydiaVelazquez,,NY,D,0.31147,House
+Ruben Gallego,RubenGallego,RepRubenGallego,,AZ,D,0.31108,House
+Adrian Smith,RepAdrianSmith,,,NE,R,0.30817,House
+Bruce Westerman,WestermanAR,RepWesterman,,AR,R,0.30209,House
+Paul Gosar,DrPaulGosar,RepGosar,,AZ,R,0.29777,House
+Greg Stanton,RepGregStanton,gregstantonaz,,AZ,D,0.28692,House
+Dan Meuser,RepMeuser,Meuser4Congress,,PA,R,0.28203,House
+Brian Higgins,Higgins4WNY,RepBrianHiggins,,NY,D,0.28111,House
+Zoe Lofgren,RepZoeLofgren,,,CA,D,0.28064,House
+Ken Calvert,KenCalvert,TeamCalvert,,CA,R,0.27601,House
+Dan Newhouse,RepNewhouse,,,WA,R,0.27218,House
+Ben Ray Lujan,repbenraylujan,benraylujan,,NM,D,0.26132,House
+Hakeem Jeffries,hakeem_jeffries,RepJeffries,,NY,D,0.2579,House
+Austin Scott,AustinScottGA08,,,GA,R,0.25755,House
+Mario Diaz-Balart,MarioDBCamp,MarioDB,,FL,R,0.25606,House
+Steve Cohen,ReElectCohen,RepCohen,,TN,D,0.25381,House
+Donna Shalala,RepShalala,DonnaShalala,,FL,D,0.24497,House
+Larry Bucshon,RepLarryBucshon,,,IN,R,0.24314,House
+Lucy Mcbath,lucymcbath,RepLucyMcBath,,GA,D,0.23528,House
+T.J. Cox,TJCoxCongress,RepTjCox,,CA,D,0.23256,House
+Marcy Kaptur,Marcy_Kaptur,RepMarcyKaptur,,OH,D,0.23253,House
+Steven Palazzo,StevenPalazzo,CongPalazzo,,MS,R,0.22813,House
+Suzanne Bonamici,RepBonamici,,,OR,D,0.22484,House
+Rob Wittman,RobWittman,ReElectWittman,,VA,R,0.22308,House
+Diana Degette,RepDianaDeGette,DeGette5280,,CO,D,0.21696,House
+Doug Lamalfa,RepLaMalfa,,,CA,R,0.21468,House
+Lloyd Smucker,RepSmucker,LloydSmuckerPA,,PA,R,0.21217,House
+Raja Krishnamoorthi,CongressmanRaja,RajaForCongress,,IL,D,0.21083,House
+Ed Case,RepEdCase,,,HI,D,0.20774,House
+Donald Norcross,DonaldNorcross,,,NJ,D,0.20157,House
+Bobby Rush,RepBobbyRush,,,IL,D,0.1977,House
+Ed Perlmutter,RepPerlmutter,Ed4Colorado,,CO,D,0.19111,House
+Michael Doyle,USRepMikeDoyle,,,PA,D,0.18481,House
+Greg Walden,votegregwalden,repgregwalden,,OR,R,0.18453,House
+Carolyn Maloney,CarolynBMaloney,RepMaloney,,NY,D,0.1833,House
+Salud Carbajal,RepCarbajal,carbajalsalud,,CA,D,0.17887,House
+Mike Quigley,RepMikeQuigley,,,IL,D,0.17783,House
+Morgan Griffith,RepMGriffith,MorganGriffith,,VA,R,0.17441,House
+Kim Schrier,RepKimSchrier,DrKimSchrier,,WA,D,0.16952,House
+Ro Khanna,RoKhanna,RepRoKhanna,,CA,D,0.16045,House
+Garret Graves,garretgraves,RepGarretGraves,,LA,R,0.1545,House
+Mark Amodei,MarkAmodeiNV2,,,NV,R,0.15312,House
+Julia Brownley,RepBrownley,JuliaBrownley,,CA,D,0.15308,House
+Glenn Grothman,GrothmanforWI,RepGrothman,,WI,R,0.13425,House
+John Moolenaar,RepMoolenaar,,,MI,R,0.12994,House
+French Hill,RepFrenchHill,,,AR,R,0.12919,House
+Jackie Speier,RepSpeier,JackieSpeier,,CA,D,0.12298,House
+Danny Davis,RepDannyDavis,,,IL,D,0.11383,House
+Anna Eshoo,RepAnnaEshoo,Eshoo4Congress,,CA,D,0.11088,House
+Richard Hudson,RichHudson,RepRichHudson,,NC,R,0.09517,House
+Bob Latta,latta4congress,boblatta,,OH,R,0.09505,House
+Ami Bera,RepBera,BeraForCongress,,CA,D,0.09456,House
+Ted Lieu,tedlieu,RepTedLieu,,CA,D,0.08906,House
+Jan Schakowsky,RepSchakowsky,janschakowsky,,IL,D,0.07888,House
+G.K. Butterfield,GKButterfield,,,NC,D,0.07775,House
+Tom Graves,RepTomGraves,TomGravesGA14,,GA,R,0.07723,House
+Haley Stevens,RepHaleyStevens,HaleyLive,,MI,D,0.07336,House
+Kenny Marchant,RepKenMarchant,,,TX,R,0.07061,House
+Fred Keller,RepFredKeller,,,PA,R,0.07048,House
+Betty McCollum,BettyMcCollum04,,,MN,D,0.06716,House
+Jim Hagedorn,JimHagedornMN,RepHagedorn,,MN,R,0.06324,House
+Joseph Morelle,votemorelle,RepJoeMorelle,,NY,D,0.06187,House
+Trey Hollingsworth,RepTrey,VoteForTrey,,IN,R,0.0612,House
+David Scott,repdavidscott,,,GA,D,0.06107,House
+Joyce Beatty,RepBeatty,JoyceBeatty,,OH,D,0.05927,House
+Deb Haaland,RepDebHaaland,Deb4CongressNM,,NM,D,0.05685,House
+Filemon Vela,RepFilemonVela,,,TX,D,0.05613,House
+Al Lawson,RepAlLawsonJr,AlLawsonJr,,FL,D,0.04996,House
+Brendan Boyle,CongBoyle,RepBrendanBoyle,,PA,D,0.04462,House
+John Larson,JohnLarsonCT,RepJohnLarson,,CT,D,0.04087,House
+Tony Cardenas,Tcardenas,RepCardenas,,CA,D,0.03785,House
+Greg Steube,RepGregSteube,gregsteube,,FL,R,0.03669,House
+Donald Payne,RepDonaldPayne,,,NJ,D,0.03042,House
+Steve Watkins,Rep_Watkins,Steve4Kansas,,KS,R,0.02958,House
+Joaquin Castro,JoaquinCastrotx,,,TX,D,0.0274,House
+David Kustoff,RepDavidKustoff,DavidKustoff,,TN,R,0.02346,House
+Sean Patrick Maloney,RepSeanMaloney,spmaloney,,NY,D,0.02248,House
+Lois Frankel,RepLoisFrankel,LoisFrankel,,FL,D,0.0205,House
+Jerry McNerney,RepMcNerney,jerrymcnerney,,CA,D,0.01761,House
+Robin Kelly,RepRobinKelly,RobinLynneKelly,,IL,D,0.01361,House
+Bill Posey,congbillposey,,,FL,R,0.0107,House
+Brett Guthrie,RepGuthrie,brettguthrie,,KY,R,0.01039,House
+Jason Smith,JasonSmithMO,RepJasonSmith,,MO,R,0.00992,House
+Stephen Lynch,RepStephenLynch,RepLynch,,MA,D,0.00713,House
+Marc Veasey,RepVeasey,MarcVeasey,,TX,D,0.0067,House
+Frank Pallone,FrankPallone,pallonefornj,,NJ,D,-0.00531,House
+Tom Emmer,RepTomEmmer,tomemmer,,MN,R,-0.00763,House
+Gwen Moore,RepGwenMoore,Gwen4Congress,,WI,D,-0.01532,House
+Emanuel Cleaver,repcleaver,Vote4Cleaver,,MO,D,-0.01839,House
+Katie Porter,katieporteroc,RepKatiePorter,,CA,D,-0.02984,House
+Dina Titus,dinatitus,repdinatitus,,NV,D,-0.04676,House
+Doug Collins,CollinsforGA,RepDougCollins,,GA,R,-0.04966,House
+Kathy Castor,USRepKCastor,KathyCastorFL,,FL,D,-0.05078,House
+Tim Burchett,RepTimBurchett,timburchett,,TN,R,-0.05498,House
+Jared Huffman,JaredHuffman,RepHuffman,,CA,D,-0.056,House
+Marcia Fudge,mlfudge,RepMarciaFudge,,OH,D,-0.05621,House
+Rob Bishop,RobBishopUT,RepRobBishop,,UT,R,-0.05912,House
+Mark Pocan,repmarkpocan,MarkPocan,,WI,D,-0.05993,House
+Eleanor Holmes Norton,EleanorNorton,,,DC,D,-0.06546,House
+Trent Kelly,RepTrentKelly,KellyforMS01,,MS,R,-0.07256,House
+Mark Takano,MarkTakano,RepMarkTakano,,CA,D,-0.0736,House
+Jim Costa,RepJimCosta,,,CA,D,-0.07435,House
+Roger Williams,RepRWilliams,,,TX,R,-0.07757,House
+Linda Sanchez,LindaTSanchez,RepLindaSanchez,,CA,D,-0.09479,House
+Grace Napolitano,gracenapolitano,grace4congress,,CA,D,-0.09515,House
+Val Demings,val_demings,RepValDemings,,FL,D,-0.09562,House
+Bryan Steil,BryanSteil,RepBryanSteil,,WI,R,-0.09659,House
+Mike Levin,RepMikeLevin,MikeLevin,,CA,D,-0.09674,House
+Jamie Raskin,jamie_raskin,RepRaskin,,MD,D,-0.10566,House
+Grace Meng,RepGraceMeng,Grace4NY,,NY,D,-0.11152,House
+James Comer,JamesComer,,,KY,R,-0.12203,House
+Jennifer Wexton,JenniferWexton,RepWexton,,VA,D,-0.12352,House
+Lori Trahan,RepLoriTrahan,LoriTrahanMA,,MA,D,-0.12752,House
+Don Beyer,RepDonBeyer,DonBeyerVA,,VA,D,-0.12921,House
+Sheila Jackson Lee,JacksonLeeTX18,,,TX,D,-0.12998,House
+Karen Bass,RepKarenBass,KarenBassTweets,,CA,D,-0.13179,House
+Dan Kildee,RepDanKildee,dankildee,,MI,D,-0.13211,House
+Richard Neal,RepRichardNeal,,,MA,D,-0.14637,House
+Chris Collins,,,,NY,R,-0.15061,House
+Mark Meadows,MarkMeadows,TeamMeadows,,NC,R,-0.15311,House
+Greg Pence,GregPenceIN,RepGregPence,,IN,R,-0.15612,House
+Debbie Wasserman Schultz,RepDWStweets,DWStweets,,FL,D,-0.1609,House
+Ross Spano,RossSpano,RepRossSpano,,FL,R,-0.16375,House
+Eric Swalwell,RepSwalwell,ericswalwell,,CA,D,-0.18178,House
+Thomas Massie,RepThomasMassie,,,KY,R,-0.18282,House
+Yvette Clarke,RepYvetteClarke,VoteYvette,,NY,D,-0.18608,House
+Brian Babin,RepBrianBabin,,,TX,R,-0.18846,House
+Bill Keating,USRepKeating,WilliamKeating,,MA,D,-0.20656,House
+Rick Larsen,RepRickLarsen,larsenrick,,WA,D,-0.21257,House
+Denver Riggleman,RepRiggleman,Denver4VA,,VA,R,-0.21437,House
+Judy Chu,RepJudyChu,,,CA,D,-0.21887,House
+Bradley Byrne,RepByrne,BradleyByrne,,AL,R,-0.22203,House
+Sam Graves,RepSamGraves,,,MO,R,-0.22455,House
+Carol Miller,RepCarolMiller,,,WV,R,-0.22806,House
+Daniel Webster,WebsterCongress,RepWebster,,FL,R,-0.23189,House
+Chris Stewart,StewartforUtah,RepChrisStewart,,UT,R,-0.23332,House
+Patrick McHenry,PatrickMcHenry,McHenryCampaign,,NC,R,-0.23474,House
+Michael Burgess,michaelcburgess,,,TX,R,-0.23902,House
+Raul Grijalva,RepRaulGrijalva,standwithraul,,AZ,D,-0.24407,House
+Albio Sires,RepSires,,,NJ,D,-0.24737,House
+Tom Rice,RepTomRice,,,SC,R,-0.24992,House
+Lacy Clay,LacyClayMO1,,,MO,D,-0.25049,House
+John Ratcliffe,RatcliffeTX4,RepRatcliffe,,TX,R,-0.25138,House
+Bill Johnson,RepBillJohnson,JohnsonLeads,,OH,R,-0.25457,House
+Donald Mceachin,Donald_McEachin,RepMcEachin,,VA,D,-0.27055,House
+Chuck Fleischmann,chuck4congress,RepChuck,,TN,R,-0.27235,House
+Stacey Plaskett,StaceyPlaskett,,,VI,D,-0.2764,House
+Mike Simpson,MikeSimpson4ID,CongMikeSimpson,,ID,R,-0.28105,House
+Jerrold Nadler,RepJerryNadler,JerryNadler,,NY,D,-0.28429,House
+Sean Duffy,SeanDuffyWI,,,WI,R,-0.2856,House
+Sharice Davids,sharicedavids,RepDavids,,KS,D,-0.28764,House
+Rob Woodall,RepRobWoodall,,,GA,R,-0.28884,House
+Justin Amash,justinamash,,,MI,R,-0.29115,House
+Mike Rogers,RepMikeRogersAL,MikeRogersCamp,,AL,R,-0.29136,House
+Jim Cooper,repjimcooper,CoopForCongress,,TN,D,-0.29216,House
+Jose Serrano,RepJoseSerrano,,,NY,D,-0.29324,House
+Joseph Kennedy,joekennedy,RepJoeKennedy,,MA,D,-0.29349,House
+Ben Cline,Cline4Virginia,RepBenCline,,VA,R,-0.2985,House
+Mark Green,RepMarkGreen,DrMarkGreen4TN,,TN,R,-0.3013,House
+Ron Wright,RepRonWright,,,TX,R,-0.30965,House
+Bennie Thompson,BennieGThompson,,,MS,D,-0.31218,House
+Debbie Lesko,DebbieLesko,RepDLesko,,AZ,R,-0.31408,House
+Brenda Lawrence,BrendaLLawrence,RepLawrence,,MI,D,-0.3144,House
+Blaine Luetkemeyer,LuetkemeyerB,RepBlaine,,MO,R,-0.31633,House
+Mark Desaulnier,RepDeSaulnier,,,CA,D,-0.3167,House
+Alan Lowenthal,RepLowenthal,,,CA,D,-0.31696,House
+Andy Levin,RepAndyLevin,Andy_Levin,,MI,D,-0.32202,House
+Mike Conaway,ConawayTX11,,,TX,R,-0.32789,House
+Susan Davis,RepSusanDavis,,,CA,D,-0.32832,House
+Andy Harris,Harris4Congress,RepAndyHarrisMD,,MD,R,-0.33499,House
+Duncan Hunter,,,,CA,R,-0.33735,House
+Cedric Richmond,CedricRichmond,RepRichmond,,LA,D,-0.34515,House
+Matt Gaetz,mattgaetz,RepMattGaetz,,FL,R,-0.34847,House
+Doug Lamborn,RepDLamborn,,,CO,R,-0.35018,House
+Michael San Nicolas,,,,GU,D,-0.35743,House
+Drew Ferguson,RepDrewFerguson,,,GA,R,-0.36057,House
+Elijah Cummings,RepCummings,ReElectCummings,,MD,D,-0.36068,House
+Bobby Scott,BobbyScott4VA3,BobbyScott,,VA,D,-0.37748,House
+Veronica Escobar,vgescobar,RepEscobar,,TX,D,-0.38365,House
+Lloyd Doggett,RepLloydDoggett,LloydDoggettTX,,TX,D,-0.38415,House
+Norma Torres,NormaJTorres,Norma4Congress,,CA,D,-0.39059,House
+Hank Johnson,RepHankJohnson,ReElectHank,,GA,D,-0.39061,House
+Andy Barr,RepAndyBarr,barrforcongress,,KY,R,-0.39878,House
+Madeleine Dean,RepDean,MadeleineDean,,PA,D,-0.41095,House
+William Timmons,RepTimmons,,,SC,R,-0.41125,House
+David Price,RepDavidEPrice,,,NC,D,-0.41942,House
+David Rouzer,RepDavidRouzer,DavidRouzer,,NC,R,-0.43503,House
+Rosa Delauro,Rosa_DeLauro,rosadelauro,,CT,D,-0.43696,House
+Sylvia Garcia,RepSylviaGarcia,,,TX,D,-0.44702,House
+Billy Long,USRepLong,auctnr1,,MO,R,-0.44728,House
+John Yarmuth,RepJohnYarmuth,,,KY,D,-0.45525,House
+Virginia Foxx,foxxforcongress,virginiafoxx,,NC,R,-0.46232,House
+Martha Roby,RepMarthaRoby,,,AL,R,-0.46381,House
+Lauren Underwood,RepUnderwood,LaurenUnderwood,,IL,D,-0.46388,House
+Neal Dunn,DunnCampaign,DrNealDunnFL2,,FL,R,-0.47778,House
+Michael Guest,RepMichaelGuest,GuestCongress,,MS,R,-0.48168,House
+Lance Gooden,Lancegooden,,,TX,R,-0.48317,House
+Barry Loudermilk,RepLoudermilk,standwithbarry,,GA,R,-0.48676,House
+Mark Walker,RepMarkWalker,,,NC,R,-0.50474,House
+Alma Adams,RepAdams,,,NC,D,-0.50727,House
+Randy Weber,WeberforTexas,TXRandy14,,TX,R,-0.51,House
+Andre Carson,RepAndreCarson,,,IN,D,-0.51949,House
+Lucille Roybal-Allard,RepRoybalAllard,,,CA,D,-0.52676,House
+Ted Budd,RepTedBudd,buddforcongress,,NC,R,-0.53381,House
+Mary Gay Scanlon,marygayscanlon,RepMGS,,PA,D,-0.53762,House
+Jim Banks,Jim_Banks,RepJimBanks,,IN,R,-0.54076,House
+Dwight Evans,RepDwightEvans,DwightEvansPA,,PA,D,-0.55211,House
+Al Green,RepAlGreenTX,RepAlGreen,,TX,D,-0.5564,House
+Adam Smith,RepAdamSmith,electadamsmith,,WA,D,-0.56896,House
+Greg Gianforte,GregForMontana,,,MT,R,-0.57197,House
+Devin Nunes,RepDevinNunes,DevinNunes,,CA,R,-0.57398,House
+Katherine Clark,KatherineClark,RepKClark,,MA,D,-0.57489,House
+Bill Huizenga,RepHuizenga,,,MI,R,-0.58724,House
+Mac Thornberry,MacThornberry,MacTXPress,,TX,R,-0.58953,House
+Clay Higgins,CaptClayHiggins,RepClayHiggins,,LA,R,-0.59182,House
+Pete Visclosky,RepVisclosky,,,IN,D,-0.59627,House
+Kelly Armstrong,Armstrong_ND,RepArmstrongND,,ND,R,-0.59851,House
+John Sarbanes,RepSarbanes,JohnSarbanes,,MD,D,-0.60553,House
+Barbara Lee,BLeeForCongress,RepBarbaraLee,,CA,D,-0.60713,House
+John Carter,JudgeJohnCarter,JudgeCarter,,TX,R,-0.61224,House
+Jodey Arrington,JodeyArrington,RepArrington,,TX,R,-0.61229,House
+Pete Aguilar,RepPeteAguilar,aguilarpete,,CA,D,-0.62251,House
+Gregory Meeks,RepGregoryMeeks,,,NY,D,-0.63544,House
+Jim Himes,jahimes,,,CT,D,-0.63814,House
+Scott Perry,RepScottPerry,,,PA,R,-0.64064,House
+Adriano Espaillat,EspaillatNY,RepEspaillat,,NY,D,-0.6432,House
+Sean Casten,SeanCasten,RepCasten,,IL,D,-0.64514,House
+Bob Gibbs,RepBobGibbs,,,OH,R,-0.6466,House
+Katie Hill,KatieHill4CA,RepKatieHill,,CA,D,-0.64772,House
+Kevin Hern,repkevinhern,krhern,,OK,R,-0.64899,House
+Jim Clyburn,ClyburnSC06,WhipClyburn,,SC,D,-0.65059,House
+Maxine Waters,RepMaxineWaters,MaxineWaters,,CA,D,-0.65181,House
+Jody Hice,CongressmanHice,JodyHice,,GA,R,-0.65629,House
+Robert Aderholt,Robert_Aderholt,,,AL,R,-0.65654,House
+Ralph Abraham,DocAbraham,RepAbraham,,LA,R,-0.66306,House
+Bill Flores,RepBillFlores,,,TX,R,-0.66924,House
+Debbie Mucarsel-Powell,DebbieforFL,RepDMP,,FL,D,-0.67368,House
+Nanette Barragan,RepBarragan,Nanette4CA,,CA,D,-0.68814,House
+John Shimkus,JohnMShimkus,RepShimkus,,IL,R,-0.69042,House
+Alex Mooney,RepAlexMooney,MooneyforWV,,WV,R,-0.6997,House
+Nita Lowey,NitaLowey,,,NY,D,-0.71495,House
+Greg Murphy,RepGregMurphy,,,NC,R,-0.71649,House
+Steven Horsford,RepHorsford,StevenHorsford,,NV,D,-0.72214,House
+Hal Rogers,RepHalRogers,,,KY,R,-0.72686,House
+Ralph Norman,RalphNorman,RepRalphNorman,,SC,R,-0.73072,House
+John Joyce,RepJohnJoyce,JohnJoyceForPA,,PA,R,-0.73164,House
+John Lewis,repjohnlewis,,,GA,D,-0.73904,House
+Bonnie Watson Coleman,RepBonnie,,,NJ,D,-0.78639,House
+Steve Womack,rep_stevewomack,womack4congress,,AR,R,-0.79518,House
+Kevin Brady,bradyfortexas,RepKevinBrady,,TX,R,-0.81002,House
+Jimmy Gomez,RepJimmyGomez,JimmyGomezCA,,CA,D,-0.83313,House
+Juan Vargas,RepJuanVargas,,,CA,D,-0.83814,House
+Pramila Jayapal,RepJayapal,PramilaJayapal,,WA,D,-0.86177,House
+Jahana Hayes,JahanaHayesCT,RepJahanaHayes,,CT,D,-0.86652,House
+Rick Crawford,RepRickCrawford,,,AR,R,-0.87285,House
+Jeff Duncan,RepJeffDuncan,Duncan4Congress,,SC,R,-0.88446,House
+Warren Davidson,WarrenDavidson,Vote_Davidson,,OH,R,-0.93594,House
+Chip Roy,chiproytx,RepChipRoy,,TX,R,-0.94616,House
+Ken Buck,RepKenBuck,BuckForColorado,,CO,R,-0.95169,House
+Rashida Tlaib,RashidaTlaib,RepRashida,,MI,D,-1.00756,House
+Frederica Wilson,RepWilson,,,FL,D,-1.02535,House
+Andy Biggs,andybiggs4az,RepAndyBiggsAZ,,AZ,R,-1.05869,House
+Steve King,SteveKingIA,KingforCongress,,IA,R,-1.05905,House
+Steny Hoyer,StenyHoyer,LeaderHoyer,,MD,D,-1.08017,House
+Russ Fulcher,RepRussFulcher,RussFulcher,,ID,R,-1.08977,House
+Chuy Garcia,RepChuyGarcia,ChuyForCongress,,IL,D,-1.13248,House
+Liz Cheney,RepLizCheney,Liz_Cheney,,WY,R,-1.13521,House
+Scott Desjarlais,tndesjarlais,DesJarlaisTN04,,TN,R,-1.14864,House
+Adam Schiff,RepAdamSchiff,AdamSchiff,,CA,D,-1.1523,House
+Ilhan Omar,Ilhan,IlhanMN,,MN,D,-1.17031,House
+Dan Bishop,RepDanBishop,,,NC,R,-1.24251,House
+Ayanna Pressley,AyannaPressley,RepPressley,,MA,D,-1.24848,House
+Alexandria Ocasio-Cortez,AOC,RepAOC,,NY,D,-1.2585,House
+Tom McClintock,RepMcClintock,tommcclintock,,CA,R,-1.26454,House
+Michael Cloud,MichaelJCloud,RepCloudTX,,TX,R,-1.27429,House
+John Rose,RepJohnRose,JohnRoseforTN,,TN,R,-1.28081,House
+Louie Gohmert,replouiegohmert,LouieGohmertTX1,,TX,R,-1.34767,House
+Mo Brooks,RepMoBrooks,,,AL,R,-1.35791,House
+Mike Johnson,RepMikeJohnson,MikeJohnson,,LA,R,-1.3601,House
+Steve Scalise,SteveScaliseGOP,SteveScalise,,LA,R,-1.40137,House
+Jim Jordan,Jim_Jordan,,,OH,R,-1.47887,House
+Rick Allen,RepRickAllen,rickallen,,GA,R,-1.53762,House
+Gary Palmer,Palmer4Alabama,USRepGaryPalmer,,AL,R,-1.76249,House
+Kevin McCarthy,kevinomccarthy,GOPLeader,,CA,R,,House
+Nancy Pelosi,TeamPelosi,SpeakerPelosi,,CA,D,,House
+Chuck Schumer,SenSchumer,chuckschumer,,NY,D,,Senate
+Mitch McConnell,McConnellPress,senatemajldr,,KY,R,,Senate
+Kay Granger,RepKayGranger,,,TX,R,,House
+Walter Jones,RepWalterJones,,,NC,R,,House
+Alcee Hastings,,,,FL,D,0.13091,House
